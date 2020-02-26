@@ -1,0 +1,4405 @@
+Adams Resources & Energy, Inc.
+Aberdeen Emerging Markets Equity Income Fund, Inc.
+Asanko Gold Inc.
+Ampio Pharmaceuticals, Inc.
+Auryn Resources Inc.
+Alexco Resource Corp.
+Bancroft Fund Ltd.
+Bar Harbor Bankshares
+Bioceres Crop Solutions Corp.
+Bluerock Residential Growth REIT, Inc.
+B2Gold Corp.
+Chase Corporation
+Condor Hospitality Trust, Inc.
+Central Securities Corp.
+Credit Suisse Asset Management Income Fund, Inc.
+CompX International Inc.
+Cornerstone Strategic Value Fund, Inc.
+Cornerstone Total Return Fund, Inc.
+CRH Medical Corporation
+CorMedix, Inc.
+Consolidated-Tomoka Land Co.
+CEL-SCI Corporation
+Credit Suisse High Yield Bond Fund, Inc.
+Delta Apparel, Inc.
+BNY Mellon Municipal Income, Inc.
+Denison Mines Corp.
+Wells Fargo Advantage Funds - Wells Fargo Income Opportunities Fund
+Ellsworth Growth and Income Fund Ltd.
+Eaton Vance Municipal Bond Fund
+Ellomay Capital Ltd.
+EMX Royalty Corporation
+Eaton Vance New York Municipal Bond Fund
+Evolution Petroleum Corporation
+Equinox Gold Corp.
+Wells Fargo Advantage Multi-Sector Income Fund
+Wells Fargo Advantage Utilities and High Income Fund
+Evans Bancorp, Inc.
+EVI Industries, Inc.
+Eaton Vance California Municipal Bond Fund
+Eaton Vance Limited Duration Income Fund
+Aberdeen Asia-Pacific Income Fund, Inc.
+First Trust Energy Income and Growth Fund
+Franklin Street Properties Corp.
+Franklin Limited Duration Income Trust
+Goodrich Petroleum Corporation
+GAMCO Global Gold, Natural Resources & Income Trust
+Clough Global Opportunities Fund
+Clough Global Equity Fund
+The Gabelli Global Utility & Income Trust
+Gold Resource Corporation
+Great Panther Mining Limited
+Globalstar, Inc.
+GlobalSCAPE, Inc.
+Golden Star Resources Ltd.
+Gold Standard Ventures Corp
+Gran Tierra Energy Inc.
+Pioneer Diversified High Income Trust
+Aberdeen Australia Equity Fund, Inc.
+Impac Mortgage Holdings, Inc.
+Imperial Oil Limited
+InfuSystem Holdings Inc.
+Intelligent Systems Corporation
+Kaleyra, Inc.
+Lineage Cell Therapeutics, Inc.
+Cheniere Energy, Inc.
+MAG Silver Corp.
+Contango Oil & Gas Company
+Mastech Digital, Inc.
+Maverix Metals Inc.
+Metalla Royalty & Streaming Ltd.
+Matinas BioPharma Holdings, Inc.
+Northern Dynasty Minerals Ltd.
+Neuberger Berman Intermediate Municipal Fund Inc.
+NovaGold Resources Inc.
+New Gold Inc.
+National HealthCare Corporation
+Neuberger Berman High Yield Strategies Fund Inc.
+Neuberger Berman MLP and Energy Income Fund Inc.
+Northern Oil and Gas, Inc.
+Neuberger Berman Real Estate Securities Income Fund Inc.
+NexGen Energy Ltd.
+OncoCyte Corporation
+PEDEVCO Corp.
+Pfenex Inc.
+BiomX Inc.
+Platinum Group Metals Ltd.
+PolyMet Mining Corp.
+Plymouth Industrial REIT, Inc.
+Park National Corporation
+Palatin Technologies, Inc.
+Ring Energy, Inc.
+RMR Real Estate Income Fund
+Radiant Logistics, Inc.
+Sandstorm Gold Ltd.
+Standard Diversified Inc.
+Seaboard Corporation
+Senseonics Holdings, Inc.
+SilverCrest Metals Inc.
+Sierra Metals Inc.
+Stereotaxis, Inc.
+Silvercorp Metals Inc.
+Taseko Mines Limited
+Tompkins Financial Corporation
+Trilogy Metals Inc.
+Trinity Place Holdings Inc.
+Uranium Energy Corp.
+Americas Gold and Silver Corporation
+Reaves Utility Income Fund
+Energy Fuels Inc.
+VirnetX Holding Corp
+Invesco Advantage Municipal Income Trust II
+Delaware Investments Minnesota Municipal Income Fund II, Inc.
+VolitionRx Limited
+22nd Century Group, Inc.
+AdvisorShares Trust - AdvisorShares Dorsey Wright ADR ETF
+iShares Trust - iShares Agency Bond ETF
+iShares Trust - iShares Core Aggressive Allocation ETF
+iShares Trust - iShares Core Conservative Allocation ETF
+iShares Trust - iShares Core Moderate Allocation ETF
+Global X Funds - Global X Adaptive U.S. Factor ETF
+American Century ETF Trust - Avantis International Equity ETF
+American Century ETF Trust - Avantis Emerging Markets Equity ETF
+American Century ETF Trust - Avantis U.S. Equity ETF
+Tidal ETF Trust - Aware Ultra-Short Duration Enhanced Income ETF
+GraniteShares Gold Trust
+Aberdeen Standard Investments ETFs - Aberdeen Standard Bloomberg All Commodity Strategy K-1 Free ETF
+ALPS ETF Trust - Barron's 400 ETF
+Northern Lights Fund Trust IV - Inspire Global Hope ETF
+Amplify ETF Trust - Amplify Transformational Data Sharing ETF
+PIMCO ETF Trust - PIMCO Active Bond Exchange-Traded Fund
+AGF Investments Trust - AGFiQ U.S. Market Neutral Anti-Beta Fund
+SPDR Series Trust - SPDR Bloomberg Barclays Short Term International Treasury Bond ETF
+iShares Trust - iShares Yield Optimized Bond ETF
+Listed Funds Trust - Core Alternative ETF
+Invesco Exchange-Traded Fund Trust II - Invesco Treasury Collateral ETF
+iShares Trust - iShares CMBS ETF
+iShares Trust - iShares California Muni Bond ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P Spin-Off ETF
+Invesco Exchange-Traded Fund Trust II - Invesco MSCI Global Timber ETF
+Invesco Exchange-Traded Fund Trust - Invesco Zacks Multi-Asset Income ETF
+SPDR Series Trust - SPDR Bloomberg Barclays Convertible Securities ETF
+Invesco Exchange-Traded Fund Trust - Invesco Zacks Mid-Cap ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco Defensive Equity ETF
+Columbia ETF Trust I - Columbia Diversified Fixed Income Allocation ETF
+WisdomTree Trust - WisdomTree International MidCap Dividend Fund
+WisdomTree Trust - WisdomTree Global ex-U.S. Quality Dividend Growth Fund
+WisdomTree Trust - WisdomTree Global ex-U.S. Real Estate Fund
+WisdomTree Trust - WisdomTree International High Dividend Fund
+VelocityShares 3x Inverse Crude Oil ETN
+Columbia ETF Trust II - Columbia Emerging Markets Consumer ETF
+SPDR Index Shares Funds - SPDR S&P Emerging Markets Dividend ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P Emerging Markets Low Volatility ETF
+iShares, Inc. - iShares MSCI Emerging Markets Small-Cap ETF
+SPDR Index Shares Funds - SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF
+SPDR Index Shares Funds - SPDR MSCI EAFE Fossil Fuel Reserves Free ETF
+First Trust Exchange-Traded Fund IV - First Trust North American Energy Infrastructure Fund
+Invesco Exchange-Traded Fund Trust II - Invesco Russell 1000 Equal Weight ETF
+ALPS ETF Trust - ALPS Equal Sector Weight ETF
+Fidelity Merrimack Street Trust - Fidelity Total Bond ETF
+Fidelity Covington Trust - Fidelity MSCI Communication Services Index ETF
+Fidelity Merrimack Street Trust - Fidelity Corporate Bond ETF
+Fidelity Covington Trust - Fidelity High Yield Factor ETF
+Fidelity Covington Trust - Fidelity MSCI Consumer Discretionary Index ETF
+Fidelity Covington Trust - Fidelity Momentum Factor ETF
+Fidelity Covington Trust - Fidelity High Dividend ETF
+Fidelity Covington Trust - Fidelity MSCI Energy Index ETF
+Fidelity Covington Trust - Fidelity MSCI Health Care Index ETF
+Fidelity Covington Trust - Fidelity MSCI Industrials Index ETF
+ETF Series Solutions - Defiance Next Gen Connectivity ETF
+Franklin Templeton ETF Trust - Franklin Liberty U.S. Core Bond ETF
+Franklin Templeton ETF Trust - Franklin Liberty Investment Grade Corporate ETF
+Franklin Templeton ETF Trust - Franklin LibertyQ Emerging Markets ETF
+Fidelity Merrimack Street Trust - Fidelity Limited Term Bond ETF
+Fidelity Covington Trust - Fidelity MSCI Materials Index ETF
+Fidelity Covington Trust - Fidelity MSCI Financials Index ETF
+Schwab Strategic Trust - Schwab Fundamental U.S. Small Company Index ETF
+Schwab Strategic Trust - Schwab Fundamental U.S. Broad Market Index ETF
+Schwab Strategic Trust - Schwab Fundamental International Small Company Index ETF
+Schwab Strategic Trust - Schwab Fundamental Emerging Markets Large Company Index ETF
+Schwab Strategic Trust - Schwab Fundamental International Large Company Index ETF
+Schwab Strategic Trust - Schwab Fundamental U.S. Large Company Index ETF
+First Trust Exchange-Traded Fund III - First Trust Institutional Preferred Securities and Income ETF
+Fidelity Covington Trust - Fidelity MSCI Real Estate Index ETF
+First Trust Exchange-Traded Fund - First Trust S&P REIT Index Fund
+Fidelity Covington Trust - Fidelity MSCI Consumer Staples Index ETF
+Fidelity Covington Trust - Fidelity MSCI Information Technology Index ETF
+First Trust Exchange-Traded Fund III - First Trust Long/Short Equity ETF
+Franklin ETF Trust - Franklin Liberty Short Duration U.S. Government ETF
+Fidelity Covington Trust - Fidelity MSCI Utilities Index ETF
+SSGA Active Trust - SPDR SSGA Global Allocation ETF
+iShares Trust - iShares Government/Credit Bond ETF
+WisdomTree Continuous Commodity Index Fund
+SPDR Index Shares Funds - SPDR S&P Global Infrastructure ETF
+World Gold Trust - SPDR Gold MiniShares Trust
+Aberdeen Standard Physical Precious Metals Basket Shares ETF
+SPDR Index Shares Funds - SPDR S&P Global Natural Resources ETF
+FlexShares Trust - FlexShares Global Quality Real Estate Index Fund
+Invesco Actively Managed Exchange-Traded Fund Trust - Invesco Total Return Bond ETF
+FlexShares Trust - FlexShares Morningstar Global Upstream Natural Resources Index Fund
+SPDR Index Shares Funds - SPDR S&P International Small Cap ETF
+DBX ETF Trust - Xtrackers International Real Estate ETF
+DBX ETF Trust - Xtrackers MSCI EAFE High Dividend Yield Equity ETF
+AdvisorShares Trust - AdvisorShares Ranger Equity Bear ETF
+First Trust Horizon Managed Volatility Developed International ETF
+IndexIQ ETF Trust - IQ 50 Percent Hedged FTSE International ETF
+Hartford Exchange-Traded Funds - Hartford Municipal Opportunities ETF
+Hartford Exchange-Traded Fund - Hartford Total Return Bond ETF
+First Trust Exchange-Traded Fund III - First Trust Horizon Managed Volatility Domestic ETF
+DBX ETF Trust - Xtrackers Low Beta High Yield Bond ETF
+iShares U.S. ETF Trust - iShares Interest Rate Hedged High Yield Bond ETF
+FlexShares Trust - FlexShares High Yield Value-Scored Bond Index Fund
+Exchange Listed Funds Trust - High Yield ETF
+SPDR Series Trust - SPDR Nuveen Bloomberg Barclays High Yield Municipal Bond ETF
+Northern Lights Fund Trust IV - Inspire Corporate Bond Impact ETF
+iShares Trust - iShares iBonds Mar 2020 Term Corporate ETF
+iShares Trust - iShares iBonds Dec 2028 Term Corporate ETF
+iShares Trust - iShares iBonds Sep 2020 Term Muni Bond ETF
+iShares Trust - iShares iBonds Dec 2021 Term Muni Bond ETF
+iShares Trust - iShares iBonds Dec 2022 Term Muni Bond ETF
+SPDR Series Trust - SPDR Bloomberg Barclays International Corporate Bond ETF
+iShares Trust - iShares Core MSCI International Developed Markets ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P International Developed Low Volatility ETF
+ALPS ETF Trust - ALPS International Sector Dividend Dogs ETF
+Principal Exchange-Traded Funds - Principal Investment Grade Corporate Active ETF
+iShares Trust - iShares Expanded Tech Sector ETF
+iShares Trust - iShares Core 5-10 Year USD Bond ETF
+iShares Trust - iShares Edge MSCI Intl Momentum Factor ETF
+Columbia ETF Trust II - Columbia India Consumer ETF
+SSGA Active Trust - SPDR SSGA Income Allocation ETF
+FlexShares Trust - FlexShares International Quality Dividend Index Fund
+IndexIQ ETF Trust - IQ 500 International ETF
+iShares Trust - iShares Edge MSCI Intl Quality Factor ETF
+iShares Trust - iShares Edge MSCI Multifactor Intl Small-Cap ETF
+iShares Trust - iShares Edge MSCI Intl Value Factor ETF
+Vanguard Admiral Funds - Vanguard S&P Mid-Cap 400 Growth ETF
+Vanguard Admiral Funds - Vanguard S&P Mid-Cap 400 ETF
+iShares Trust - iShares Russell Top 200 ETF
+iShares Trust - iShares Russell Top 200 Value ETF
+iShares Trust - iShares Russell Top 200 Growth ETF
+J.P. Morgan Exchange-Traded Funds - JPMorgan U.S. Aggregate Bond ETF
+iShares Trust - iShares Morningstar Large-Cap ETF
+iShares Trust - iShares Morningstar Large-Cap Growth ETF
+iShares Trust - iShares Morningstar Large-Cap Value ETF
+iShares Trust - iShares Morningstar Mid-Cap ETF
+iShares Trust - iShares Morningstar Mid-Cap Growth ETF
+iShares Trust - iShares Morningstar Small-Cap ETF
+iShares Trust - iShares Morningstar Small-Cap Growth ETF
+iShares Trust - iShares Morningstar Small-Cap Value ETF
+Janus Detroit Street Trust - Janus Henderson Mortgage-Backed Securities ETF
+Goldman Sachs ETF Trust - Goldman Sachs JUST U.S. Large Cap Equity ETF
+Exchange Listed Funds Trust - Knowledge Leaders Developed World ETF
+SPDR Series Trust - SPDR S&P Kensho New Economies Composite ETF
+American Century ETF Trust - American Century Diversified Corporate Bond ETF
+iShares Trust - iShares MSCI Saudi Arabia ETF
+PIMCO ETF Trust - PIMCO Enhanced Low Duration Active Exchange-Traded Fund
+SPDR Series Trust - SPDR SSGA US Large Cap Low Volatility Index ETF
+iShares U.S. ETF Trust - iShares Interest Rate Hedged Corporate Bond ETF
+PIMCO ETF Trust - PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund
+SPDR S&P MidCap 400 ETF Trust
+PIMCO Equity Series - PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF
+PIMCO Equity Series - PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF
+PIMCO ETF Trust - PIMCO Enhanced Short Maturity Active Exchange-Traded Fund
+PIMCO ETF Trust - PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund
+ProShares Trust - ProShares Ultra MidCap400
+ETF Series Solutions - Nationwide Maximum Diversification U.S. Core Equity ETF
+SPDR Index Shares Funds - SPDR S&P North American Natural Resources ETF
+FlexShares Trust - FlexShares STOXX Global Broad Infrastructure Index Fund
+iShares Trust - iShares New York Muni Bond ETF
+ETF Series Solutions - ClearShares OCIO ETF
+SPDR Series Trust - SPDR Russell 1000 Momentum Focus ETF
+SPDR Series Trust - SPDR Russell 1000 Low Volatility Focus ETF
+SPDR Series Trust - SPDR Russell 1000 Yield Focus ETF
+VanEck Merk Gold Trust
+OSI ETF Trust - O'Shares FTSE U.S. Quality Dividend ETF
+OSI ETF Trust - O'Shares FTSE Russell Small Cap Quality Dividend ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 BuyWrite ETF
+Invesco Exchange-Traded Fund Trust II - Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF
+ETFis Series Trust I - Virtus InfraCap U.S. Preferred Stock ETF
+Invesco Exchange-Traded Fund Trust - Invesco Financial Preferred ETF
+Invesco Exchange-Traded Fund Trust II - Invesco Global Short Term High Yield Bond ETF
+Sprott Physical Gold Trust
+Invesco Exchange-Traded Fund Trust II - Invesco International Corporate Bond ETF
+Invesco Exchange-Traded Fund Trust - Invesco Dynamic Pharmaceuticals ETF
+Invesco Exchange-Traded Fund Trust - Invesco Dynamic Building & Construction ETF
+ETF Series Solutions - PPTY - U.S. Diversified Real Estate ETF
+Invesco Exchange-Traded Fund Trust - Invesco FTSE RAFI US 1000 ETF
+Invesco Exchange-Traded Fund Trust - Invesco Dynamic Semiconductors ETF
+Invesco Exchange-Traded Fund Trust - Invesco Dynamic Software ETF
+Invesco Actively Managed Exchange-Traded Fund Trust - Invesco Active U.S. Real Estate ETF
+Pacer Funds Trust - Pacer Trendpilot International ETF
+PGIM ETF Trust - PGIM Ultra Short Bond ETF
+Invesco Exchange-Traded Fund Trust - Invesco Dynamic Large Cap Growth ETF
+Invesco Exchange-Traded Fund Trust - Invesco Dynamic Market ETF
+Invesco Exchange-Traded Fund Trust II - Invesco California AMT-Free Municipal Bond ETF
+Invesco Exchange-Traded Fund Trust II - Invesco FTSE RAFI Developed Markets ex-U.S. ETF
+Invesco Exchange-Traded Fund Trust II - Invesco National AMT-Free Municipal Bond ETF
+IndexIQ ETF Trust - IQ Hedge Multi-Strategy Tracker ETF
+DBX ETF Trust - Xtrackers Russell 1000 US Quality at a Reasonable Price ETF
+FlexShares Trust - FlexShares Quality Dividend Defensive Index Fund
+FlexShares Trust - FlexShares Quality Dividend Index Fund
+American Century ETF Trust - American Century STOXX U.S. Quality Growth ETF
+American Century ETF Trust - American Century Quality Diversified International ETF
+Direxion Shares ETF Trust - Direxion NASDAQ-100 Equal Weighted Index Shares
+FlexShares Trust - FlexShares Ready Access Variable Income Fund
+ETF Series Solutions - Nationwide Risk-Based International Equity ETF
+ETF Series Solutions - Nationwide Risk-Based U.S. Equity ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Consumer Discretionary ETF
+iShares Trust - iShares Global REIT ETF
+ALPS ETF Trust - Riverfront Dynamic Core Income ETF
+ALPS ETF Trust - RiverFront Dynamic US Dividend Advantage ETF
+ALPS ETF Trust - RiverFront Dynamic US Flex-Cap ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P MidCap 400 Pure Growth ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P MidCap 400 Pure Value ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Industrials ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Consumer Staples ETF
+ALPS ETF Trust - Riverfront Strategic Income Fund
+Lattice Strategies Trust - Hartford Multifactor Developed Markets (ex-US) ETF
+Lattice Strategies Trust - Hartford Multifactor US Equity ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Materials ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P 500 Revenue ETF
+ProShares Trust - ProShares Short Russell2000
+ProShares Trust - ProShares Ultra Health Care
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Energy ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Financials ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Health Care ETF
+Invesco Exchange-Traded Fund Trust - Invesco Raymond James SB-1 Equity ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Technology ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Equal Weight Utilities ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P SmallCap 600 Pure Growth ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P SmallCap 600 Pure Value ETF
+Schwab Strategic Trust - Schwab U.S. Small-Cap ETF
+Schwab Strategic Trust - Schwab U.S. Broad Market ETF
+Schwab Strategic Trust - Schwab International Small-Cap Equity ETF
+Schwab Strategic Trust - Schwab U.S. Dividend Equity ETF
+Schwab Strategic Trust - Schwab U.S. Large-Cap Growth ETF
+Schwab Strategic Trust - Schwab U.S. REIT ETF
+Schwab Strategic Trust - Schwab 1000 Index ETF
+Schwab Strategic Trust - Schwab U.S. Mid-Cap ETF
+Schwab Strategic Trust - Schwab Short-Term U.S. Treasury ETF
+Schwab Strategic Trust - Schwab U.S. TIPS ETF
+Schwab Strategic Trust - Schwab U.S. Large-Cap ETF
+Schwab Strategic Trust - Schwab U.S. Aggregate Bond ETF
+Global X Funds - Global X Scientific Beta U.S. ETF
+ALPS ETF Trust - ALPS Sector Dividend Dogs ETF
+SPDR Series Trust - SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF
+iShares Trust - iShares Edge MSCI Multifactor USA Small-Cap ETF
+SPDR Series Trust - SPDR SSGA US Small Cap Low Volatility Index ETF
+PIMCO ETF Trust - PIMCO Short Term Municipal Bond Active Exchange-Traded Fund
+DBX ETF Trust - Xtrackers S&P 500 ESG ETF
+SPDR Series Trust - SPDR Portfolio Corporate Bond ETF
+SPDR Index Shares Funds - SPDR Portfolio MSCI Global Stock Market ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 GARP ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P 500 High Beta ETF
+SPDR Series Trust - SPDR Portfolio S&P 500 ETF
+SPDR Series Trust - SPDR Portfolio Mortgage Backed Bond ETF
+Sprott Physical Platinum and Palladium Trust
+SPDR Series Trust - SPDR S&P 500 Fossil Fuel Reserves Free ETF
+SSGA Active Trust - SPDR Blackstone / GSO Senior Loan ETF
+Pacer Funds Trust - Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF
+ProShares Trust - ProShares Ultra S&P500
+iShares Trust - iShares Short-Term National Muni Bond ETF
+Amplify ETF Trust - Amplify BlackSwan Growth & Treasury Core ETF
+Pacer Funds Trust - Pacer CFRA-Stovall Equal Weight Seasonal Rotation Index ETF
+FlexShares Trust - FlexShares iBoxx 5-Year Target Duration TIPS Index Fund
+FlexShares Trust - FlexShares iBoxx 3-Year Target Duration TIPS Index Fund
+SPDR Series Trust - SPDR Nuveen Bloomberg Barclays Municipal Bond ETF
+iShares Trust - iShares Treasury Floating Rate Bond ETF
+SPDR Series Trust - SPDR Bloomberg Barclays 1-10 Year TIPS ETF
+FlexShares Trust - FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund
+FlexShares Trust - FlexShares Morningstar Emerging Markets Factor Tilt Index Fund
+iShares Trust - iShares MSCI Kokusai ETF
+ProShares Trust - ProShares DJ Brookfield Global Infrastructure ETF
+SSGA Active Trust - SPDR DoubleLine Total Return Tactical ETF
+Managed Portfolio Series - Tortoise North American Pipeline Fund
+ProShares Trust II - ProShares Ultra Bloomberg Crude Oil
+First Trust Exchange-Traded Fund VIII - First Trust TCW Unconstrained Plus Bond ETF
+Victory Portfolios II - VictoryShares USAA MSCI Emerging Markets Value Momentum ETF
+Victory Portfolios II - VictoryShares USAA Core Intermediate-Term Bond ETF
+Victory Portfolios II - VictoryShares USAA MSCI International Value Momentum ETF
+SSGA Active Trust - SPDR SSGA Ultra Short Term Bond ETF
+Victory Portfolios II - VictoryShares USAA MSCI USA Value Momentum ETF
+ProShares Trust - ProShares UltraPro S&P500
+DBX ETF Trust - Xtrackers MSCI USA ESG Leaders Equity ETF
+Victory Portfolios II - VictoryShares USAA MSCI USA Small Cap Value Momentum ETF
+VelocityShares 3x Long Crude Oil ETN
+American Century ETF Trust - American Century STOXX U.S. Quality Value ETF
+Janus Detroit Street Trust - Janus Henderson Short Duration Income ETF
+ETFis Series Trust I - Virtus Private Credit Strategy ETF
+ETFs Series Trust I - Virtus Real Asset Income ETF
+Invesco Exchange-Traded Fund Trust II - Invesco Variable Rate Preferred ETF
+Vanguard Municipal Bond Funds - Vanguard Tax-Exempt Bond ETF
+SPDR Index Shares Funds - SPDR S&P Global Dividend ETF
+iShares Trust - iShares International Developed Property ETF
+WisdomTree Trust - WisdomTree Managed Futures Strategy Fund
+Invesco Exchange-Traded Fund Trust - Invesco S&P 500 Top 50 ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P MidCap Low Volatility ETF
+Invesco Exchange-Traded Fund Trust - Invesco S&P MidCap Momentum ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P SmallCap Low Volatility ETF
+SPDR Series Trust - SPDR S&P Software & Services ETF
+Principal Exchange-Traded Funds - Principal Active Income ETF
+PIMCO ETF Trust - PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund
+ALPS ETF Trust - ALPS Clean Energy ETF
+ARK ETF Trust - ARK Autonomous Technology & Robotics ETF
+Innovator ETFs Trust - Innovator S&P 500 Buffer ETF - January
+Innovator ETFs Trust - Innovator S&P 500 Buffer ETF - October
+Cboe Global Markets, Inc.
+Pacer Funds Trust - Pacer US Cash Cows 100 ETF
+ProShares Trust - ProShares Large Cap Core Plus
+ETF Series Solutions - Aptus Defined Risk ETF
+ProShares Trust - ProShares MSCI EAFE Dividend Growers ETF
+iShares Trust - iShares MSCI United Kingdom Small-Cap ETF
+Northern Lights Fund Trust IV - FormulaFolios Tactical Income ETF
+Fidelity Merrimack Street Trust - Fidelity Low Duration Bond Factor ETF
+Pacer Funds Trust - Pacer Global Cash Cows Dividend ETF
+Principal Exchange-Traded Funds - Principal Active Global Dividend Income ETF
+iShares, Inc. - iShares US & Intl High Yield Corp Bond ETF
+Cambria ETF Trust - Cambria Global Momentum ETF
+VanEck Vectors ETF Trust - VanEck Vectors High-Yield Municipal Index ETF
+ProShares Trust - ProShares High Yield - Interest Rate Hedged
+iShares Trust - iShares Core International Aggregate Bond ETF
+iShares Trust - iShares iBonds Dec 2023 Term Muni Bond ETF
+iShares Trust - iShares iBonds Dec 2024 Term Muni Bond ETF
+iShares U.S. ETF Trust - iShares Ultra Short-Term Bond ETF
+iShares Trust - iShares Convertible Bond ETF
+ProShares Trust - ProShares Investment Grade - Interest Rate Hedged
+WisdomTree Trust - WisdomTree International Quality Dividend Growth Fund
+Alpha Architect ETF Trust - Alpha Architect International Quantitative Value ETF
+iShares Trust - iShares Morningstar Multi-Asset Income ETF
+J.P. Morgan Exchange-Traded Fund Trust - JPMorgan Ultra-Short Municipal Income ETF
+J.P. Morgan Exchange-Traded Fund Trust - JPMorgan Global Bond Opportunities ETF
+J.P. Morgan Exchange-Traded Fund Trust - JPMorgan High Yield Research Enhanced ETF
+J.P. Morgan Exchange-Traded Fund Trust - JPMorgan Ultra-Short Income ETF
+Innovator ETFs Trust II - Innovator Lunt Low Vol/High Beta Tactical ETF
+iShares U.S. ETF Trust - iShares Short Maturity Municipal Bond ETF
+NuShares ETF Trust - Nuveen ESG Large-Cap Growth ETF
+NuShares ETF Trust - Nuveen ESG Large-Cap Value ETF
+NuShares ETF Trust - Nuveen ESG Small-Cap ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco Russell 1000 Dynamic Multifactor ETF
+Innovator ETFs Trust - Innovator S&P 500 Power Buffer ETF - August
+Innovator ETFs Trust - Innovator S&P 500 Power Buffer ETF - January
+Innovator ETFs Trust - Innovator S&P 500 Power Buffer ETF - October
+Pacer Funds Trust - Pacer Trendpilot European Index ETF
+Pacer Funds Trust - Pacer Trendpilot US Large Cap ETF
+Pacer Funds Trust - Pacer Trendpilot US Mid Cap ETF
+Pacer Funds Trust - Pacer Trendpilot 100 ETF
+Alpha Architect ETF Trust - Alpha Architect U.S. Quantitative Value ETF
+ProShares Trust - ProShares S&P Midcap 400 Dividend Aristocrats ETF
+Northern Lights Fund Trust IV - Main Sector Rotation ETF
+ProShares Trust - ProShares Russell 2000 Dividend Growers ETF
+iShares Trust - iShares Edge MSCI Min Vol USA Small-Cap ETF
+SSGA Active Trust - SPDR DoubleLine Short Term Total Return Tactical ETF
+Cambria ETF Trust - Cambria Shareholder Yield ETF
+FlexShares Trust - FlexShares Morningstar US Market Factor Tilt Index Fund
+Trimtabs ETF Trust - TrimTabs All Cap U.S. Free-Cash-Flow ETF
+Innovator ETFs Trust - Innovator S&P 500 Ultra Buffer ETF - October
+iShares Trust - iShares Broad USD High Yield Corporate Bond ETF
+Vanguard Wellington Fund - Vanguard U.S. Multifactor ETF
+Vanguard Wellington Fund - Vanguard U.S. Minimum Volatility ETF
+SharesPost 100 Fund
+SharesPost 100 Fund
+Griffin Capital Essential Asset REIT II, Inc.
+Abeona Therapeutics Inc.
+Acamar Partners Acquisition Corp.
+ACNB Corporation
+Agenus Inc.
+AGM Group Holdings Inc.
+Agile Therapeutics, Inc.
+AdaptHealth Corp.
+Airgain, Inc.
+Akoustis Technologies, Inc.
+Albireo Pharma, Inc.
+Aldeyra Therapeutics, Inc.
+Allegro Merger Corp.
+Alerus Financial Corporation
+Alithya Group Inc.
+Apollo Medical Holdings, Inc.
+Amplitude Healthcare Acquisition Corporation
+Digital Turbine, Inc.
+Aptose Biosciences Inc.
+Apex Technology Acquisition Corporation
+ARYA Sciences Acquisition Corp.
+Asure Software, Inc.
+Anterix Inc.
+Athersys, Inc.
+Ames National Corporation
+Antares Pharma, Inc.
+Avenue Therapeutics, Inc.
+Avalon GloboCare Corp.
+AVEO Pharmaceuticals, Inc.
+Anavex Life Sciences Corp.
+Accelerate Diagnostics, Inc.
+AxoGen, Inc.
+Concrete Pumping Holdings, Inc.
+Bank First Corporation
+Bank of South Carolina Corporation
+BioLife Solutions, Inc.
+Bank of Marin Bancorp
+Boston Omaha Corporation
+Brooge Holdings Limited
+Bogota Financial Corp.
+BioSig Technologies, Inc.
+BioXcel Therapeutics, Inc.
+Bridgewater Bancshares, Inc.
+BeyondSpring Inc.
+Carolina Financial Corporation
+CASI Pharmaceuticals, Inc.
+Cambridge Bancorp
+Catasys, Inc.
+China Customer Relations Centers, Inc.
+Centennial Resource Development, Inc.
+Avid Bioservices, Inc.
+ChromaDex Corporation
+Celcuity Inc.
+Celsius Holdings, Inc.
+Cerecor Inc.
+CF Finance Acquisition Corp.
+ContraFect Corporation
+CHP Merger Corp.
+Civista Bancshares, Inc.
+Century Casinos, Inc.
+ChoiceOne Financial Services, Inc.
+Mr. Cooper Group Inc.
+Corcept Therapeutics Incorporated
+Conyers Park II Acquisition Corp.
+Catalyst Pharmaceuticals, Inc.
+Crescent Acquisition Corp.
+Centric Brands Inc.
+Cytosorbents Corporation
+Cue Biopharma, Inc.
+Central Valley Community Bancorp
+Cryoport, Inc.
+Citizens & Northern Corporation
+Diamond Eagle Acquisition Corp.
+Denny's Corporation
+Daily Journal Corporation
+DermTech, Inc.
+DiamondPeak Holdings Corp.
+DURECT Corporation
+Daseke, Inc.
+Dynavax Technologies Corporation
+Dyadic International, Inc.
+DASAN Zhone Solutions, Inc.
+eGain Corporation
+Eagle Bancorp, Inc.
+Enochian Biosciences Inc.
+ESSA Pharma Inc.
+Esquire Financial Holdings, Inc.
+Establishment Labs Holdings Inc.
+Community Bankers Trust Corporation
+Evofem Biosciences, Inc.
+Exact Sciences Corporation
+Fortress Biotech, Inc.
+First Capital, Inc.
+First Choice Bancorp
+First Community Corporation
+Fennec Pharmaceuticals Inc.
+The First of Long Island Corporation
+Falcon Minerals Corporation
+Farmers & Merchants Bancorp, Inc.
+Farmers National Banc Corp.
+FNCB Bancorp, Inc.
+FONAR Corporation
+Franklin Financial Services Corporation
+Freedom Holding Corp.
+FS Bancorp, Inc.
+First Savings Financial Group, Inc.
+FinServ Acquisition Corp.
+FinTech Acquisition Corp. III
+FinTech Acquisition Corp. III
+FVCBankcorp, Inc.
+Five Star Senior Living Inc.
+First National Corporation
+Galectin Therapeutics, Inc.
+Greene County Bancorp, Inc.
+Galmed Pharmaceuticals Ltd.
+Gores Metropoulos, Inc.
+Genasys Inc.
+Green Brick Partners, Inc.
+GrowGeneration Corp.
+GTY Technology Holdings Inc.
+GWG Holdings, Inc.
+Happiness Biotech Group Limited
+Happiness Biotech Group Limited
+Howard Bancorp, Inc.
+Hennessy Capital Acquisition Corp. IV
+Hennessy Capital Acquisition Corp. IV
+Hebron Technology Co., Ltd.
+HF Foods Group Inc.
+Harrow Health, Inc.
+Heron Therapeutics, Inc.
+Heska Corporation
+Haymaker Acquisition Corp. II
+iCAD, Inc.
+IMV Inc.
+Immunovant, Inc.
+International Money Express, Inc.
+Inspired Entertainment, Inc.
+Identiv, Inc.
+Adesto Technologies Corporation
+IRadimed Corporation
+Iteris, Inc.
+The Joint Corp.
+Kindred Biosciences, Inc.
+Repro Med Systems, Inc.
+LCNB Corp.
+Lands' End, Inc.
+LF Capital Acquisition Corp.
+LifeVantage Corporation
+Lindblad Expeditions Holdings, Inc.
+LiqTech International, Inc.
+La Jolla Pharmaceutical Company
+Luokung Technology Corp.
+LMP Automotive Holdings, Inc.
+Limestone Bancorp, Inc.
+Liquidia Technologies, Inc.
+Luna Innovations Incorporated
+Middlefield Banc Corp.
+Marrone Bio Innovations, Inc.
+Merchants Bancorp
+Merida Merger Corp. I
+Madrigal Pharmaceuticals, Inc.
+The Meet Group, Inc.
+MEI Pharma, Inc.
+Mackinac Financial Corporation
+Mitek Systems, Inc.
+Millendo Therapeutics, Inc.
+MMA Capital Holdings, Inc.
+Monopar Therapeutics Inc.
+MainStreet Bancshares, Inc.
+Manitex International, Inc.
+Molecular Templates, Inc.
+Mudrick Capital Acquisition Corporation
+MVB Financial Corp.
+Nature's Sunshine Products, Inc.
+New Age Beverages Corporation
+NeuBase Therapeutics, Inc.
+Nicolet Bankshares, Inc.
+Nebula Acquisition Corporation
+NeoGenomics, Inc.
+Neptune Wellness Solutions Inc.
+National Energy Services Reunited Corp.
+NextDecade Corporation
+National Bankshares, Inc.
+NI Holdings, Inc.
+NeuroBo Pharmaceuticals, Inc.
+NVE Corporation
+NV5 Global, Inc.
+Nymox Pharmaceutical Corporation
+Oasis Petroleum Inc.
+Orion Energy Systems, Inc.
+Oconee Federal Financial Corp.
+Old Point Financial Corporation
+OptimizeRx Corporation
+Organogenesis Holdings Inc.
+Orrstown Financial Services, Inc.
+OneSpan Inc.
+OneSpaWorld Holdings Limited
+Oak Valley Bancorp
+Pure Acquisition Corp.
+Pangaea Logistics Solutions, Ltd.
+PaySign, Inc.
+PB Bancorp, Inc.
+Pioneer Bancorp, Inc.
+Points International Ltd.
+PCSB Financial Corporation
+Pure Cycle Corporation
+Perma-Fix Environmental Services, Inc.
+Pieris Pharmaceuticals, Inc.
+Parke Bancorp, Inc.
+Plumas Bancorp
+Pulse Biosciences, Inc.
+Plug Power Inc.
+PrimeEnergy Resources Corporation
+Profound Medical Corp.
+Purple Innovation, Inc.
+Priority Technology Holdings, Inc.
+PropTech Acquisition Corporation
+PolarityTE, Inc.
+People's Utah Bancorp
+Provident Bancorp, Inc.
+RADA Electronic Industries Ltd.
+Rhinebeck Bancorp, Inc.
+Reliant Bancorp, Inc.
+RADCOM Ltd.
+Reading International, Inc.
+Reading International, Inc.
+Red Violet, Inc.
+Recro Pharma, Inc.
+Relmada Therapeutics, Inc.
+Richmond Mutual Bancorporation, Inc.
+The RMR Group Inc.
+Repay Holdings Corporation
+Salisbury Bancorp, Inc.
+Software Acquisition Group Inc.
+Cassava Sciences, Inc.
+SB Financial Group, Inc.
+Sterling Bancorp, Inc. (Southfield, MI)
+SharpSpring, Inc.
+Select Interior Concepts, Inc.
+Siebert Financial Corp.
+Soleno Therapeutics, Inc.
+Simulations Plus, Inc.
+SmartFinancial, Inc.
+The Simply Good Foods Company
+Smith Micro Software, Inc.
+Soliton, Inc.
+Akazoo S.A.
+Sapiens International Corporation N.V.
+Sprout Social, Inc.
+Stable Road Acquisition Corp.
+Sorrento Therapeutics, Inc.
+Sutter Rock Capital Corp.
+ShotSpotter, Inc.
+The ONE Group Hospitality, Inc.
+Stemline Therapeutics, Inc.
+Standard AVB Financial Corp.
+Severn Bancorp, Inc.
+SWK Holdings Corporation
+Del Taco Restaurants, Inc.
+ArTara Therapeutics, Inc.
+The Community Financial Corporation
+Tucows Inc.
+Tellurian Inc.
+Pareteum Corporation
+Tecnoglass Inc.
+TG Therapeutics, Inc.
+Target Hospitality Corp.
+Theratechnologies Inc.
+Tiptree Inc.
+Hostess Brands, Inc.
+Tyme Technologies, Inc.
+UFP Technologies, Inc.
+United Insurance Holdings Corp.
+Value Line, Inc.
+VBI Vaccines Inc.
+Vericel Corporation
+Veru Inc.
+Vericity, Inc.
+Village Farms International, Inc.
+Viking Therapeutics, Inc.
+Viemed Healthcare, Inc.
+Verra Mobility Corporation
+VectoIQ Acquisition Corp.
+Wellesley Bancorp, Inc.
+G. Willi-Food International Ltd.
+Wins Finance Holdings Inc.
+Workhorse Group Inc.
+Wrap Technologies, Inc.
+WillScot Corporation
+Exicure, Inc.
+X4 Pharmaceuticals, Inc.
+XPEL, Inc.
+Yatra Online, Inc.
+Zynex, Inc.
+Applied Optoelectronics, Inc.
+Allegiance Bancshares, Inc.
+AC Immune SA
+ACM Research, Inc.
+AcelRx Pharmaceuticals, Inc.
+Advanced Emissions Solutions, Inc.
+ADMA Biologics, Inc.
+Adamas Pharmaceuticals, Inc.
+Invesco BLDRS Index Funds Trust - Invesco BLDRS Emerging Markets 50 ADR Index Fund
+Adverum Biotechnologies, Inc.
+Aerie Pharmaceuticals, Inc.
+Affimed N.V.
+Aeglea BioTherapeutics, Inc.
+Applied Genetic Technologies Corporation
+Akebia Therapeutics, Inc.
+Altus Midstream Company
+Amalgamated Bank
+Allied Motion Technologies Inc.
+ANI Pharmaceuticals, Inc.
+Applied Therapeutics, Inc.
+Aptorum Group Limited
+AppFolio, Inc.
+Appian Corporation
+Aquestive Therapeutics, Inc.
+Arcturus Therapeutics Holdings Inc.
+Ardelyx, Inc.
+Aspen Group, Inc.
+AtriCure, Inc.
+Auburn National Bancorporation, Inc.
+Aurinia Pharmaceuticals Inc.
+Axcella Health Inc.
+Axsome Therapeutics, Inc.
+BCB Bancorp, Inc.
+ProShares Trust - ProShares Ultra Nasdaq Biotechnology
+First Trust Exchange-Traded Fund II - First Trust BICK Index Fund
+Blue Bird Corporation
+Bellicum Pharmaceuticals, Inc.
+Ballard Power Systems Inc.
+Benefitfocus, Inc.
+Bank of Commerce Holdings
+Bridgford Foods Corporation
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2020 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2021 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2022 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2023 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2024 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2025 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2026 Corporate Bond ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2027 Corporate Bond ETF
+Invesco BulletShares 2020 High Yield Corporate Bond ETF
+Invesco BulletShares 2021 High Yield Corporate Bond ETF
+Invesco BulletShares 2022 High Yield Corporate Bond ETF
+Invesco BulletShares 2023 High Yield Corporate Bond ETF
+Invesco BulletShares 2024 High Yield Corporate Bond ETF
+Invesco BulletShares 2025 High Yield Corporate Bond ETF
+BioSpecifics Technologies Corp.
+Bankwell Financial Group, Inc.
+Legg Mason ETF Investment Trust - ClearBridge All Cap Growth ETF
+Camtek Ltd.
+Cara Therapeutics, Inc.
+Colony Bankcorp, Inc.
+CB Financial Services, Inc.
+Victory Portfolios II - VictoryShares US EQ Income Enhanced Volatility Wtd ETF
+Victory Portfolios II - VictoryShares US Large Cap High Div Volatility Wtd ETF
+Cardlytics, Inc.
+CareDx, Inc
+Cidara Therapeutics, Inc.
+Cadiz Inc.
+Cerus Corporation
+Victory Portfolios II - VictoryShares US 500 Volatility Wtd ETF
+Victory Portfolios II - VictoryShares US 500 Enhanced Volatility Wtd ETF
+Compugen Ltd.
+Coherus BioSciences, Inc.
+Citizens Holding Company
+Collectors Universe, Inc.
+Clearfield, Inc.
+IndexIQ ETF Trust - IQ Chaikin U.S. Large Cap ETF
+Clearside Biomedical, Inc.
+Calyxt, Inc.
+Cambium Networks Corporation
+CIM Commercial Trust Corporation
+Cumulus Media Inc.
+Chimerix, Inc.
+Concert Pharmaceuticals, Inc.
+Centogene N.V.
+iShares U.S. ETF Trust - iShares Commodities Select Strategy ETF
+Corbus Pharmaceuticals Holdings, Inc.
+Cronos Group Inc.
+CRISPR Therapeutics AG
+Corvus Pharmaceuticals, Inc.
+Victory Portfolios II - VictoryShares US Small Cap High Div Volatility Wtd ETF
+IndexIQ ETF Trust - IQ Chaikin U.S. Small Cap ETF
+Chicken Soup for the Soul Entertainment, Inc.
+Castle Biosciences, Inc.
+Codorus Valley Bancorp, Inc.
+China XD Plastics Company Limited
+CyberOptics Corporation
+Citizens Community Bancorp, Inc.
+Davis Fundamental ETF Trust - Davis Select Financial ETF
+WisdomTree Trust - WisdomTree U.S. SmallCap Quality Dividend Growth Fund
+WildBrain Ltd.
+Davis Fundamental ETF Trust - Davis Select International ETF
+Domo, Inc.
+Davis Fundamental ETF Trust - Davis Select U.S. Equity ETF
+First Trust Exchange-Traded Fund VI - First Trust Dorsey Wright Momentum & Low Volatility ETF
+Invesco Exchange-Traded Fund Trust II - Invesco DWA SmallCap Momentum ETF
+SPDR Series Trust - SPDR Dorsey Wright Fixed Income Allocation ETF
+Davis Fundamental ETF Trust - Davis Select Worldwide ETF
+Eagle Bancorp Montana, Inc.
+iShares, Inc. - iShares MSCI Emerging Markets Asia ETF
+Eagle Pharmaceuticals, Inc.
+Eiger BioPharmaceuticals, Inc.
+Eloxx Pharmaceuticals, Inc.
+The Eastern Company
+Enphase Energy, Inc.
+Evolus, Inc.
+Escalade, Incorporated
+Esperion Therapeutics, Inc.
+89bio, Inc.
+Eton Pharmaceuticals, Inc.
+Everbridge, Inc.
+EverQuote, Inc.
+EVO Payments, Inc.
+eXp World Holdings, Inc.
+EyePoint Pharmaceuticals, Inc.
+First Trust Exchange-Traded AlphaDEX Fund - First Trust Multi Cap Growth AlphaDEX Fund
+Fate Therapeutics, Inc.
+The First Bancshares, Inc.
+1st Constitution Bancorp
+FuelCell Energy, Inc.
+First Trust Exchange-Traded Fund IV - First Trust SSI Strategic Convertible Securities ETF
+Fidelity D & D Bancorp, Inc.
+First Trust Exchange Traded Fund III - First Trust Emerging Markets Local Currency Bond ETF
+First Foundation Inc.
+First Guaranty Bancshares, Inc.
+Five9, Inc.
+First Trust Exchange-Traded Fund VIII - First Trust TCW Opportunistic Fixed Income ETF
+Fulgent Genetics, Inc.
+Fluent, Inc.
+Flexion Therapeutics, Inc.
+First Trust Exchange-Traded Fund III - First Trust Managed Municipal ETF
+First Mid Bancshares, Inc.
+FedNat Holding Company
+First Northwest Bancorp
+Amicus Therapeutics, Inc.
+Foamix Pharmaceuticals Ltd.
+First Bank
+Republic First Bancorp, Inc.
+Franchise Group, Inc.
+Freshpet, Inc.
+Forescout Technologies, Inc.
+First Trust Exchange-Traded AlphaDEX Fund II - First Trust Switzerland AlphaDEX Fund
+First Trust Exchange-Traded Fund VII - First Trust Global Tactical Commodity Strategy Fund
+First Trust Exchange-Traded Fund IV - First Trust Senior Loan Fund
+Fulcrum Therapeutics, Inc.
+Gaia, Inc.
+Golden Entertainment, Inc.
+Gencor Industries, Inc.
+Guaranty Federal Bancshares, Inc.
+General Finance Corporation
+GlycoMimetics, Inc.
+Gamida Cell Ltd.
+iShares Trust - iShares GNMA Bond ETF
+GenMark Diagnostics, Inc.
+Griffin Industrial Realty, Inc.
+Galera Therapeutics, Inc.
+Global Water Resources, Inc.
+The Habit Restaurants, Inc.
+Hallmark Financial Services, Inc.
+Harvard Bioscience, Inc.
+Turtle Beach Corporation
+Hingham Institution for Savings
+Health Insurance Innovations, Inc.
+Hemisphere Media Group, Inc.
+First Trust Exchange-Traded Fund IV - First Trust Tactical High Yield ETF
+Amplify ETF Trust - Amplify Online Retail ETF
+County Bancorp, Inc.
+Intellicheck, Inc.
+IES Holdings, Inc.
+Information Services Group, Inc.
+IntriCon Corporation
+Immunomedics, Inc.
+Iovance Biotherapeutics, Inc.
+Innate Pharma S.A.
+Invesco Exchange-Traded Fund Trust II - Invesco International BuyBack Achievers ETF
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco RAFI Strategic Developed ex-US ETF
+Investar Holding Corporation
+Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco RAFI Strategic US ETF
+iShares Trust - iShares Morningstar Mid-Cap Value ETF
+Janus Detroit Street Trust - Janus Henderson Small/Mid Cap Growth Alpha ETF
+KalVista Pharmaceuticals, Inc.
+Invesco Exchange-Traded Fund Trust II - Invesco KBW Bank ETF
+Invesco Exchange-Traded Fund Trust II - Invesco KBW High Dividend Yield Financial ETF
+Invesco Exchange-Traded Fund Trust II - Invesco KBW Property & Casualty Insurance ETF
+Invesco Exchange-Traded Fund Trust II - Invesco KBW Premium Yield Equity REIT ETF
+OrthoPediatrics Corp.
+Kodiak Sciences Inc.
+Karuna Therapeutics, Inc.
+Kura Sushi USA, Inc.
+Krystal Biotech, Inc.
+Gladstone Land Corporation
+Landmark Bancorp, Inc.
+First Trust Exchange-Traded Fund VIII - First Trust Low Duration Strategic Focus ETF
+Ligand Pharmaceuticals Incorporated
+LeMaitre Vascular, Inc.
+First Trust Exchange-Traded Fund IV - First Trust Low Duration Opportunities ETF
+Liminal BioSciences Inc.
+Lantheus Holdings, Inc.
+LogicBio Therapeutics, Inc.
+Loop Industries, Inc.
+The Lovesac Company
+Legg Mason ETF Investment Trust - Clearbridge Large Cap Growth ESG ETF
+Mustang Bio, Inc.
+Malibu Boats, Inc.
+MasterCraft Boat Holdings, Inc.
+MongoDB, Inc.
+MutualFirst Financial, Inc.
+Magenta Therapeutics, Inc.
+Mirum Pharmaceuticals, Inc.
+Majesco
+Malvern Bancorp, Inc.
+MannKind Corporation
+MediciNova, Inc.
+Morphic Holding, Inc.
+Mid Penn Bancorp, Inc.
+Marker Therapeutics, Inc.
+Marinus Pharmaceuticals, Inc.
+Merus N.V.
+Misonix, Inc.
+Northeast Bank
+Minerva Neurosciences, Inc.
+Newtek Business Services Corp.
+National General Holdings Corp.
+Neoleukin Therapeutics, Inc.
+NMI Holdings, Inc.
+NanoString Technologies, Inc.
+Northern Technologies International Corporation
+Intellia Therapeutics, Inc.
+Norwood Financial Corp.
+Ocular Therapeutix, Inc.
+Omega Flex, Inc.
+Ollie's Bargain Outlet Holdings, Inc.
+Omeros Corporation
+Fidelity Commonwealth Trust - Fidelity Nasdaq Composite Index Tracking Stock
+OP Bancorp
+Overstock.com, Inc.
+Ohio Valley Banc Corp.
+Oxford Immunotec Global PLC
+Phibro Animal Health Corporation
+Prudential Bancorp, Inc.
+PDL Community Bancorp
+Invesco Exchange-Traded Fund Trust - Invesco DWA Momentum ETF
+Peoples Bancorp of North Carolina, Inc.
+Invesco Exchange-Traded Fund Trust - Invesco High Yield Equity Dividend Achievers ETF
+Premier Financial Bancorp, Inc.
+Proofpoint, Inc.
+PhaseBio Pharmaceuticals, Inc.
+Invesco Exchange-Traded Fund Trust - Invesco International Dividend Achievers ETF
+Invesco Exchange-Traded Fund Trust II - Invesco DWA Emerging Markets Momentum ETF
+Invesco Exchange-Traded Fund Trust II - Invesco Global Water ETF
+Invesco Exchange-Traded Fund Trust II - Invesco DWA Developed Markets Momentum ETF
+Invesco Exchange-Traded Fund Trust - Invesco BuyBack Achievers ETF
+Invesco Exchange-Traded Fund Trust II - Invesco 1-30 Laddered Treasury ETF
+Invesco Exchange-Traded Fund Trust - Invesco NASDAQ Internet ETF
+Primo Water Corporation
+Invesco Exchange-Traded Fund Trust - Invesco DWA Industrials Momentum ETF
+ProQR Therapeutics N.V.
+Paratek Pharmaceuticals, Inc.
+Prevail Therapeutics Inc.
+Invesco Exchange-Traded Fund Trust II - Invesco S&P SmallCap Financials ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P SmallCap Health Care ETF
+Invesco Exchange-Traded Fund Trust II - Invesco S&P SmallCap Information Technology ETF
+Invesco Exchange-Traded Fund Trust - Invesco DWA Consumer Staples Momentum ETF
+Personalis, Inc.
+Invesco Exchange-Traded Fund Trust - Invesco DWA Technology Momentum ETF
+Protagonist Therapeutics, Inc.
+Invesco Exchange-Traded Fund Trust - Invesco DWA Healthcare Momentum ETF
+Proteostasis Therapeutics, Inc.
+P.A.M. Transportation Services, Inc.
+Protective Insurance Corporation
+Protective Insurance Corporation
+Invesco Exchange-Traded Fund Trust - Invesco DWA Utilities Momentum ETF
+PowerFleet, Inc.
+Pixelworks, Inc.
+QCR Holdings, Inc.
+Quantum Corporation
+First Trust Exchange-Traded Fund - First Trust NASDAQ-100 Ex-Technology Sector Index Fund
+Quotient Limited
+Quanterix Corporation
+RAPT Therapeutics, Inc.
+Ra Pharmaceuticals, Inc.
+Rocket Pharmaceuticals, Inc.
+RadNet, Inc.
+Radius Health, Inc.
+Reata Pharmaceuticals, Inc.
+First Trust Exchange-Traded Fund III - First Trust RiverFront Dynamic Developed International ETF
+RGC Resources, Inc.
+RCI Hospitality Holdings, Inc.
+B. Riley Financial, Inc.
+Riverview Financial Corporation
+Rimini Street, Inc.
+Rockwell Medical, Inc.
+Rapid7, Inc.
+Retrophin, Inc.
+Revance Therapeutics, Inc.
+Rhythm Pharmaceuticals, Inc.
+Sage Therapeutics, Inc.
+Silvercrest Asset Management Group Inc.
+SB One Bancorp
+SCYNEXIS, Inc.
+Selecta Biosciences, Inc.
+Sesen Bio, Inc.
+Southern First Bancshares, Inc.
+Saga Communications, Inc.
+Superior Group of Companies, Inc.
+SI-BONE, Inc.
+SIGA Technologies, Inc.
+Silk Road Medical, Inc
+SiTime Corporation
+FlexShares Trust - FlexShares Credit-Scored US Corporate Bond Index Fund
+Select Bancorp, Inc.
+Sol-Gel Technologies Ltd.
+Southern Missouri Bancorp, Inc.
+SMTC Corporation
+Sundance Energy, Inc.
+Security National Financial Corporation
+Highland Funds I - Highland/iBoxx Senior Loan ETF
+Southern National Bancorp of Virginia, Inc.
+STAAR Surgical Company
+Sutro Biopharma, Inc.
+Satsuma Pharmaceuticals, Inc.
+Supernus Pharmaceuticals, Inc.
+iShares Trust - iShares ESG MSCI USA Leaders ETF
+Synalloy Corporation
+Theravance Biopharma, Inc.
+Tactile Systems Technology, Inc.
+TELA Bio, Inc.
+TransMedics Group, Inc.
+Tandem Diabetes Care, Inc.
+Tribune Publishing Company
+TPI Composites, Inc.
+Tabula Rasa HealthCare, Inc.
+Transcat, Inc.
+Trupanion, Inc.
+Timberland Bancorp, Inc.
+The Trade Desk, Inc.
+TechTarget, Inc.
+Ultralife Corporation
+Union Bankshares, Inc.
+Unity Bancorp, Inc.
+Upland Software, Inc.
+UroGen Pharma Ltd.
+Veritex Holdings, Inc.
+Veracyte, Inc.
+Venus Concept Inc.
+Vanda Pharmaceuticals Inc.
+ViewRay, Inc.
+Verrica Pharmaceuticals Inc.
+Invesco Actively Managed Exchange-Traded Fund Trust - Invesco Variable Rate Investment Grade ETF
+Victory Portfolios II - VictoryShares Dividend Accelerator ETF
+Victory Portfolios II - VictoryShares US Multi-Factor Minimum Volatility ETF
+Verastem, Inc.
+Legg Mason ETF Investment Trust - Western Asset Total Return ETF
+Winmark Corporation
+Willdan Group, Inc.
+Willis Lease Finance Corporation
+Wave Life Sciences Ltd.
+Xenon Pharmaceuticals Inc.
+Intersect ENT, Inc.
+Exagen Inc.
+Acceleron Pharma Inc.
+Xencor, Inc.
+XOMA Corporation
+Zogenix, Inc.
+Zynerba Pharmaceuticals, Inc.
+American Airlines Group Inc.
+AAON, Inc.
+Apple Inc.
+Atlas Air Worldwide Holdings, Inc.
+Axon Enterprise, Inc.
+Ameris Bancorp
+Abiomed, Inc.
+Arbutus Biopharma Corporation
+ACADIA Pharmaceuticals Inc.
+Atlantic Capital Bancshares, Inc.
+Arch Capital Group Ltd.
+Acadia Healthcare Company, Inc.
+Acacia Communications, Inc.
+ACI Worldwide, Inc.
+Axcelis Technologies, Inc.
+Acacia Research Corporation
+Adobe Inc.
+Analog Devices, Inc.
+Automatic Data Processing, Inc.
+Adaptive Biotechnologies Corporation
+Aduro BioTech, Inc.
+Autodesk, Inc.
+ADTRAN, Inc.
+Addus HomeCare Corporation
+Aegion Corporation
+Advanced Energy Industries, Inc.
+American Finance Trust, Inc.
+Afya Limited
+AgroFresh Solutions, Inc.
+Agios Pharmaceuticals, Inc.
+AGNC Investment Corp.
+Agilysys, Inc.
+Altra Industrial Motion Corp.
+Aimmune Therapeutics, Inc.
+Apollo Investment Corporation
+Akamai Technologies, Inc.
+Akcea Therapeutics, Inc.
+Akero Therapeutics, Inc.
+Akorn, Inc.
+Alico, Inc.
+Alector, Inc.
+Align Technology, Inc.
+Allegiant Travel Company
+Alkermes plc
+Allakos Inc.
+Allogene Therapeutics, Inc.
+Allot Ltd.
+Alnylam Pharmaceuticals, Inc.
+Alarm.com Holdings, Inc.
+Alaska Communications Systems Group, Inc.
+Altair Engineering Inc.
+Alexion Pharmaceuticals, Inc.
+AMAG Pharmaceuticals, Inc.
+Applied Materials, Inc.
+Ambarella, Inc.
+AMC Networks Inc.
+Advanced Micro Devices, Inc.
+Amedisys, Inc.
+Amgen Inc.
+Amkor Technology, Inc.
+American National Bankshares Inc.
+Amphastar Pharmaceuticals, Inc.
+Amyris, Inc.
+American Superconductor Corporation
+Amerisafe, Inc.
+American Software, Inc.
+Amerant Bancorp Inc.
+Amerant Bancorp Inc.
+TD Ameritrade Holding Corporation
+American Woodmark Corporation
+Amazon.com, Inc.
+AnaptysBio, Inc.
+American National Insurance Company
+The Andersons, Inc.
+ANGI Homeservices Inc.
+AngioDynamics, Inc.
+Anika Therapeutics, Inc.
+ANSYS, Inc.
+American Outdoor Brands Corporation
+Alpha and Omega Semiconductor Limited
+American Public Education, Inc.
+Apellis Pharmaceuticals, Inc.
+Apogee Enterprises, Inc.
+Aprea Therapeutics, Inc.
+Aptinyx Inc.
+Apyx Medical Corporation
+Aravive, Inc.
+Accuray Incorporated
+ArcBest Corporation
+Ares Capital Corporation
+Arco Platform Limited
+Arena Pharmaceuticals, Inc.
+Arrow Financial Corporation
+Artesian Resources Corporation
+Arvinas, Inc.
+Arrowhead Pharmaceuticals, Inc.
+Assembly Biosciences, Inc.
+Altisource Portfolio Solutions S.A.
+Assertio Therapeutics, Inc.
+Astec Industries, Inc.
+Amtech Systems, Inc.
+Alphatec Holdings, Inc.
+Atlanticus Holdings Corporation
+ATN International, Inc.
+Athenex, Inc.
+Atara Biotherapeutics, Inc.
+Atrion Corporation
+Astronics Corporation
+Air Transport Services Group, Inc.
+Activision Blizzard, Inc.
+Atlantic Union Bankshares Corporation
+AudioCodes Ltd.
+AeroVironment, Inc.
+Broadcom Inc.
+Avid Technology, Inc.
+AVROBIO, Inc.
+Avnet, Inc.
+Axovant Gene Therapies Ltd.
+Axonics Modulation Technologies, Inc.
+AXT, Inc.
+Atlantica Yield plc
+Aspen Technology, Inc.
+Bandwidth Inc.
+BancFirst Corporation
+Banner Corporation
+StoneCastle Financial Corp.
+The Liberty Braves Group
+The Liberty Braves Group
+Bed Bath & Beyond Inc.
+BridgeBio Pharma, Inc.
+Barrett Business Services, Inc.
+Atreca, Inc.
+BayCom Corp
+B Communications Ltd
+Blucora, Inc.
+Brightcove Inc.
+Balchem Corporation
+BioCryst Pharmaceuticals, Inc.
+Bridge Bancorp, Inc.
+BioDelivery Sciences International, Inc.
+BioTelemetry, Inc.
+Beacon Roofing Supply, Inc.
+Bel Fuse Inc.
+Bel Fuse Inc.
+BankFinancial Corporation
+Business First Bancshares, Inc.
+BGC Partners, Inc.
+Brighthouse Financial, Inc.
+Biogen Inc.
+BJ's Restaurants, Inc.
+BlackRock Capital Investment Corporation
+Booking Holdings Inc.
+BlackLine, Inc.
+Builders FirstSource, Inc.
+Blackbaud, Inc.
+Bloomin' Brands, Inc.
+BELLUS Health Inc.
+bluebird bio, Inc.
+BMC Stock Holdings, Inc.
+BioMarin Pharmaceutical Inc.
+Bryn Mawr Bank Corporation
+BOK Financial Corporation
+DMC Global Inc.
+Boston Private Financial Holdings, Inc.
+Blueprint Medicines Corporation
+Popular, Inc.
+Brookfield Property REIT Inc.
+The Bank of Princeton
+Craft Brew Alliance, Inc.
+Brookline Bancorp, Inc.
+Bruker Corporation
+Brooks Automation, Inc.
+BRP Group, Inc.
+Berry Petroleum Corporation
+Bassett Furniture Industries, Incorporated
+Sierra Bancorp
+Bank7 Corp.
+First Busey Corporation
+Beyond Meat, Inc.
+Cabaletta Bio, Inc.
+Camden National Corporation
+Credit Acceptance Corporation
+The Cheesecake Factory Incorporated
+Calithera Biosciences, Inc.
+Cal-Maine Foods, Inc.
+CalAmp Corp.
+Avis Budget Group, Inc.
+Carter Bank & Trust
+CarGurus, Inc.
+Casa Systems, Inc.
+Meta Financial Group, Inc.
+Cass Information Systems, Inc.
+Casey's General Stores, Inc.
+Cardtronics plc
+Cathay General Bancorp
+CymaBay Therapeutics, Inc.
+Cellular Biomedicine Group, Inc.
+Capital Bancorp, Inc.
+China Biologic Products Holdings, Inc.
+Cracker Barrel Old Country Store, Inc.
+Commerce Bancshares, Inc.
+CBTX, Inc.
+Coastal Financial Corporation
+Capital City Bank Group, Inc.
+Calamos Dynamic Convertible and Income Fund
+Cabot Microelectronics Corporation
+CNB Financial Corporation
+Cogent Communications Holdings, Inc.
+Cross Country Healthcare, Inc.
+ChemoCentryx, Inc.
+CDK Global, Inc.
+Cadence Design Systems, Inc.
+CDW Corporation
+Codexis, Inc.
+CECO Environmental Corp.
+Central Garden & Pet Company
+Central Garden & Pet Company
+Century Aluminum Company
+Cerner Corporation
+Central European Media Enterprises Ltd.
+CEVA, Inc.
+CrossFirst Bankshares, Inc.
+C&F Financial Corporation
+Capitol Federal Financial, Inc.
+The Carlyle Group Inc.
+TCG BDC, Inc.
+Cognex Corporation
+Calamos Global Total Return Fund
+City Holding Company
+Churchill Downs Incorporated
+The Chefs' Warehouse, Inc.
+Calamos Convertible Opportunities and Income Fund
+Check Point Software Technologies Ltd.
+Chiasma, Inc.
+Chemung Financial Corporation
+Change Healthcare Inc.
+C.H. Robinson Worldwide, Inc.
+Charter Communications, Inc.
+Chuy's Holdings, Inc.
+Calamos Global Dynamic Income Fund
+Calamos Convertible and High Income Fund
+Colliers International Group Inc.
+Cincinnati Financial Corporation
+Clarus Corporation
+Columbia Financial, Inc.
+Clean Energy Fuels Corp.
+Clovis Oncology, Inc.
+Columbus McKinnon Corporation
+Comcast Corporation
+CME Group Inc.
+Cimpress plc
+Comtech Telecommunications Corp.
+Century Bancorp, Inc.
+Conduent Incorporated
+ConnectOne Bancorp, Inc.
+Consolidated Communications Holdings, Inc.
+Constellation Pharmaceuticals, Inc.
+PC Connection, Inc.
+Coherent, Inc.
+Cohu, Inc.
+Coca-Cola Consolidated, Inc.
+Columbia Banking System, Inc.
+Collegium Pharmaceutical, Inc.
+Columbia Sportswear Company
+CommScope Holding Company, Inc.
+CyrusOne Inc.
+Conn's, Inc.
+Core-Mark Holding Company, Inc.
+Costco Wholesale Corporation
+Coupa Software Incorporated
+Cowen Inc.
+Copart, Inc.
+Computer Programs and Systems, Inc.
+Capitala Finance Corp.
+Calamos Long/Short Equity & Dynamic Income Term Trust
+CRA International, Inc.
+Cree, Inc.
+America's Car-Mart, Inc.
+Cerence Inc.
+Ceragon Networks Ltd.
+Crinetics Pharmaceuticals, Inc.
+Crocs, Inc.
+Cortexyme, Inc.
+Cirrus Logic, Inc.
+CorVel Corporation
+CrowdStrike Holdings, Inc.
+Cisco Systems, Inc.
+CenterState Bank Corporation
+CoStar Group, Inc.
+CSG Systems International, Inc.
+Cardiovascular Systems, Inc.
+Canadian Solar Inc.
+Cornerstone OnDemand, Inc.
+Calamos Strategic Total Return Fund
+Caesarstone Ltd.
+Capstar Financial Holdings, Inc.
+Capital Southwest Corporation
+CSW Industrials, Inc.
+CSX Corporation
+Cintas Corporation
+Community Trust Bancorp, Inc.
+CytomX Therapeutics, Inc.
+CareTrust REIT, Inc.
+Citi Trends, Inc.
+Cognizant Technology Solutions Corporation
+Citrix Systems, Inc.
+Cutera, Inc.
+CVB Financial Corp.
+Cavco Industries, Inc.
+Covetrus, Inc.
+Commercial Vehicle Group, Inc.
+Calavo Growers, Inc.
+Commvault Systems, Inc.
+Covenant Transportation Group, Inc.
+Consolidated Water Co. Ltd.
+Casella Waste Systems, Inc.
+Cypress Semiconductor Corporation
+CyberArk Software Ltd.
+Cytokinetics, Incorporated
+Caesars Entertainment Corporation
+Daktronics, Inc.
+Dropbox, Inc.
+Dime Community Bancshares, Inc.
+Deciphera Pharmaceuticals, Inc.
+Datadog, Inc.
+Dermira, Inc.
+Donegal Group Inc.
+Donegal Group Inc.
+Digi International Inc.
+Diversified Healthcare Trust
+Diamond Hill Investment Group, Inc.
+Diodes Incorporated
+Discovery, Inc.
+Discovery, Inc.
+Discovery, Inc.
+DISH Network Corporation
+Duluth Holdings Inc.
+Dollar Tree, Inc.
+Digimarc Corporation
+Dunkin' Brands Group, Inc.
+Denali Therapeutics Inc.
+DocuSign, Inc.
+BRP Inc.
+Dorman Products, Inc.
+Amdocs Limited
+Dicerna Pharmaceuticals, Inc.
+DIRTT Environmental Solutions Ltd.
+The Descartes Systems Group Inc
+DSP Group, Inc.
+Precision BioSciences, Inc.
+DexCom, Inc.
+DXP Enterprises, Inc.
+Electronic Arts Inc.
+eBay Inc.
+Ebix, Inc.
+Meridian Bancorp, Inc.
+Enterprise Bancorp, Inc.
+Echo Global Logistics, Inc.
+US Ecology, Inc.
+Encore Capital Group, Inc.
+Editas Medicine, Inc.
+Euronet Worldwide, Inc.
+Enterprise Financial Services Corp
+Eagle Bulk Shipping Inc.
+NIC Inc.
+eHealth, Inc.
+Eidos Therapeutics, Inc.
+Endurance International Group Holdings, Inc.
+Endo International plc
+The Ensign Group, Inc.
+Enanta Pharmaceuticals, Inc.
+Entegris, Inc.
+Bottomline Technologies (de), Inc.
+Epizyme, Inc.
+Equity Bancshares, Inc.
+Equinix, Inc. (REIT)
+Eldorado Resorts, Inc.
+Erie Indemnity Company
+Energy Recovery, Inc.
+Enstar Group Limited
+Elbit Systems Ltd.
+ESSA Bancorp, Inc.
+E*TRADE Financial Corporation
+Etsy, Inc.
+Evelo Biosciences, Inc.
+East West Bancorp, Inc.
+Exelon Corporation
+Exelixis, Inc.
+EXFO Inc.
+ExlService Holdings, Inc.
+Expeditors International of Washington, Inc.
+Expedia Group, Inc.
+Exponent, Inc.
+Extreme Networks, Inc.
+National Vision Holdings, Inc.
+EZCORP, Inc.
+Diamondback Energy, Inc.
+Farmer Bros. Co.
+FARO Technologies, Inc.
+Fastenal Company
+Facebook, Inc.
+First Business Financial Services, Inc.
+First Bancorp
+First Community Bankshares, Inc.
+FirstCash, Inc.
+First Citizens BancShares, Inc.
+First Defiance Financial Corp.
+Fidus Investment Corporation
+Franklin Electric Co., Inc.
+FireEye, Inc.
+First Financial Bancorp.
+Flushing Financial Corporation
+First Financial Bankshares, Inc.
+F5 Networks, Inc.
+First Financial Northwest, Inc.
+FibroGen, Inc.
+First Hawaiian, Inc.
+First Interstate BancSystem, Inc.
+Financial Institutions, Inc.
+Fiserv, Inc.
+Fifth Third Bancorp
+Five Below, Inc.
+Homology Medicines, Inc.
+National Beverage Corp.
+Fluidigm Corporation
+Flex Ltd.
+FLIR Systems, Inc.
+1-800-FLOWERS.COM, Inc.
+Flexsteel Industries, Inc.
+First Midwest Bancorp, Inc.
+Funko, Inc.
+The First Bancorp, Inc.
+Focus Financial Partners Inc.
+FormFactor, Inc.
+Forrester Research, Inc.
+Fossil Group, Inc.
+Fox Corporation
+Fox Corporation
+Fox Factory Holding Corp.
+Five Prime Therapeutics, Inc.
+Frequency Therapeutics, Inc.
+Fiesta Restaurant Group, Inc.
+First Merchants Corporation
+FRP Holdings, Inc.
+Forterra, Inc.
+First Solar, Inc.
+L.B. Foster Company
+FirstService Corporation
+frontdoor, inc.
+Fortinet, Inc.
+Forty Seven, Inc.
+Fulton Financial Corporation
+First United Corporation
+Sprott Focus Trust, Inc.
+Formula One Group
+Formula One Group
+Forward Air Corporation
+German American Bancorp, Inc.
+Gladstone Investment Corporation
+StealthGas Inc.
+Glacier Bancorp, Inc.
+Golub Capital BDC, Inc.
+Global Indemnity Limited
+Global Blood Therapeutics, Inc.
+Geospace Technologies Corporation
+Geron Corporation
+Guardant Health, Inc.
+G-III Apparel Group, Ltd.
+Gilead Sciences, Inc.
+Gilat Satellite Networks Ltd.
+Gladstone Capital Corporation
+Great Lakes Dredge & Dock Corporation
+GCI Liberty, Inc.
+Golar LNG Limited
+Gaming and Leisure Properties, Inc.
+Greenlight Capital Re, Ltd.
+Glu Mobile Inc.
+Gentex Corporation
+Guaranty Bancshares, Inc.
+Grocery Outlet Holding Corp.
+Golden Ocean Group Limited
+Gogo Inc.
+Gladstone Commercial Corporation
+Alphabet Inc.
+Alphabet Inc.
+Gossamer Bio, Inc.
+Gulfport Energy Corporation
+Green Plains Inc.
+GoPro, Inc.
+Grindrod Shipping Holdings Ltd.
+Garmin Ltd.
+Groupon, Inc.
+Gritstone Oncology, Inc.
+Great Southern Bancorp, Inc.
+Goosehead Insurance, Inc
+GSI Technology, Inc.
+GreenSky, Inc.
+Ferroglobe PLC
+The Goodyear Tire & Rubber Company
+G1 Therapeutics, Inc.
+Chart Industries, Inc.
+Hawaiian Holdings, Inc.
+Hanmi Financial Corporation
+The Hain Celestial Group, Inc.
+Halozyme Therapeutics, Inc.
+Harpoon Therapeutics, Inc.
+Hasbro, Inc.
+Haynes International, Inc.
+Huntington Bancshares Incorporated
+Home Bancorp, Inc.
+Horizon Bancorp, Inc.
+HBT Financial, Inc.
+Health Catalyst, Inc.
+Heritage-Crystal Clean, Inc
+The Hackett Group, Inc.
+Healthcare Services Group, Inc.
+HD Supply Holdings, Inc.
+H&E Equipment Services, Inc.
+Helen of Troy Limited
+Heritage Financial Corporation
+Hibbett Sports, Inc.
+Helios Technologies, Inc.
+Harmonic Inc.
+Hamilton Lane Incorporated
+Houghton Mifflin Harcourt Company
+HomeStreet, Inc.
+HMS Holdings Corp.
+Hooker Furniture Corporation
+Hollysys Automation Technologies Ltd.
+Hologic, Inc.
+Home Bancshares, Inc. (Conway, AR)
+HarborOne Bancorp, Inc.
+HOOKIPA Pharma Inc.
+Hope Bancorp, Inc.
+HealthEquity, Inc.
+Horizon Technology Finance Corporation
+Henry Schein, Inc.
+Heidrick & Struggles International, Inc.
+HealthStream, Inc.
+HomeTrust Bancshares, Inc.
+Heritage Commerce Corp
+Heartland Express, Inc.
+Heartland Financial USA, Inc.
+Hub Group, Inc.
+Hurco Companies, Inc.
+Huron Consulting Group Inc.
+Hawthorn Bancshares, Inc.
+Hancock Whitney Corporation
+Hawkins, Inc.
+Horizon Therapeutics Public Limited Company
+IAC/InterActiveCorp
+Integra LifeSciences Holdings Corporation
+Independent Bank Corporation
+IBERIABANK Corporation
+Interactive Brokers Group, Inc.
+International Bancshares Corporation
+Independent Bank Group, Inc.
+ICF International, Inc.
+Ichor Holdings, Ltd.
+ICON Public Limited Company
+Intercept Pharmaceuticals, Inc.
+ICU Medical, Inc.
+InterDigital, Inc.
+IDEXX Laboratories, Inc.
+IDEAYA Biosciences, Inc.
+Icahn Enterprises L.P.
+IGM Biosciences, Inc.
+iHeartMedia, Inc.
+Insteel Industries, Inc.
+i3 Verticals, Inc.
+II-VI Incorporated
+Illumina, Inc.
+Industrial Logistics Properties Trust
+ImmunoGen, Inc.
+Ingles Markets, Incorporated
+Immersion Corporation
+First Internet Bancorp
+Incyte Corporation
+Independent Bank Corp.
+Infinera Corporation
+Inogen, Inc.
+InMode Ltd.
+Inovio Pharmaceuticals, Inc.
+Inovalon Holdings, Inc.
+Inseego Corp.
+Insmed Incorporated
+Intel Corporation
+INTL FCStone Inc.
+Intuit Inc.
+Innoviva, Inc.
+InnerWorkings, Inc.
+Ionis Pharmaceuticals, Inc.
+Innospec Inc.
+Inter Parfums, Inc.
+IPG Photonics Corporation
+iRobot Corporation
+Iridium Communications Inc.
+iRhythm Technologies, Inc.
+Ironwood Pharmaceuticals, Inc.
+Investors Bancorp, Inc.
+IVERIC bio, Inc.
+Intuitive Surgical, Inc.
+Intra-Cellular Therapies, Inc.
+Investors Title Company
+Itron, Inc.
+Ituran Location and Control Ltd.
+Intevac, Inc.
+Jack in the Box Inc.
+Jazz Pharmaceuticals plc
+J.B. Hunt Transport Services, Inc.
+JetBlue Airways Corporation
+John B. Sanfilippo & Son, Inc.
+j2 Global, Inc.
+J & J Snack Foods Corp.
+Jack Henry & Associates, Inc.
+Jounce Therapeutics, Inc.
+Johnson Outdoors Inc.
+James River Group Holdings, Ltd.
+Kala Pharmaceuticals, Inc.
+Kaiser Aluminum Corporation
+Kimball International, Inc.
+Kimball Electronics, Inc.
+Kelly Services, Inc.
+Kelly Services, Inc.
+Kforce Inc.
+The Kraft Heinz Company
+KLA Corporation
+Kaleido BioSciences, Inc.
+Kulicke and Soffa Industries, Inc.
+KLX Energy Services Holdings, Inc.
+Kamada Ltd.
+Kandi Technologies Group, Inc.
+Kiniksa Pharmaceuticals, Ltd.
+Kinsale Capital Group, Inc.
+Karyopharm Therapeutics Inc.
+Kornit Digital Ltd.
+Kearny Financial Corp.
+Kratos Defense & Security Solutions, Inc.
+Kura Oncology, Inc.
+KVH Industries, Inc.
+Lamar Advertising Company (REIT)
+Lancaster Colony Corporation
+nLIGHT, Inc.
+Laureate Education, Inc.
+Lawson Products, Inc.
+Lakeland Bancorp, Inc.
+Luther Burbank Corporation
+Liberty Broadband Corporation
+Liberty Broadband Corporation
+Liberty Global Plc
+Liberty Global Plc
+Liberty Global Plc
+Lifetime Brands, Inc.
+Lincoln Electric Holdings, Inc.
+Legacy Housing Corporation
+Level One Bancorp, Inc.
+Littelfuse, Inc.
+LGI Homes, Inc.
+LHC Group, Inc.
+Liberty Latin America Ltd.
+Liberty Latin America Ltd.
+Lumentum Holdings Inc.
+LivaNova PLC
+Lakeland Financial Corporation
+LKQ Corporation
+Limelight Networks, Inc.
+Limoneira Company
+Luminex Corporation
+Landec Corporation
+Alliant Energy Corporation
+Live Oak Bancshares, Inc.
+El Pollo Loco Holdings, Inc.
+Logitech International S.A.
+LogMeIn, Inc.
+Grand Canyon Education, Inc.
+Loral Space & Communications Inc.
+LPL Financial Holdings Inc.
+LivePerson, Inc.
+Liquidity Services, Inc.
+Lam Research Corporation
+Lattice Semiconductor Corporation
+Landstar System, Inc.
+The Liberty SiriusXM Group
+The Liberty SiriusXM Group
+The Liberty SiriusXM Group
+Liberty TripAdvisor Holdings, Inc.
+Liberty TripAdvisor Holdings, Inc.
+Lululemon Athletica Inc.
+Livongo Health, Inc.
+Lexicon Pharmaceuticals, Inc.
+Lyft, Inc.
+LSI Industries Inc.
+Manhattan Associates, Inc.
+ManTech International Corporation
+Marriott International, Inc.
+Masimo Corporation
+Mattel, Inc.
+Matthews International Corporation
+Mercantile Bank Corporation
+Macatawa Bank Corporation
+MetroCity Bankshares, Inc.
+Microchip Technology Incorporated
+Marchex, Inc.
+Seres Therapeutics, Inc.
+Monarch Casino & Resort, Inc.
+MDC Partners Inc.
+Mondelez International, Inc.
+Allscripts Healthcare Solutions, Inc.
+Medpace Holdings, Inc.
+MercadoLibre, Inc.
+Methanex Corporation
+Mercer International Inc.
+Mesa Air Group, Inc.
+Ramaco Resources, Inc.
+Medallion Financial Corp.
+MGE Energy, Inc.
+MoneyGram International, Inc.
+Magic Software Enterprises Ltd.
+Magellan Health, Inc.
+MacroGenics, Inc.
+MGP Ingredients, Inc.
+McGrath RentCorp
+MeiraGTx Holdings plc
+The Middleby Corporation
+The Michaels Companies, Inc.
+Mimecast Limited
+Mobile Mini, Inc.
+Milestone Pharmaceuticals Inc.
+MKS Instruments, Inc.
+MarketAxess Holdings Inc.
+Mesa Laboratories, Inc.
+Herman Miller, Inc.
+Mellanox Technologies, Ltd.
+Merit Medical Systems, Inc.
+MakeMyTrip Limited
+Menlo Therapeutics Inc.
+Monro, Inc.
+Monster Beverage Corporation
+Momenta Pharmaceuticals, Inc.
+MobileIron, Inc.
+MidWestOne Financial Group, Inc.
+Morningstar, Inc.
+Motorcar Parts of America, Inc.
+Monolithic Power Systems, Inc.
+Meridian Corporation
+Monroe Capital Corporation
+Mercury Systems, Inc.
+Marlin Business Services Corp.
+Moderna, Inc.
+Mersana Therapeutics, Inc.
+Marten Transport, Ltd.
+Mirati Therapeutics, Inc.
+Marvell Technology Group Ltd.
+Midland States Bancorp, Inc.
+Middlesex Water Company
+Microsoft Corporation
+MicroStrategy Incorporated
+Match Group, Inc.
+Matrix Service Company
+MTS Systems Corporation
+MACOM Technology Solutions Holdings, Inc.
+Micron Technology, Inc.
+Maxim Integrated Products, Inc.
+First Western Financial, Inc.
+Myriad Genetics, Inc.
+Mylan N.V.
+MyoKardia, Inc.
+MYR Group Inc.
+Nathan's Famous, Inc.
+National Instruments Corporation
+Navient Corporation
+Neurocrine Biosciences, Inc.
+Noble Energy, Inc.
+Nabriva Therapeutics plc
+NBT Bancorp Inc.
+National CineMedia, Inc.
+Nasdaq, Inc.
+Noodles & Company
+Nordson Corporation
+Neogen Corporation
+Northfield Bancorp, Inc. (Staten Island, NY)
+New Fortress Energy LLC
+Netflix, Inc.
+NGM Biopharmaceuticals, Inc.
+NantHealth, Inc.
+NantKwest, Inc.
+Nektar Therapeutics
+NortonLifeLock Inc.
+Newmark Group, Inc.
+NN, Inc.
+Novanta Inc.
+National Research Corporation
+Northrim BanCorp, Inc.
+Insight Enterprises, Inc.
+Napco Security Technologies, Inc.
+NetApp, Inc.
+NetScout Systems, Inc.
+NETGEAR, Inc.
+Nutanix, Inc.
+Natera, Inc.
+Northern Trust Corporation
+Natus Medical Incorporated
+Nuance Communications, Inc.
+NuVasive, Inc.
+Novavax, Inc.
+NovoCure Limited
+NVIDIA Corporation
+Nova Measuring Instruments Ltd.
+Northwest Bancshares, Inc.
+Newell Brands Inc.
+National Western Life Group, Inc.
+Northwest Pipe Company
+News Corporation
+News Corporation
+NextGen Healthcare, Inc.
+NXP Semiconductors N.V.
+Nexstar Media Group, Inc.
+NextCure, Inc.
+New York Mortgage Trust, Inc.
+Origin Bancorp, Inc.
+ObsEva SA
+OceanFirst Financial Corp.
+Oaktree Strategic Income Corporation
+Oaktree Specialty Lending Corporation
+Old Dominion Freight Line, Inc.
+Office Depot, Inc.
+Odonate Therapeutics, Inc.
+Orthofix Medical Inc.
+OFS Capital Corporation
+OrganiGram Holdings Inc.
+Okta, Inc.
+Universal Display Corporation
+Omnicell, Inc.
+ON Semiconductor Corporation
+Old National Bancorp
+Opus Bank
+Option Care Health, Inc.
+Office Properties Income Trust
+OPKO Health, Inc.
+Oportun Financial Corporation
+OptiNose, Inc.
+ORBCOMM Inc.
+O'Reilly Automotive, Inc.
+Old Second Bancorp, Inc.
+OSI Systems, Inc.
+Osmotica Pharmaceuticals plc
+OraSure Technologies, Inc.
+Open Text Corporation
+Otonomy, Inc.
+Otter Tail Corporation
+Ovid Therapeutics Inc.
+Oxford Lane Capital Corp.
+Oxford Square Capital Corp.
+Oyster Point Pharma, Inc.
+Bank OZK
+Pan American Silver Corp.
+Pacific Biosciences of California, Inc.
+PacWest Bancorp
+Patrick Industries, Inc.
+Paychex, Inc.
+People's United Financial, Inc.
+Puma Biotechnology, Inc.
+PACCAR Inc
+PCB Bancorp
+PotlatchDeltic Corporation
+Pacira BioSciences, Inc.
+PCTEL, Inc.
+Paylocity Holding Corporation
+PDC Energy, Inc.
+Patterson Companies, Inc.
+PDF Solutions, Inc.
+PDL BioPharma, Inc.
+Peoples Bancorp Inc.
+Pegasystems Inc.
+Pattern Energy Group Inc.
+Penn National Gaming, Inc.
+PepsiCo, Inc.
+Perion Network Ltd.
+PetIQ, Inc.
+PetMed Express, Inc.
+Preferred Bank
+Principal Financial Group, Inc.
+Professional Holding Corp.
+Peoples Financial Services Corp.
+PennantPark Floating Rate Capital Ltd.
+Peapack-Gladstone Financial Corporation
+Precigen, Inc.
+Progenics Pharmaceuticals, Inc.
+Progyny, Inc.
+Phathom Pharmaceuticals, Inc.
+Impinj, Inc.
+PICO Holdings, Inc.
+Premier, Inc.
+Park-Ohio Holdings Corp.
+Photronics, Inc.
+Dave & Buster's Entertainment, Inc.
+The Children's Place, Inc.
+Palomar Holdings, Inc.
+Preformed Line Products Company
+ePlus inc.
+Plexus Corp.
+Playa Hotels & Resorts N.V.
+Pacific Mercantile Bancorp
+Pinnacle Financial Partners, Inc.
+PennantPark Investment Corporation
+The Pennant Group, Inc.
+Insulet Corporation
+Pool Corporation
+Power Integrations, Inc.
+Powell Industries, Inc.
+Pacific Premier Bancorp, Inc.
+Pilgrim's Pride Corporation
+PRA Group, Inc.
+PRA Health Sciences, Inc.
+Perdoceo Education Corporation
+Perficient, Inc.
+Progress Software Corporation
+PRGX Global, Inc.
+Primoris Services Corporation
+Principia Biopharma Inc.
+Provident Financial Holdings, Inc.
+The Providence Service Corporation
+Prothena Corporation plc
+U.S. Auto Parts Network, Inc.
+Provention Bio, Inc.
+Pluralsight, Inc.
+Prospect Capital Corporation
+PriceSmart, Inc.
+PTC Inc.
+PTC Therapeutics, Inc.
+Patterson-UTI Energy, Inc.
+Portola Pharmaceuticals, Inc.
+Peloton Interactive, Inc.
+Penn Virginia Corporation
+Penns Woods Bancorp, Inc.
+PayPal Holdings, Inc.
+Papa John's International, Inc.
+QAD Inc.
+QAD Inc.
+QUALCOMM Incorporated
+Quidel Corporation
+Qualys, Inc.
+QuinStreet, Inc.
+Qurate Retail, Inc.
+Qurate Retail, Inc.
+Qorvo, Inc.
+uniQure N.V.
+Ultragenyx Pharmaceutical Inc.
+Raven Industries, Inc.
+RBB Bancorp
+Ribbon Communications Inc.
+Republic Bancorp, Inc.
+Rent-A-Center, Inc.
+Rocky Brands, Inc.
+R1 RCM Inc.
+Redfin Corporation
+Radware Ltd.
+The RealReal, Inc.
+Resources Connection, Inc.
+Regency Centers Corporation
+Renewable Energy Group, Inc.
+Regeneron Pharmaceuticals, Inc.
+Replimune Group, Inc.
+Repligen Corporation
+Royal Gold, Inc.
+REGENXBIO Inc.
+Rigel Pharmaceuticals, Inc.
+Rambus Inc.
+RigNet, Inc.
+Renasant Corporation
+Construction Partners, Inc.
+Gibraltar Industries, Inc.
+Retail Opportunity Investments Corp.
+Roku, Inc.
+RBC Bearings Incorporated
+Ross Stores, Inc.
+RealPage, Inc.
+Red River Bancshares, Inc.
+Red Robin Gourmet Burgers, Inc.
+Red Rock Resorts, Inc.
+RTI Surgical Holdings, Inc.
+Rattler Midstream LP
+Rubius Therapeutics, Inc.
+Sunrun Inc.
+Rush Enterprises, Inc.
+Rush Enterprises, Inc.
+Ruth's Hospitality Group, Inc.
+Riverview Bancorp, Inc.
+Sabre Corporation
+Sanderson Farms, Inc.
+Safety Insurance Group, Inc.
+Saia, Inc.
+Sanmina Corporation
+Sandy Spring Bancorp, Inc.
+EchoStar Corporation
+SBA Communications Corporation
+Strongbridge Biopharma plc
+Seacoast Banking Corporation of Florida
+Sinclair Broadcast Group, Inc.
+Star Bulk Carriers Corp.
+Signature Bank
+Sabra Health Care REIT, Inc.
+Southside Bancshares, Inc.
+Starbucks Corporation
+Scholastic Corporation
+Schnitzer Steel Industries, Inc.
+comScore, Inc.
+scPharmaceuticals Inc.
+SciPlay Corporation
+ScanSource, Inc.
+Shoe Carnival, Inc.
+SecureWorks Corp.
+SmileDirectClub, Inc.
+SeaChange International, Inc.
+SolarEdge Technologies, Inc.
+SEI Investments Company
+Seneca Foods Corporation
+Seneca Foods Corporation
+ServisFirst Bancshares, Inc.
+Stitch Fix, Inc.
+Sprouts Farmers Market, Inc.
+Simmons First National Corporation
+Sirius International Insurance Group, Ltd.
+Seattle Genetics, Inc.
+SMART Global Holdings, Inc.
+Sangamo Therapeutics, Inc.
+Scientific Games Corporation
+Surgery Partners, Inc.
+Shore Bancshares, Inc.
+Shenandoah Telecommunications Company
+Steven Madden, Ltd.
+Sientra, Inc.
+Selective Insurance Group, Inc.
+Silicom Ltd.
+SINA Corporation
+Sirius XM Holdings Inc.
+SVB Financial Group
+SkyWest, Inc.
+Silicon Laboratories Inc.
+Solid Biosciences Inc.
+Silgan Holdings Inc.
+SLM Corporation
+Solar Capital Ltd.
+Super Micro Computer, Inc.
+Summit Financial Group, Inc.
+Semtech Corporation
+Sleep Number Corporation
+Synchronoss Technologies, Inc.
+Sundial Growers Inc.
+Syndax Pharmaceuticals, Inc.
+Synopsys, Inc.
+Sonos, Inc.
+SP Plus Corporation
+Spartan Motors, Inc.
+South Plains Financial, Inc.
+Spark Energy, Inc.
+Splunk Inc.
+SeaSpine Holdings Corporation
+Spok Holdings, Inc.
+Spectrum Pharmaceuticals, Inc.
+Spero Therapeutics, Inc.
+SPS Commerce, Inc.
+SpartanNash Company
+Sportsman's Warehouse Holdings, Inc.
+SunPower Corporation
+1st Source Corporation
+Stericycle, Inc.
+Surmodics, Inc.
+ServiceSource International, Inc.
+Sarepta Therapeutics, Inc.
+Scholar Rock Holding Corporation
+South State Corporation
+SS&C Technologies Holdings, Inc.
+The E.W. Scripps Company
+SSR Mining Inc.
+Stratasys Ltd.
+Extended Stay America, Inc.
+S&T Bancorp, Inc.
+State Auto Financial Corporation
+SunOpta Inc.
+Steel Dynamics, Inc.
+Stamps.com Inc.
+StoneCo Ltd.
+Stoke Therapeutics, Inc.
+Strategic Education, Inc.
+Sterling Construction Company, Inc.
+Stratus Properties Inc.
+Seagate Technology plc
+Spirit of Texas Bancshares, Inc.
+Solar Senior Capital Ltd.
+Service Properties Trust
+SVMK Inc.
+Savara Inc.
+ShockWave Medical, Inc.
+Sierra Wireless, Inc.
+Skyworks Solutions, Inc.
+SpringWorks Therapeutics, Inc.
+Stock Yards Bancorp, Inc.
+Sykes Enterprises, Incorporated
+Synaptics Incorporated
+Syneos Health, Inc.
+Syros Pharmaceuticals, Inc.
+TravelCenters of America Inc.
+Carrols Restaurant Group, Inc.
+The Bancorp, Inc.
+Translate Bio, Inc.
+Triumph Bancorp, Inc.
+Territorial Bancorp Inc.
+Texas Capital Bancshares, Inc.
+TriCo Bancshares
+Tricida, Inc.
+TCF Financial Corporation
+BlackRock TCP Capital Corp.
+THL Credit, Inc.
+TCR2 Therapeutics Inc.
+Atlassian Corporation Plc
+Tech Data Corporation
+Bio-Techne Corporation
+Tenable Holdings, Inc.
+Teradyne, Inc.
+TerraForm Power, Inc.
+TFS Financial Corporation
+TransGlobe Energy Corporation
+First Financial Corporation
+Gentherm Incorporated
+Millicom International Cellular S.A.
+Interface, Inc.
+Titan Machinery Inc.
+TiVo Corporation
+Tilray, Inc.
+T-Mobile US, Inc.
+Telenav, Inc.
+TowneBank
+Turning Point Therapeutics, Inc.
+LendingTree, Inc.
+TripAdvisor, Inc.
+Trimble Inc.
+TORM plc
+Trustmark Corporation
+T. Rowe Price Group, Inc.
+TriMas Corporation
+TrustCo Bank Corp NY
+TrueCar, Inc.
+TriState Capital Holdings, Inc.
+Tractor Supply Company
+Tower Semiconductor Ltd.
+The Stars Group Inc.
+Tesla, Inc.
+TTEC Holdings, Inc.
+Tetra Tech, Inc.
+TTM Technologies, Inc.
+Take-Two Interactive Software, Inc.
+Tivity Health, Inc.
+Tradeweb Markets Inc.
+Twin Disc, Incorporated
+2U, Inc.
+Twist Bioscience Corporation
+10x Genomics, Inc.
+TherapeuticsMD, Inc.
+Texas Instruments Incorporated
+Texas Roadhouse, Inc.
+Travelzoo
+United Airlines Holdings, Inc.
+United Security Bancshares
+United Bankshares, Inc.
+Unity Biotechnology, Inc.
+United Community Banks, Inc.
+Ultra Clean Holdings, Inc.
+Universal Electronics Inc.
+Net 1 UEPS Technologies, Inc.
+United Fire Group, Inc.
+Universal Forest Products, Inc.
+AMERCO
+Universal Logistics Holdings, Inc.
+Ulta Beauty, Inc.
+UMB Financial Corporation
+Umpqua Holdings Corporation
+Uniti Group Inc.
+Upwork Inc.
+Urban Outfitters, Inc.
+Urovant Sciences Ltd.
+Universal Stainless & Alloy Products, Inc.
+U.S. Concrete, Inc.
+United States Lime & Minerals, Inc.
+United Therapeutics Corporation
+Utah Medical Products, Inc.
+UTStarcom Holdings Corp.
+Univest Financial Corporation
+Visteon Corporation
+Victory Capital Holdings, Inc.
+Veeco Instruments Inc.
+Vonage Holdings Corp.
+ViacomCBS Inc.
+ViacomCBS Inc.
+Viavi Solutions Inc.
+Vicor Corporation
+Viela Bio, Inc.
+Vir Biotechnology, Inc.
+Virtu Financial, Inc.
+Meridian Bioscience, Inc.
+Village Super Market, Inc.
+Valley National Bancorp
+VOXX International Corporation
+Vera Bradley, Inc.
+Varex Imaging Corporation
+Varonis Systems, Inc.
+Verint Systems Inc.
+Verisk Analytics, Inc.
+VeriSign, Inc.
+Virtus Investment Partners, Inc.
+Virtusa Corporation
+Vertex Pharmaceuticals Incorporated
+Viasat, Inc.
+VSE Corporation
+Voyager Therapeutics, Inc.
+Westamerica Bancorporation
+Washington Federal, Inc.
+Washington Trust Bancorp, Inc.
+Walgreens Boots Alliance, Inc.
+Workday, Inc.
+Western Digital Corporation
+WD-40 Company
+The Wendy's Company
+Werner Enterprises, Inc.
+WisdomTree Investments, Inc.
+Weyco Group, Inc.
+WhiteHorse Finance, Inc.
+Boingo Wireless, Inc.
+Wingstop Inc.
+Encore Wire Corporation
+Wix.com Ltd.
+Willis Towers Watson Public Limited Company
+Wright Medical Group N.V.
+Western New England Bancorp, Inc.
+Westport Fuel Systems Inc.
+World Acceptance Corporation
+WesBanco, Inc.
+Waterstone Financial, Inc.
+WSFS Financial Corporation
+West Bancorporation, Inc.
+Wintrust Financial Corporation
+Watford Holdings Ltd.
+WW International, Inc.
+Woodward, Inc.
+Wynn Resorts, Limited
+XBiotech Inc.
+Xcel Energy Inc.
+Xeris Pharmaceuticals, Inc.
+Xilinx, Inc.
+Extraction Oil & Gas, Inc.
+The ExOne Company
+XP Inc.
+Xperi Corporation
+DENTSPLY SIRONA Inc.
+Y-mAbs Therapeutics, Inc.
+Yandex N.V.
+The York Water Company
+YRC Worldwide Inc.
+Zillow Group, Inc.
+ZAGG Inc
+Zebra Technologies Corporation
+Olympic Steel, Inc.
+Zillow Group, Inc.
+Zions Bancorporation, National Association
+ZIOPHARM Oncology, Inc.
+Zix Corporation
+Zoom Video Communications, Inc.
+Zynga Inc.
+Zscaler, Inc.
+Zumiez Inc.
+Agilent Technologies, Inc.
+Alcoa Corporation
+Aaron's, Inc.
+Advance Auto Parts, Inc.
+American Assets Trust, Inc.
+AbbVie Inc.
+AmerisourceBergen Corporation
+Asbury Automotive Group, Inc.
+ABM Industries Incorporated
+Arbor Realty Trust, Inc.
+Abbott Laboratories
+Associated Capital Group, Inc.
+Arcosa, Inc.
+Aurora Cannabis Inc.
+American Campus Communities, Inc.
+ACCO Brands Corporation
+Accel Entertainment, Inc.
+AECOM
+Accenture plc
+Aberdeen Income Credit Strategies Fund
+Ares Commercial Real Estate Corporation
+AllianzGI Diversified Income & Convertible Fund
+Agree Realty Corporation
+Archer-Daniels-Midland Company
+Adient plc
+Alliance Data Systems Corporation
+Advanced Disposal Services, Inc.
+ADT Inc.
+Adams Diversified Equity Fund, Inc.
+Ameren Corporation
+American Equity Investment Life Holding Company
+Agnico Eagle Mines Limited
+American Eagle Outfitters, Inc.
+American Electric Power Company, Inc.
+AerCap Holdings N.V.
+The AES Corporation
+AllianceBernstein National Municipal Income Fund
+American Financial Group, Inc.
+Aflac Incorporated
+Apollo Senior Floating Rate Fund Inc.
+First Majestic Silver Corp.
+AGCO Corporation
+Aberdeen Global Dynamic Dividend Fund
+Alamos Gold Inc.
+Federal Agricultural Mortgage Corporation
+Federal Agricultural Mortgage Corporation
+Allergan plc
+Assured Guaranty Ltd.
+Avangrid, Inc.
+Adecoagro S.A.
+PlayAGS, Inc.
+Argan, Inc.
+Armada Hoffler Properties, Inc.
+Ashford Hospitality Trust, Inc.
+Arlington Asset Investment Corp.
+Apollo Tactical Income Fund Inc.
+American International Group, Inc.
+Albany International Corp.
+AllianzGI Artificial Intelligence Opportunities Fund
+AAR Corp.
+Applied Industrial Technologies, Inc.
+Apartment Investment and Management Company
+Assurant, Inc.
+Arthur J. Gallagher & Co.
+Aerojet Rocketdyne Holdings, Inc.
+Great Ajax Corp.
+Acadia Realty Trust
+AK Steel Holding Corporation
+Air Lease Corporation
+Albemarle Corporation
+Alcon, Inc.
+ALLETE, Inc.
+Alexander & Baldwin, Inc.
+Alamo Group Inc.
+Alaska Air Group, Inc.
+The Allstate Corporation
+Allegion plc
+Ally Financial Inc.
+Allison Transmission Holdings, Inc.
+Alussa Energy Acquisition Corp.
+Autoliv, Inc.
+Alexander's, Inc.
+Antero Midstream Corporation
+Ambac Financial Group, Inc.
+AMC Entertainment Holdings, Inc.
+Amcor plc
+AMETEK, Inc.
+Affiliated Managers Group, Inc.
+American Homes 4 Rent
+AssetMark Financial Holdings, Inc.
+AMN Healthcare Services, Inc.
+Ameriprise Financial, Inc.
+Amplify Energy Corp.
+Ameresco, Inc.
+Amneal Pharmaceuticals, Inc.
+American Tower Corporation (REIT)
+AutoNation, Inc.
+Arista Networks, Inc.
+Abercrombie & Fitch Co.
+Anworth Mortgage Asset Corporation
+Anthem, Inc.
+Aberdeen Total Dynamic Dividend Fund
+Aon plc
+A. O. Smith Corporation
+Apache Corporation
+Artisan Partners Asset Management Inc.
+Air Products and Chemicals, Inc.
+Amphenol Corporation
+Aphria Inc.
+Apple Hospitality REIT, Inc.
+Apollo Global Management, Inc.
+Preferred Apartment Communities, Inc.
+Aptiv PLC
+Apergy Corporation
+Algonquin Power & Utilities Corp.
+Evoqua Water Technologies Corp.
+Antero Resources Corporation
+American Renal Associates Holdings, Inc.
+Arch Coal, Inc.
+Arcos Dorados Holdings Inc.
+Ardagh Group S.A.
+Ares Dynamic Credit Allocation Fund, Inc.
+Alexandria Real Estate Equities, Inc.
+Ares Management Corporation
+Argo Group International Holdings, Ltd.
+Apollo Commercial Real Estate Finance, Inc.
+American Realty Investors, Inc.
+Arlo Technologies, Inc.
+Aramark
+Arconic Inc.
+Archrock, Inc.
+ARMOUR Residential REIT, Inc.
+Arrow Electronics, Inc.
+ASA Gold and Precious Metals Limited
+Associated Banc-Corp
+Ardmore Shipping Corporation
+Liberty All-Star Growth Fund, Inc.
+ASGN Incorporated
+Ashland Global Holdings Inc.
+AdvanSix Inc.
+Aspen Aerogels, Inc.
+Atlantic Power Corporation
+A10 Networks, Inc.
+Adtalem Global Education Inc.
+Athene Holding Ltd.
+Allegheny Technologies Incorporated
+Atkore International Group Inc.
+Atmos Energy Corporation
+AptarGroup, Inc.
+Atento S.A.
+Altice USA, Inc.
+Yamana Gold Inc.
+Avista Corporation
+AvalonBay Communities, Inc.
+American Vanguard Corporation
+Advent Convertible and Income Fund
+Avalara, Inc.
+Avanos Medical, Inc.
+Avantor, Inc.
+AVX Corporation
+Avery Dennison Corporation
+Avaya Holdings Corp.
+AllianceBernstein Global High Income Fund
+Armstrong World Industries, Inc.
+American Water Works Company, Inc.
+Aberdeen Global Premier Properties Fund
+American States Water Company
+Axos Financial, Inc.
+Anixter International Inc.
+American Axle & Manufacturing Holdings, Inc.
+American Express Company
+AXIS Capital Holdings Limited
+Axalta Coating Systems Ltd.
+Acuity Brands, Inc.
+Aircastle Limited
+Alteryx, Inc.
+AutoZone, Inc.
+Azure Power Global Limited
+AZZ Inc.
+Barnes Group Inc.
+The Boeing Company
+Bank of America Corporation
+BlackRock Municipal Income Investment Quality Trust
+Booz Allen Hamilton Holding Corporation
+Brookfield Asset Management Inc.
+Banc of California, Inc.
+Credicorp Ltd.
+Baxter International Inc.
+BlackBerry Limited
+Barings BDC, Inc.
+BlackRock Municipal Income Investment Trust
+BlackRock Municipal Bond Trust
+BlackRock Taxable Municipal Bond Trust
+BBX Capital Corporation
+Best Buy Co., Inc.
+Brunswick Corporation
+Boise Cascade Company
+BCE Inc.
+Bonanza Creek Energy, Inc.
+The Brink's Company
+Bain Capital Specialty Finance, Inc.
+Blackrock Resources & Commodities Strategy Trust
+Belden Inc.
+BlackRock Enhanced Equity Dividend Trust
+Brandywine Realty Trust
+Becton, Dickinson and Company
+Bloom Energy Corporation
+Franklin Resources, Inc.
+Berry Global Group, Inc.
+Brown-Forman Corporation
+Brown-Forman Corporation
+Bright Horizons Family Solutions Inc.
+BlackRock Municipal Income Trust
+Saul Centers, Inc.
+BlackRock California Municipal Income Trust
+Bunge Limited
+Blackstone/GSO Strategic Credit Fund
+Briggs & Stratton Corporation
+Barings Global Short Duration High Yield Fund
+BlackRock 2022 Global Income Opportunity Trust
+BlackRock Energy and Resources Trust
+B&G Foods, Inc.
+BG Staffing, Inc.
+BlackRock Floating Rate Income Trust
+Blackstone / GSO Long-Short Credit Income Fund
+BlackRock Enhanced International Dividend Trust
+Biglari Holdings Inc.
+Biglari Holdings Inc.
+Bausch Health Companies Inc.
+Benchmark Electronics, Inc.
+BlackRock Core Bond Trust
+Berkshire Hills Bancorp, Inc.
+Braemar Hotels & Resorts, Inc.
+Biohaven Pharmaceutical Holding Company Ltd.
+Boulder Growth & Income Fund, Inc.
+Big Lots, Inc.
+Bill.com Holdings, Inc.
+Bio-Rad Laboratories, Inc.
+Bio-Rad Laboratories, Inc.
+BlackRock Multi-Sector Income Trust
+BJ's Wholesale Club Holdings, Inc.
+The Bank of New York Mellon Corporation
+Brookdale Senior Living Inc.
+The Buckle, Inc.
+Black Hills Corporation
+Black Knight, Inc.
+BlackRock Municipal 2020 Term Trust
+BlackRock Investment Quality Municipal Trust Inc.
+Baker Hughes Company
+BlackRock Income Trust, Inc.
+BankUnited, Inc.
+TopBuild Corp.
+BlackRock Municipal Income Trust II
+BlackRock, Inc.
+Ball Corporation
+BlackRock Limited Duration Income Trust
+Banco Latinoamericano de Comercio Exterior, S.A
+BlackRock Health Sciences Trust
+Badger Meter, Inc.
+Bank of Montreal
+Bristol-Myers Squibb Company
+Barnes & Noble Education, Inc.
+The Bank of Nova Scotia
+BlackRock New York Municipal Income Trust
+Bank of Hawaii Corporation
+Boot Barn Holdings, Inc.
+Borr Drilling Limited
+Box, Inc.
+BP Prudhoe Bay Royalty Trust
+Broadridge Financial Solutions, Inc.
+BellRing Brands, Inc.
+Brady Corporation
+Berkshire Hathaway Inc.
+Berkshire Hathaway Inc.
+Broadmark Realty Capital Inc.
+Brown & Brown, Inc.
+BRT Apartments Corp.
+Brixmor Property Group Inc.
+BlackRock Strategic Municipal Trust
+BrightSphere Investment Group Inc.
+Blackstone/GSO Senior Floating Rate Term Fund
+BlackRock Science and Technology Trust
+BlackRock Science and Technology Trust II
+Boston Scientific Corporation
+BlackRock Long-Term Municipal Advantage Trust
+Baytex Energy Corp.
+John Hancock Financial Opportunities Fund
+Blackrock Municipal 2030 Target Term Trust
+Peabody Energy Corporation
+BlackRock Credit Allocation Income Trust
+BlackRock Utilities, Infrastructure & Power Opportunities Trust
+Burlington Stores, Inc.
+BrightView Holdings, Inc.
+Babcock & Wilcox Enterprises, Inc.
+BorgWarner Inc.
+Legg Mason BW Global Income Opportunities Fund Inc.
+BWX Technologies, Inc.
+The Blackstone Group Inc.
+BlueLinx Holdings Inc.
+Bluegreen Vacations Corporation
+Blackstone Mortgage Trust, Inc.
+Nuveen S&P 500 Buy-Write Income Fund
+Boston Properties, Inc.
+BancorpSouth Bank
+Byline Bancorp, Inc.
+Boyd Gaming Corporation
+BlackRock Municipal Income Quality Trust
+Beazer Homes USA, Inc.
+Citigroup Inc.
+Corporación América Airports S.A.
+Cable One, Inc.
+CACI International Inc
+Cadence Bancorporation
+CAE Inc.
+Morgan Stanley China A Share Fund, Inc.
+Conagra Brands, Inc.
+Cardinal Health, Inc.
+CAI International, Inc.
+Caleres, Inc.
+Calix, Inc.
+Cars.com Inc.
+Caterpillar Inc.
+The Cato Corporation
+Chubb Limited
+Cincinnati Bell Inc.
+AllianzGI Convertible & Income 2024 Target Term Fund
+CBL & Associates Properties, Inc.
+CBRE Group, Inc.
+Cabot Corporation
+Community Bank System, Inc.
+CBIZ, Inc.
+The Chemours Company
+Clarivate Analytics Plc
+Coca-Cola European Partners plc
+Collier Creek Holdings
+Crown Castle International Corp. (REIT)
+Cameco Corporation
+Crown Holdings, Inc.
+Carnival Corporation & Plc
+Clear Channel Outdoor Holdings, Inc.
+Century Communities, Inc.
+Churchill Capital Corp II
+Ceridian HCM Holding Inc.
+Coeur Mining, Inc.
+Cedar Realty Trust, Inc.
+Celanese Corporation
+The Central and Eastern Europe Fund, Inc.
+CONSOL Energy Inc.
+Cellcom Israel Ltd.
+ClearBridge MLP and Midstream Fund Inc
+Center Coast Brookfield MLP & Energy Infrastructure Fund
+CF Industries Holdings, Inc.
+Citizens Financial Group, Inc.
+Cullen/Frost Bankers, Inc.
+Colfax Corporation
+Canopy Growth Corporation
+Community Healthcare Trust Incorporated
+Church & Dwight Co., Inc.
+Chemed Corporation
+Chegg, Inc.
+Choice Hotels International, Inc.
+Chesapeake Energy Corporation
+Cherry Hill Mortgage Investment Corporation
+The China Fund, Inc.
+Chico's FAS, Inc.
+Chewy, Inc.
+Cigna Corporation
+Citizens, Inc.
+Ciena Corporation
+BlackRock Enhanced Capital and Income Fund, Inc.
+Chimera Investment Corporation
+City Office REIT, Inc.
+CIRCOR International, Inc.
+CIT Group Inc.
+SEACOR Holdings Inc.
+Colgate-Palmolive Company
+Core Laboratories N.V.
+Cloudera, Inc.
+Chatham Lodging Trust
+Cleveland-Cliffs Inc.
+CoreLogic, Inc.
+Clean Harbors, Inc.
+Mack-Cali Realty Corporation
+Colony Credit Real Estate, Inc.
+Colony Capital, Inc.
+Clipper Realty Inc.
+Continental Resources, Inc.
+Celestica Inc.
+Clearwater Paper Corporation
+The Clorox Company
+Canadian Imperial Bank of Commerce
+Comerica Incorporated
+Commercial Metals Company
+Cantel Medical Corp.
+Chipotle Mexican Grill, Inc.
+Cummins Inc.
+Capstead Mortgage Corporation
+Compass Minerals International, Inc.
+Costamare Inc.
+CMS Energy Corporation
+MFS High Yield Municipal Trust
+CNA Financial Corporation
+Centene Corporation
+CNH Industrial N.V.
+Canadian National Railway Company
+Cinemark Holdings, Inc.
+CONMED Corporation
+Cannae Holdings, Inc.
+CNO Financial Group, Inc.
+CenterPoint Energy, Inc.
+Canadian Natural Resources Limited
+Cornerstone Building Brands, Inc.
+Cohen & Steers, Inc.
+CNX Resources Corporation
+Global Cord Blood Corporation
+Compass Diversified Holdings LLC
+Capital One Financial Corporation
+Cabot Oil & Gas Corporation
+Americold Realty Trust
+The Cooper Companies, Inc.
+ConocoPhillips Company
+CoreSite Realty Corporation
+CorEnergy Infrastructure Trust, Inc.
+Cott Corporation
+Coty Inc.
+Canadian Pacific Railway Limited
+Copa Holdings, S.A.
+Campbell Soup Company
+Callon Petroleum Company
+Central Pacific Financial Corp.
+Crescent Point Energy Corp.
+Chesapeake Utilities Corporation
+CorePoint Lodging Inc.
+Capri Holdings Limited
+Cooper-Standard Holdings Inc.
+Camden Property Trust
+Crane Co.
+California Resources Corporation
+Crawford & Company
+Crawford & Company
+Carter's, Inc.
+Comstock Resources, Inc.
+Charles River Laboratories International, Inc.
+salesforce.com, inc.
+Carpenter Technology Corporation
+CryoLife, Inc.
+Carlisle Companies Incorporated
+Castlight Health, Inc.
+Constellium SE
+Carriage Services, Inc.
+Cooper Tire & Rubber Company
+CenturyLink, Inc.
+Catalent, Inc.
+ClearBridge MLP and Midstream Total Return Fund Inc
+Contura Energy, Inc.
+CTS Corporation
+CannTrust Holdings Inc.
+CatchMark Timber Trust, Inc.
+Corteva, Inc.
+Cubic Corporation
+CubeSmart
+Customers Bancorp, Inc.
+Culp, Inc.
+CURO Group Holdings Corp.
+Cousins Properties Incorporated
+Covanta Holding Corporation
+Cenovus Energy Inc.
+Civeo Corporation
+CVR Energy, Inc.
+Covia Holdings Corporation
+Carvana Co.
+CVS Health Corporation
+Chevron Corporation
+Curtiss-Wright Corporation
+Clearway Energy, Inc.
+Clearway Energy, Inc.
+Camping World Holdings, Inc.
+Cushman & Wakefield plc
+California Water Service Group
+MFS High Income Municipal Trust
+Concho Resources Inc.
+Columbia Property Trust, Inc.
+CoreCivic, Inc.
+China Yuchai International Limited
+Community Health Systems, Inc.
+Cosan Limited
+Dominion Energy, Inc.
+Danaos Corporation
+Delta Air Lines, Inc.
+Dana Incorporated
+Darling Ingredients Inc.
+Deutsche Bank Aktiengesellschaft
+Diebold Nixdorf, Incorporated
+Designer Brands Inc.
+DoubleLine Opportunistic Credit Fund
+BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc.
+Donaldson Company, Inc.
+Ducommun Incorporated
+DuPont de Nemours, Inc.
+3D Systems Corporation
+Delaware Investments Dividend and Income Fund, Inc.
+Dillard's, Inc.
+Deere & Company
+Easterly Government Properties, Inc.
+Deckers Outdoor Corporation
+Douglas Emmett, Inc.
+Dell Technologies Inc.
+Despegar.com, Corp.
+Delaware Enhanced Global Dividend and Income Fund
+Donnelley Financial Solutions, Inc.
+Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.
+Discover Financial Services
+Dollar General Corporation
+Quest Diagnostics Incorporated
+BNY Mellon High Yield Strategies Fund
+D.R. Horton, Inc.
+Danaher Corporation
+DHT Holdings, Inc.
+DHI Group, Inc.
+Nuveen Dow 30 Dynamic Overwrite Fund
+Dine Brands Global, Inc.
+The Walt Disney Company
+Delek US Holdings, Inc.
+DICK'S Sporting Goods, Inc.
+Dolby Laboratories, Inc.
+Delphi Technologies PLC
+Digital Realty Trust, Inc.
+Deluxe Corporation
+BNY Mellon Municipal Bond Infrastructure Fund, Inc.
+Western Asset Mortgage Opportunity Fund Inc.
+Dividend and Income Fund
+NOW Inc.
+DNP Select Income Fund Inc.
+Denbury Resources Inc.
+Diamond Offshore Drilling, Inc.
+Physicians Realty Trust
+Masonite International Corporation
+Dover Corporation
+Dow Inc.
+Duff & Phelps Utility and Infrastructure Fund Inc.
+Domino's Pizza, Inc.
+Duke Realty Corporation
+DiamondRock Hospitality Company
+Darden Restaurants, Inc.
+Dril-Quip, Inc.
+Drive Shack Inc.
+Duff & Phelps Select MLP and Midstream Energy Fund
+DoubleLine Income Solutions Fund
+BNY Mellon Strategic Municipal Bond Fund, Inc.
+Diamond S Shipping Inc.
+BlackRock Debt Strategies Fund, Inc.
+Diana Shipping Inc.
+Dynatrace, Inc.
+DTE Energy Company
+DTF Tax-Free Income Inc.
+Duff & Phelps Utility and Corporate Bond Trust Inc.
+Duke Energy Corporation
+DaVita Inc.
+Devon Energy Corporation
+Dynex Capital, Inc.
+DXC Technology Company
+Dycom Industries, Inc.
+GrafTech International Ltd.
+Ellington Residential Mortgage REIT
+Brinker International, Inc.
+Eventbrite, Inc.
+Ennis, Inc.
+Emergent BioSolutions Inc.
+Eagle Point Credit Company Inc.
+Ecolab Inc.
+ChannelAdvisor Corporation
+Consolidated Edison, Inc.
+Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.
+Stone Harbor Emerging Markets Income Fund
+Stone Harbor Emerging Markets Total Income Fund
+El Paso Electric Company
+Emerald Holding, Inc.
+Ellington Financial Inc.
+Eaton Vance Floating-Rate Income Plus Fund
+Eaton Vance Floating-Rate 2022 Target Term Trust
+Eaton Vance Senior Floating-Rate Trust
+Eaton Vance Floating-Rate Income Trust
+Equifax Inc.
+8x8, Inc.
+Eagle Growth & Income Opportunities Fund
+Eldorado Gold Corporation
+EastGroup Properties, Inc.
+VAALCO Energy, Inc.
+Encompass Health Corporation
+Western Asset Global High Income Fund Inc.
+Eaton Vance High Income 2021 Target Term Trust
+Eagle Point Income Company Inc.
+Employers Holdings, Inc.
+Edison International
+The Estée Lauder Companies Inc.
+Elanco Animal Health Incorporated
+e.l.f. Beauty, Inc.
+Equity LifeStyle Properties, Inc.
+Elevate Credit, Inc.
+Callaway Golf Company
+Western Asset Emerging Markets Debt Fund Inc.
+EMCOR Group, Inc.
+Templeton Emerging Markets Fund
+Eastman Chemical Company
+ClearBridge Energy Midstream Opportunity Fund Inc
+Emerson Electric Co.
+Enbridge Inc.
+EnLink Midstream, LLC
+Energizer Holdings, Inc.
+EnerSys
+Envestnet, Inc.
+Enova International, Inc.
+Enzo Biochem, Inc.
+Wells Fargo Advantage Funds - Wells Fargo Global Dividend Opportunity Fund
+EOG Resources, Inc.
+Eaton Vance Enhanced Equity Income Fund
+Eaton Vance Enhanced Equity Income Fund II
+Eaton Vance National Municipal Opportunities Trust
+Enerpac Tool Group Corp.
+EPAM Systems, Inc.
+Edgewell Personal Care Company
+EPR Properties
+Essential Properties Realty Trust, Inc.
+Equity Commonwealth
+Equitable Holdings, Inc.
+Equity Residential
+EQT Corporation
+Era Group Inc.
+Enerplus Corporation
+Eros International Plc
+Eversource Energy
+ESCO Technologies Inc.
+Element Solutions Inc
+Essent Group Ltd.
+Empire State Realty Trust, Inc.
+Essex Property Trust, Inc.
+Elastic N.V.
+Earthstone Energy, Inc.
+Eaton Vance Tax-Managed Buy-Write Income Fund
+Eaton Vance Tax-Advantaged Global Dividend Income Fund
+Ethan Allen Interiors Inc.
+Eaton Vance Risk-Managed Diversified Equity Income Fund
+Entercom Communications Corp.
+Eaton Corporation plc
+Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund
+Entergy Corporation
+Equitrans Midstream Corporation
+Eaton Vance Tax-Managed Buy-Write Opportunities Fund
+Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund
+Eaton Vance Municipal Income 2028 Term Trust
+Eaton Vance Tax-Managed Diversified Equity Income Fund
+Euronav NV
+Eaton Vance Corp.
+Entravision Communications Corporation
+Eaton Vance Senior Income Trust
+Eaton Vance Short Duration Diversified Income Fund
+Evolent Health, Inc.
+Eaton Vance Municipal Income Trust
+Evercore Inc.
+Evergy, Inc.
+Everi Holdings Inc.
+Eaton Vance Tax-Advantaged Dividend Income Fund
+EVERTEC, Inc.
+Edwards Lifesciences Corporation
+Eaton Vance Tax-Advantaged Bond and Option Strategies Fund
+Eaton Vance Tax-Managed Global Diversified Equity Income Fund
+Endeavour Silver Corp.
+Eagle Materials Inc.
+Express, Inc.
+Extra Space Storage Inc.
+Exterran Corporation
+Ford Motor Company
+First American Financial Corporation
+First Trust/Aberdeen Global Opportunity Income Fund
+Flagstar Bancorp, Inc.
+Fortune Brands Home & Security, Inc.
+FB Financial Corporation
+Foundation Building Materials, Inc.
+First BanCorp.
+Franklin Covey Co.
+Fiat Chrysler Automobiles N.V.
+First Commonwealth Financial Corporation
+FTI Consulting, Inc.
+Four Corners Property Trust, Inc.
+First Trust Senior Floating Rate Income Fund II
+Freeport-McMoRan Inc.
+First Trust Dynamic Europe Equity Income Fund
+Fresh Del Monte Produce Inc.
+FactSet Research Systems Inc.
+FedEx Corporation
+FirstEnergy Corp.
+First Trust MLP and Energy Income Fund
+Forum Energy Technologies, Inc.
+FutureFuel Corp.
+First Trust Enhanced Equity Income Fund
+Flaherty & Crumrine Preferred Securities Income Fund Inc.
+FBL Financial Group, Inc.
+FGL Holdings
+Federated Hermes, Inc.
+First Horizon National Corporation
+Frank's International N.V.
+Fair Isaac Corporation
+First Trust Energy Infrastructure Fund
+Angel Oak Financial Strategies Income Term Trust
+Fidelity National Information Services, Inc.
+Fitbit, Inc.
+First Trust Senior Floating Rate 2022 Target Term Fund
+Comfort Systems USA, Inc.
+Foot Locker, Inc.
+Flaherty & Crumrine Total Return Fund Inc.
+Flex LNG Ltd.
+Flowers Foods, Inc.
+SPX FLOW, Inc.
+Fluor Corporation
+Flowserve Corporation
+FleetCor Technologies, Inc.
+FMC Corporation
+Federated Premier Municipal Income Fund
+Fiduciary/Claymore Energy Infrastructure Fund
+Fabrinet
+F.N.B. Corporation
+Floor & Decor Holdings, Inc.
+Fidelity National Financial, Inc.
+Franco-Nevada Corporation
+Ferro Corporation
+Cohen & Steers Closed-End Opportunity Fund, Inc.
+Forestar Group Inc.
+Far Point Acquisition Corporation
+First Trust Intermediate Duration Preferred & Income Fund
+Five Point Holdings, LLC
+Farmland Partners Inc.
+First Trust New Opportunities MLP & Energy Fund
+First Industrial Realty Trust, Inc.
+BlackRock Floating Rate Income Strategies Fund, Inc.
+First Republic Bank
+Frontline Ltd.
+Federal Realty Investment Trust
+Franklin Financial Network, Inc.
+First Trust High Income Long/Short Fund
+FS KKR Capital Corp.
+Fastly, Inc.
+Fortuna Silver Mines Inc.
+Federal Signal Corporation
+Franklin Universal Trust
+Fortress Transportation and Infrastructure Investors LLC
+Farfetch Limited
+TechnipFMC plc
+Flotek Industries, Inc.
+Fortis Inc.
+Fortive Corporation
+H.B. Fuller Company
+Fiverr International Ltd.
+Genpact Limited
+The Gabelli Equity Trust Inc.
+General American Investors Company, Inc.
+GATX Corporation
+Guggenheim Taxable Municipal Managed Duration Trust
+GAMCO Investors, Inc.
+The Greenbrier Companies, Inc.
+GAIN Capital Holdings, Inc.
+Gannett Co., Inc.
+Genesco Inc.
+GCP Applied Technologies Inc.
+The Gabelli Convertible and Income Securities Fund Inc.
+General Dynamics Corporation
+GoDaddy Inc.
+Gardner Denver Holdings, Inc.
+The GDL Fund
+Western Asset Global Corporate Defined Opportunity Fund Inc.
+Green Dot Corporation
+The Gabelli Dividend & Income Trust
+General Electric Company
+Greif, Inc.
+Greif, Inc.
+Genesis Healthcare, Inc.
+The GEO Group, Inc.
+Goldman Sachs MLP and Energy Renaissance Fund
+Guess?, Inc.
+The New Germany Fund, Inc.
+Griffon Corporation
+Graco Inc.
+Guggenheim Credit Allocation Fund
+The Gabelli Multimedia Trust Inc.
+The Gabelli Global Small and Mid Cap Value Trust
+Graham Holdings Company
+Greenhill & Co., Inc.
+Graham Corporation
+PGIM Global High Yield Fund, Inc
+CGI Inc.
+Gildan Activewear Inc.
+Templeton Global Income Fund
+General Mills, Inc.
+Glaukos Corporation
+Globe Life Inc.
+Globant S.A.
+GasLog Ltd.
+P. H. Glatfelter Company
+Corning Incorporated
+General Motors Company
+GameStop Corp.
+Globus Medical, Inc.
+Global Medical REIT Inc.
+GMS Inc.
+Goldman Sachs MLP Income Opportunities Fund
+GNC Holdings, Inc.
+Genie Energy Ltd.
+Genco Shipping & Trading Limited
+Global Net Lease, Inc.
+Generac Holdings Inc.
+GAMCO Natural Resources, Gold & Income Trust
+Genworth Financial, Inc.
+Guggenheim Strategic Opportunities Fund
+Barrick Gold Corporation
+Acushnet Holdings Corp.
+Canada Goose Holdings Inc.
+Genuine Parts Company
+Group 1 Automotive, Inc.
+Graphic Packaging Holding Company
+Guggenheim Enhanced Equity Income Fund
+Granite Point Mortgage Trust Inc.
+Global Payments Inc.
+GeoPark Limited
+The Gap, Inc.
+GP Strategies Corporation
+W. R. Grace & Co.
+Graf Industrial Corp.
+The Gorman-Rupp Company
+Granite Real Estate Investment Trust
+Grubhub Inc.
+The Gabelli Healthcare & Wellness Trust
+The Goldman Sachs Group, Inc.
+Goldman Sachs BDC, Inc.
+Global Ship Lease, Inc.
+Gates Industrial Corporation plc
+Gray Television, Inc.
+Gray Television, Inc.
+Triple-S Management Corporation
+GTT Communications, Inc.
+Garrett Motion Inc.
+Getty Realty Corp.
+The Gabelli Utility Trust
+Granite Construction Incorporated
+Great Western Bancorp, Inc.
+Guidewire Software, Inc.
+W.W. Grainger, Inc.
+Hyatt Hotels Corporation
+Haemonetics Corporation
+Halliburton Company
+Hannon Armstrong Sustainable Infrastructure Capital, Inc.
+Hamilton Beach Brands Holding Company
+Hanesbrands Inc.
+Hudbay Minerals Inc.
+HCA Healthcare, Inc.
+Warrior Met Coal, Inc.
+HC2 Holdings, Inc.
+HCI Group, Inc.
+The Home Depot, Inc.
+Hawaiian Electric Industries, Inc.
+HEICO Corporation
+HEICO Corporation
+John Hancock Hedged Equity & Income Fund
+Hess Corporation
+Hess Midstream LP
+HEXO Corp.
+HollyFrontier Corporation
+Highland Global Allocation Fund
+Hilton Grand Vacations Inc.
+The Howard Hughes Corporation
+Hillenbrand, Inc.
+Miller/Howard High Income Equity Fund
+The Hartford Financial Services Group, Inc.
+Huntington Ingalls Industries, Inc.
+Hill International, Inc.
+Western Asset High Income Opportunity Fund Inc.
+Highwoods Properties, Inc.
+Western Asset High Income Fund II Inc.
+Hecla Mining Company
+Herbalife Nutrition Ltd.
+Houlihan Lokey, Inc.
+Hilton Worldwide Holdings Inc.
+Helix Energy Solutions Group, Inc.
+Horace Mann Educators Corporation
+Hanger, Inc.
+HNI Corporation
+Harley-Davidson, Inc.
+At Home Group Inc.
+Honeywell International Inc.
+Hovnanian Enterprises, Inc.
+Helmerich & Payne, Inc.
+Hewlett Packard Enterprise Company
+John Hancock Preferred Income Fund II
+John Hancock Preferred Income Fund
+Hudson Pacific Properties, Inc.
+HP Inc.
+HighPoint Resources Corporation
+John Hancock Preferred Income Fund III
+Tekla Healthcare Investors
+Tekla Life Sciences Investors
+Healthcare Realty Trust Incorporated
+H&R Block, Inc.
+Hill-Rom Holdings, Inc.
+Herc Holdings Inc.
+Hormel Foods Corporation
+Heritage Insurance Holdings, Inc.
+Harsco Corporation
+Host Hotels & Resorts, Inc.
+The Hershey Company
+Hersha Hospitality Trust
+Healthcare Trust of America, Inc.
+John Hancock Tax-Advantaged Dividend Income Fund
+Hercules Capital, Inc.
+Hilltop Holdings Inc.
+Hertz Global Holdings, Inc.
+Hubbell Incorporated
+HubSpot, Inc.
+Hudson Ltd.
+Humana Inc.
+Huntsman Corporation
+Haverty Furniture Companies, Inc.
+Haverty Furniture Companies, Inc.
+Hexcel Corporation
+Hyster-Yale Materials Handling, Inc.
+The New America High Income Fund Inc.
+Western Asset High Yield Defined Opportunity Fund Inc.
+BlackRock Corporate High Yield Fund, Inc.
+MarineMax, Inc.
+Intelsat S.A.
+IAA, Inc.
+Voya Asia Pacific High Dividend Equity Income Fund
+IAMGOLD Corporation
+International Business Machines Corporation
+Installed Building Products, Inc.
+Intercontinental Exchange, Inc.
+Israel Chemicals Ltd.
+IDACORP, Inc.
+Voya Infrastructure, Industrials and Materials Fund
+IDT Corporation
+IDEX Corporation
+International Flavors & Fragrances Inc.
+The India Fund, Inc.
+Intercorp Financial Services Inc.
+Voya Global Advantage and Premium Opportunity Fund
+Voya Global Equity Dividend and Premium Opportunity Fund
+Western Asset Investment Grade Defined Opportunity Trust Inc.
+CBRE Clarion Global Real Estate Income Fund
+International Game Technology PLC
+Independence Holding Company
+Voya Emerging Markets High Dividend Equity Fund
+Invesco High Income 2023 Target Term Fund
+Morgan Stanley India Investment Fund, Inc.
+Invesco Value Municipal Income Trust
+Innovative Industrial Properties, Inc.
+IMAX Corporation
+Brookfield Global Listed Infrastructure Income Fund Inc.
+IHS Markit Ltd.
+Ingredion Incorporated
+Summit Hotel Properties, Inc.
+Insight Select Income Fund
+Inspire Medical Systems, Inc.
+Instructure, Inc.
+International Seaways, Inc.
+World Fuel Services Corporation
+Invitation Homes Inc.
+InterXion Holding N.V.
+International Paper Company
+The Interpublic Group of Companies, Inc.
+Inphi Corporation
+Intrepid Potash, Inc.
+Invesco Quality Municipal Income Trust
+IQVIA Holdings Inc.
+Ingersoll-Rand Plc
+Investors Real Estate Trust
+Iron Mountain Incorporated
+Independence Realty Trust, Inc.
+PGIM High Yield Bond Fund, Inc
+Gartner, Inc.
+Integer Holdings Corporation
+ITT Inc.
+Illinois Tool Works Inc.
+Invacare Corporation
+Ivy Funds - Ivy High Income Opportunities Fund
+Invesco Mortgage Capital Inc.
+Invesco Ltd.
+Jacobs Engineering Group Inc.
+J. Alexander's Holdings, Inc.
+JBG SMITH Properties
+Jabil Inc.
+John Bean Technologies Corporation
+Jernigan Capital, Inc.
+Nuveen Core Equity Alpha Fund
+Johnson Controls International plc
+Nuveen Credit Opportunities 2022 Target Term Fund
+J. C. Penney Company, Inc.
+Nuveen Diversified Dividend and Income Fund
+Just Energy Group Inc.
+Jefferies Financial Group Inc.
+JELD-WEN Holding, Inc.
+Nuveen Emerging Markets Debt 2022 Target Term Fund
+Aberdeen Japan Equity Fund, Inc.
+Nuveen Floating Rate Income Fund
+Nuveen Global High Income Fund
+Nuveen High Income November 2021 Target Term Fund
+Janus Henderson Group plc
+John Hancock Investors Trust
+John Hancock Income Securities Trust
+Nuveen High Income 2020 Target Term Fund
+Juniper Industrial Holdings, Inc.
+Jones Lang LaSalle Incorporated
+Nuveen Mortgage Opportunity Term Fund
+Nuveen Energy MLP Total Return Fund
+Johnson & Johnson
+Juniper Networks, Inc.
+The St. Joe Company
+Japan Smaller Capitalization Fund, Inc.
+Nuveen Preferred & Income Opportunities Fund
+Nuveen Preferred and Income Term Fund
+JPMorgan Chase & Co.
+Nuveen Preferred Securities Income Fund
+Nuveen Preferred and Income 2022 Term Fund
+Nuveen Credit Strategies Income Fund
+Nuveen Real Asset Income and Growth Fund
+Nuveen Floating Rate Income Opportunity Fund
+Nuveen Real Estate Income Fund
+Nuveen Short Duration Credit Opportunities Fund
+Nuveen Tax-Advantaged Total Return Strategy Fund
+Nuveen Tax-Advantaged Dividend Growth Fund
+John Wiley & Sons, Inc.
+John Wiley & Sons, Inc.
+Nordstrom, Inc.
+Kellogg Company
+Kadant Inc.
+Kaman Corporation
+KAR Auction Services, Inc.
+KB Home
+KBR, Inc.
+Kadmon Holdings, Inc.
+Keurig Dr Pepper Inc.
+KEMET Corporation
+Kenon Holdings Ltd.
+Kirby Corporation
+KeyCorp
+Keysight Technologies, Inc.
+The Korea Fund, Inc.
+Korn Ferry
+Kinross Gold Corporation
+Kimco Realty Corporation
+KKR Income Opportunities Fund
+KKR & Co. Inc.
+Kirkland Lake Gold Ltd.
+Kimberly-Clark Corporation
+Kayne Anderson Midstream/Energy Fund, Inc.
+Kinder Morgan, Inc.
+Kemper Corporation
+Kennametal Inc.
+CarMax, Inc.
+Knowles Corporation
+Knoll, Inc.
+Knight-Swift Transportation Holdings Inc.
+The Coca-Cola Company
+Eastman Kodak Company
+Koppers Holdings Inc.
+Kosmos Energy Ltd.
+The Kroger Co.
+Kraton Corporation
+Kilroy Realty Corporation
+KKR Real Estate Finance Trust Inc.
+Kite Realty Group Trust
+Kronos Worldwide, Inc.
+DWS Strategic Municipal Income Trust
+Kohl's Corporation
+Kansas City Southern
+Kontoor Brands, Inc.
+DWS Municipal Income Trust
+Kennedy-Wilson Holdings, Inc.
+Quaker Chemical Corporation
+Kayne Anderson MLP/Midstream Investment Company
+Loews Corporation
+Lithium Americas Corp.
+Lithia Motors, Inc.
+Ladder Capital Corp
+Lazard Ltd
+L Brands, Inc.
+Liberty Oilfield Services Inc.
+LendingClub Corporation
+Lannett Company, Inc.
+LCI Industries
+Lydall, Inc.
+Leidos Holdings, Inc.
+Cohen & Steers Limited Duration Preferred and Income Fund, Inc.
+Lear Corporation
+Leggett & Platt, Incorporated
+Lennar Corporation
+Lennar Corporation
+BNY Mellon Strategic Municipals, Inc.
+Levi Strauss & Co.
+Legacy Acquisition Corp.
+Lions Gate Entertainment Corp.
+Lions Gate Entertainment Corp.
+Lazard Global Total Return and Income Fund, Inc.
+Laboratory Corporation of America Holdings
+Leo Holdings Corp.
+L3Harris Technologies, Inc.
+Lennox International Inc.
+Linde plc
+Lumber Liquidators Holdings, Inc.
+Eli Lilly and Company
+Legg Mason, Inc.
+Lockheed Martin Corporation
+Lincoln National Corporation
+Lindsay Corporation
+Lowe's Companies, Inc.
+Dorian LPG Ltd.
+Laredo Petroleum, Inc.
+Louisiana-Pacific Corporation
+K12 Inc.
+Life Storage, Inc.
+LTC Properties, Inc.
+Livent Corporation
+Southwest Airlines Co.
+Las Vegas Sands Corp.
+Lamb Weston Holdings, Inc.
+Luxfer Holdings PLC
+Lexington Realty Trust
+LSB Industries, Inc.
+LyondellBasell Industries N.V.
+Live Nation Entertainment, Inc.
+La-Z-Boy Incorporated
+Macy's, Inc.
+Mastercard Incorporated
+Mid-America Apartment Communities, Inc.
+The Macerich Company
+Main Street Capital Corporation
+ManpowerGroup Inc.
+Manchester United plc
+Masco Corporation
+Matson, Inc.
+Pioneer Municipal High Income Advantage Trust
+Maxar Technologies Inc.
+MBIA Inc.
+Moelis & Company
+BlackRock MuniYield California Quality Fund, Inc.
+Metropolitan Bank Holding Corp.
+Medley Capital Corporation
+McDonald's Corporation
+Barings Corporate Investors
+McKesson Corporation
+Madison Covered Call & Equity Strategy Fund
+Moody's Corporation
+MFS Charter Income Trust
+The Marcus Corporation
+Mercury General Corporation
+MEDNAX, Inc.
+M.D.C. Holdings, Inc.
+Medallia, Inc.
+Meredith Corporation
+Medtronic plc
+MDU Resources Group, Inc.
+Mayville Engineering Company, Inc.
+Medifast, Inc.
+Methode Electronics, Inc.
+BlackRock MuniEnhanced Fund, Inc.
+MetLife, Inc.
+MFA Financial, Inc.
+Megalith Financial Acquisition Corp.
+Manulife Financial Corporation
+BlackRock MuniHoldings Investment Quality Fund
+MFS Municipal Income Trust
+BlackRock MuniYield Investment Quality Fund
+Mistras Group, Inc.
+Magna International Inc.
+MFS Government Markets Income Trust
+MGM Resorts International
+MGM Growth Properties LLC
+Macquarie Global Infrastructure Total Return Fund Inc.
+Magnolia Oil & Gas Corporation
+BlackRock MuniHoldings Fund, Inc.
+Western Asset Municipal High Income Fund Inc.
+Pioneer Municipal High Income Trust
+Mohawk Industries, Inc.
+BlackRock MuniHoldings New York Quality Fund, Inc.
+M/I Homes, Inc.
+Macquarie Infrastructure Corporation
+Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.
+MFS Intermediate Income Trust
+AG Mortgage Investment Trust, Inc.
+BlackRock MuniYield Michigan Quality Fund, Inc.
+McCormick & Company, Incorporated
+McCormick & Company, Incorporated
+Markel Corporation
+Mueller Industries, Inc.
+Martin Marietta Materials, Inc.
+Maui Land & Pineapple Company, Inc.
+Miller Industries, Inc.
+Marsh & McLennan Companies, Inc.
+MainStay MacKay DefinedTerm Municipal Opportunities Fund
+Marcus & Millichap, Inc.
+3M Company
+MAXIMUS, Inc.
+MFS Multimarket Income Trust
+Western Asset Managed Municipals Fund Inc.
+Mallinckrodt plc
+Western Asset Municipal Partners Fund Inc.
+Monmouth Real Estate Investment Corporation
+Brigham Minerals, Inc.
+Altria Group, Inc.
+Modine Manufacturing Company
+Model N, Inc.
+Moog Inc.
+Moog Inc.
+Molina Healthcare, Inc.
+The Mosaic Company
+Movado Group, Inc.
+BlackRock MuniYield Pennsylvania Quality Fund
+Marathon Petroleum Corporation
+Barings Participation Investors
+Medical Properties Trust, Inc.
+Marine Products Corporation
+BlackRock MuniYield Quality Fund II, Inc.
+BlackRock MuniYield Quality Fund, Inc.
+Montage Resources Corporation
+MRC Global Inc.
+Merck & Co., Inc.
+Marathon Oil Corporation
+Morgan Stanley
+MSA Safety Incorporated
+Mesabi Trust
+MSCI Inc.
+Morgan Stanley Emerging Markets Debt Fund, Inc.
+The Madison Square Garden Company
+MSG Networks Inc.
+Motorola Solutions, Inc.
+MSC Industrial Direct Co., Inc.
+M&T Bank Corporation
+Mettler-Toledo International Inc.
+Matador Resources Company
+MGIC Investment Corporation
+Meritage Homes Corporation
+Vail Resorts, Inc.
+Meritor, Inc.
+Materion Corporation
+Western Asset Municipal Defined Opportunity Trust Inc.
+The Manitowoc Company, Inc.
+Minerals Technologies Inc.
+MasTec, Inc.
+BlackRock MuniAssets Fund, Inc.
+BlackRock MuniHoldings California Quality Fund, Inc.
+BlackRock MuniHoldings Quality Fund II, Inc.
+BlackRock MuniHoldings Fund II, Inc.
+BlackRock Muni Intermediate Duration Fund, Inc.
+BlackRock MuniHoldings New Jersey Quality Fund, Inc.
+Murphy Oil Corporation
+BlackRock MuniHoldings Quality Fund, Inc.
+Murphy USA Inc.
+McEwen Mining Inc.
+MVC Capital, Inc.
+BlackRock MuniVest Fund, Inc.
+BlackRock MuniVest Fund II, Inc.
+Mueller Water Products, Inc.
+MagnaChip Semiconductor Corporation
+The Mexico Fund, Inc.
+MaxLinear, Inc.
+Blackrock MuniYield California Fund, Inc.
+BlackRock MuniYield Fund, Inc.
+Myers Industries, Inc.
+BlackRock MuniYield Investment Fund
+BlackRock MuniYield Quality Fund III, Inc.
+BlackRock MuniYield New Jersey Fund, Inc.
+BlackRock MuniYield New York Quality Fund, Inc.
+Myovant Sciences Ltd.
+Nuveen California Quality Municipal Income Fund
+Nuveen Quality Municipal Income Fund
+Nuveen New York Quality Municipal Income Fund
+Nordic American Tankers Limited
+Navistar International Corporation
+Nuveen Arizona Quality Municipal Income Fund
+Nuveen Taxable Municipal Income Fund
+National Bank Holdings Corporation
+Nabors Industries Ltd.
+NACCO Industries, Inc.
+Nuveen California Municipal Value Fund, Inc.
+Norwegian Cruise Line Holdings Ltd.
+NCR Corporation
+AllianzGI Convertible & Income Fund
+AllianzGI Convertible & Income Fund II
+Noble Corporation plc
+Nuveen AMT-Free Quality Municipal Income Fund
+NextEra Energy, Inc.
+Newmont Corporation
+Cloudflare, Inc.
+NewMarket Corporation
+Nuveen Enhanced Municipal Value Fund
+New Relic, Inc.
+NexTier Oilfield Solutions Inc.
+Nexa Resources S.A.
+National Fuel Gas Company
+New Frontier Health Corporation
+AllianzGI NFJ Dividend, Interest & Premium Strategy Fund
+Natural Gas Services Group, Inc.
+Natural Grocers by Vitamin Cottage, Inc.
+Ingevity Corporation
+NexPoint Strategic Opportunities Fund
+National Health Investors, Inc.
+NiSource Inc.
+Nuveen Intermediate Duration Municipal Term Fund
+AllianzGI Equity & Convertible Income Fund
+Nuveen Select Maturities Municipal Fund
+Nine Energy Service, Inc.
+Nuveen Intermediate Duration Quality Municipal Term Fund
+New Jersey Resources Corporation
+NIKE, Inc.
+Nuveen Georgia Quality Municipal Income Fund
+Nuveen California AMT-Free Quality Municipal Income Fund
+NL Industries, Inc.
+Nautilus, Inc.
+Nielsen Holdings plc
+Annaly Capital Management, Inc.
+Nuveen Municipal Credit Opportunities Fund
+New Mountain Finance Corporation
+Nuveen Municipal Income Fund, Inc.
+Nuveen Massachusetts Quality Municipal Income Fund
+Nuveen Maryland Quality Municipal Income Fund
+Nuveen Municipal High Income Opportunity Fund
+Navios Maritime Acquisition Corporation
+Nelnet, Inc.
+National Retail Properties, Inc.
+Nuveen New York Municipal Value Fund, Inc.
+North American Construction Group Ltd.
+Northrop Grumman Corporation
+Nomad Foods Limited
+National Oilwell Varco, Inc.
+Sunnova Energy International Inc.
+ServiceNow, Inc.
+Neenah, Inc.
+National Presto Industries, Inc.
+EnPro Industries, Inc.
+NeoPhotonics Corporation
+Nuveen Virginia Quality Municipal Income Fund
+Nuveen Pennsylvania Quality Municipal Income Fund
+Newpark Resources, Inc.
+NRG Energy, Inc.
+PIMCO Energy and Tactical Credit Opportunities Fund
+Nuveen New York AMT-Free Quality Municipal Income Fund
+New Residential Investment Corp.
+National Storage Affiliates Trust
+Norfolk Southern Corporation
+Nesco Holdings, Inc.
+Nuveen Senior Income Fund
+Insperity, Inc.
+The Bank of N.T. Butterfield & Son Limited
+Tortoise Midstream Energy Fund, Inc.
+Nam Tai Property Inc.
+Nutrien Ltd.
+Nuveen Texas Quality Municipal Income Fund
+Nucor Corporation
+Nuveen Michigan Quality Municipal Income Fund
+Nuveen Ohio Quality Municipal Income Fund
+Nu Skin Enterprises, Inc.
+Nuveen Municipal Value Fund, Inc.
+Nuveen AMT-Free Municipal Value Fund
+Nuveen AMT-Free Municipal Credit Income Fund
+Navigator Holdings Ltd.
+NVR, Inc.
+Nevro Corp.
+Envista Holdings Corporation
+nVent Electric plc
+Invitae Corporation
+NorthWestern Corporation
+Northwest Natural Holding Company
+Quanex Building Products Corporation
+Nuveen New Jersey Quality Municipal Income Fund
+Nuveen Select Tax-Free Income Portfolio
+Nuveen Select Tax-Free Income Portfolio 2
+Nuveen Select Tax-Free Income Portfolio 3
+NexPoint Residential Trust, Inc.
+New York Community Bancorp, Inc.
+The New York Times Company
+Nuveen Municipal Credit Income Fund
+Realty Income Corporation
+Oaktree Acquisition Corp.
+Owens Corning
+Ocwen Financial Corporation
+Oil-Dri Corporation of America
+Orion Engineered Carbons S.A.
+Corporate Office Properties Trust
+OFG Bancorp
+OGE Energy Corp.
+ONE Gas, Inc.
+Omega Healthcare Investors, Inc.
+O-I Glass, Inc.
+Invesco Municipal Income Opportunities Trust
+Oceaneering International, Inc.
+Oil States International, Inc.
+ONEOK, Inc.
+Olin Corporation
+One Liberty Properties, Inc.
+Omnicom Group Inc.
+OneMain Holdings, Inc.
+Owens & Minor, Inc.
+OMNOVA Solutions Inc.
+On Deck Capital, Inc.
+Onto Innovation Inc.
+Ooma, Inc.
+RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.
+Oppenheimer Holdings Inc.
+Osisko Gold Royalties Ltd
+Ormat Technologies, Inc.
+Orchid Island Capital, Inc.
+Owl Rock Capital Corporation
+Oracle Corporation
+Old Republic International Corporation
+Orion Group Holdings, Inc.
+Norbord Inc.
+Overseas Shipholding Group, Inc.
+Oshkosh Corporation
+Outfront Media Inc.
+Ovintiv Inc.
+Oxford Industries, Inc.
+Occidental Petroleum Corporation
+Pacific Drilling S.A.
+Ranpak Holdings Corp.
+Penske Automotive Group, Inc.
+PagSeguro Digital Ltd.
+Western Asset Investment Grade Income Fund Inc.
+Palo Alto Networks, Inc.
+PAR Technology Corporation
+Par Pacific Holdings, Inc.
+Paycom Software, Inc.
+Prosperity Bancshares, Inc.
+Pembina Pipeline Corporation
+PBF Energy Inc.
+Prestige Consumer Healthcare Inc.
+Pitney Bowes Inc.
+Permian Basin Royalty Trust
+PG&E Corporation
+PIMCO Dynamic Credit and Mortgage Income Fund
+PIMCO California Municipal Income Fund II
+PCM Fund Inc.
+PIMCO Corporate & Income Strategy Fund
+PIMCO California Municipal Income Fund
+PagerDuty, Inc.
+Piedmont Office Realty Trust, Inc.
+Precision Drilling Corporation
+Parsley Energy, Inc.
+Healthpeak Properties, Inc.
+Pebblebrook Hotel Trust
+Public Service Enterprise Group Incorporated
+Pennsylvania Real Estate Investment Trust
+Penumbra, Inc.
+Adams Natural Resources Fund, Inc.
+Flaherty & Crumrine Preferred Income Fund Inc.
+Pfizer Inc.
+Performance Food Group Company
+PIMCO Income Strategy Fund
+PIMCO Income Strategy Fund II
+Flaherty & Crumrine Preferred Income Opportunity Fund Inc.
+Provident Financial Services, Inc.
+PennyMac Financial Services, Inc.
+The Procter & Gamble Company
+PIMCO Global StocksPLUS & Income Fund
+The Progressive Corporation
+Paramount Group, Inc.
+PGT Innovations, Inc.
+Principal Real Estate Income Fund
+Parker-Hannifin Corporation
+Pioneer Floating Rate Trust
+PIMCO High Income Fund
+PulteGroup, Inc.
+Phreesia, Inc.
+Pioneer High Income Trust
+Panhandle Oil and Gas Inc.
+Polaris Inc.
+Putnam Master Intermediate Income Trust
+Alpine Income Property Trust, Inc.
+Ping Identity Holding Corp.
+Pinterest, Inc.
+Piper Sandler Companies
+PJT Partners Inc.
+Park Hotels & Resorts Inc.
+Park Aerospace Corp.
+Packaging Corporation of America
+PerkinElmer, Inc.
+PIMCO Income Opportunity Fund
+Anaplan, Inc.
+Prologis, Inc.
+Planet Fitness, Inc.
+Douglas Dynamics, Inc.
+Plantronics, Inc.
+Philip Morris International Inc.
+PIMCO Municipal Income Fund
+PIMCO Municipal Income Fund II
+Putnam Managed Municipal Income Trust
+Putnam Municipal Opportunities Trust
+PennyMac Mortgage Investment Trust
+PIMCO Municipal Income Fund III
+The PNC Financial Services Group, Inc.
+PIMCO New York Municipal Income Fund
+PIMCO New York Municipal Income Fund II
+PNM Resources, Inc.
+Pentair plc
+Pinnacle West Capital Corporation
+PolyOne Corporation
+Portland General Electric Company
+Post Holdings, Inc.
+PPG Industries, Inc.
+PPL Corporation
+Voya Prime Rate Trust
+Putnam Premier Income Trust
+PQ Group Holdings Inc.
+ProAssurance Corporation
+Perrigo Company plc
+Primerica, Inc.
+Proto Labs, Inc.
+PROS Holdings, Inc.
+ProSight Global, Inc.
+Perspecta Inc.
+Party City Holdco Inc.
+Prudential Financial, Inc.
+Public Storage
+PS Business Parks, Inc.
+Cohen & Steers Select Preferred and Income Fund, Inc.
+Parsons Corporation
+Pure Storage, Inc.
+Phillips 66
+PIMCO Corporate & Income Opportunity Fund
+ProPetro Holding Corp.
+Pretium Resources Inc.
+PVH Corp.
+Quanta Services, Inc.
+Pioneer Natural Resources Company
+PIMCO California Municipal Income Fund III
+Pzena Investment Management, Inc
+QEP Resources, Inc.
+QIAGEN N.V.
+Restaurant Brands International Inc.
+QTS Realty Trust, Inc.
+Q2 Holdings, Inc.
+Quad/Graphics, Inc.
+Quotient Technology Inc.
+Ryder System, Inc.
+Brookfield Real Assets Income Fund Inc.
+Ferrari N.V.
+Rite Aid Corporation
+LiveRamp Holdings, Inc.
+Ritchie Bros. Auctioneers Incorporated
+Regal Beloit Corporation
+Ready Capital Corporation
+Rogers Communications Inc.
+Royal Caribbean Cruises Ltd.
+PIMCO Strategic Income Fund, Inc.
+Arcus Biosciences, Inc.
+Radian Group Inc.
+Everest Re Group, Ltd.
+RPC, Inc.
+Front Yard Residential Corporation
+Revlon, Inc.
+REV Group, Inc.
+REX American Resources Corporation
+Rexford Industrial Realty, Inc.
+Resideo Technologies, Inc.
+Regions Financial Corporation
+Cohen & Steers Total Return Realty Fund, Inc.
+Rafael Holdings, Inc.
+Resolute Forest Products Inc.
+Reinsurance Group of America, Incorporated
+Sturm, Ruger & Company, Inc.
+Regis Corporation
+Royce Global Value Trust, Inc.
+RH
+Robert Half International Inc.
+Ryman Hospitality Properties, Inc.
+Transocean Ltd.
+RiverNorth Opportunities Fund, Inc.
+Raymond James Financial, Inc.
+Ralph Lauren Corporation
+Realogy Holdings Corp.
+RLI Corp.
+RLJ Lodging Trust
+Regional Management Corp.
+RE/MAX Holdings, Inc.
+ResMed Inc.
+RMG Acquisition Corp.
+RiverNorth Opportunistic Municipal Income Fund, Inc.
+Rivernorth Managed Duration Municipal Income Fund Inc.
+Royce Micro-Cap Trust, Inc.
+RingCentral, Inc.
+Cohen & Steers REIT and Preferred Income Fund, Inc.
+RenaissanceRe Holdings Ltd.
+Rogers Corporation
+Rockwell Automation, Inc.
+Rollins, Inc.
+Roper Technologies, Inc.
+Retail Properties of America, Inc.
+Replay Acquisition Corp.
+RPM International Inc.
+RPT Realty
+Cohen & Steers Quality Income Realty Fund, Inc.
+Range Resources Corporation
+R.R. Donnelley & Sons Company
+Roadrunner Transportation Systems, Inc.
+Reliance Steel & Aluminum Co.
+Republic Services Inc.
+Rosetta Stone Inc.
+Raytheon Company
+The Rubicon Project, Inc.
+Retail Value Inc.
+Revolve Group, Inc.
+Royce Value Trust Inc.
+Redwood Trust, Inc.
+Rexnord Corporation
+Royal Bank of Canada
+Rayonier Advanced Materials Inc.
+Ryerson Holding Corporation
+Rayonier Inc.
+Sprint Corporation
+Seabridge Gold Inc.
+Safehold Inc.
+Sonic Automotive, Inc.
+Science Applications International Corporation
+SailPoint Technologies Holdings, Inc.
+Scorpio Bulkers Inc.
+The Boston Beer Company, Inc.
+Saratoga Investment Corp.
+Spirit Airlines, Inc.
+Safe Bulkers, Inc.
+Switchback Energy Acquisition Corporation
+Sally Beauty Holdings, Inc.
+Western Asset Intermediate Muni Fund Inc.
+SilverBow Resources, Inc.
+Sabine Royalty Trust
+Santander Consumer USA Holdings Inc.
+Southern Copper Corporation
+LMP Capital and Income Fund Inc.
+The Charles Schwab Corporation
+Service Corporation International
+Stepan Company
+Stellus Capital Investment Corporation
+Steelcase Inc.
+Sculptor Capital Management, Inc.
+SandRidge Energy, Inc.
+Seadrill Limited
+SeaWorld Entertainment, Inc.
+Sealed Air Corporation
+Select Medical Holdings Corporation
+ServiceMaster Global Holdings, Inc.
+Stifel Financial Corp.
+Safeguard Scientifics, Inc.
+SFL Corporation Ltd.
+Osprey Technology Acquisition Corp.
+Shake Shack Inc.
+Tortoise Acquisition Corp.
+Sunstone Hotel Investors, Inc.
+Shopify Inc.
+The Sherwin-Williams Company
+Silvergate Capital Corporation
+Signet Jewelers Limited
+SITE Centers Corp.
+SiteOne Landscape Supply, Inc.
+Six Flags Entertainment Corporation
+South Jersey Industries, Inc.
+The J. M. Smucker Company
+Shaw Communications Inc.
+San Juan Basin Royalty Trust
+SJW Group
+Tanger Factory Outlet Centers, Inc.
+Skechers U.S.A., Inc.
+Skyline Champion Corporation
+Schlumberger Limited
+U.S. Silica Holdings, Inc.
+Sun Life Financial Inc.
+SL Green Realty Corp.
+SM Energy Company
+Smartsheet Inc.
+The Scotts Miracle-Gro Company
+SEACOR Marine Holdings Inc.
+Salient Midstream & MLP Fund
+Standard Motor Products, Inc.
+Snap-on Incorporated
+Snap Inc.
+Schneider National, Inc.
+New Senior Investment Group Inc.
+Synovus Financial Corp.
+SYNNEX Corporation
+The Southern Company
+Solaris Oilfield Infrastructure, Inc.
+Sonoco Products Company
+Source Capital, Inc.
+Spartan Energy Acquisition Corp.
+Spectrum Brands Holdings, Inc.
+Virgin Galactic Holdings, Inc.
+Special Opportunities Fund, Inc.
+Simon Property Group, Inc.
+S&P Global Inc.
+Spotify Technology S.A.
+Spirit AeroSystems Holdings, Inc.
+SPX Corporation
+Nuveen S&P 500 Dynamic Overwrite Fund
+Square, Inc.
+Spire Inc.
+Spirit Realty Capital, Inc.
+Sempra Energy
+Seritage Growth Properties
+Stoneridge, Inc.
+Scully Royalty Ltd.
+StarTek, Inc.
+Simpson Manufacturing Co., Inc.
+Stage Stores, Inc.
+Shutterstock, Inc.
+Seaspan Corporation
+Sensata Technologies Holding plc
+STAG Industrial, Inc.
+iStar Inc.
+Stewart Information Services Corporation
+STERIS plc
+Columbia Seligman Premium Technology Growth Fund
+Sterling Bancorp
+Stantec Inc.
+Scorpio Tankers Inc.
+StoneMor Inc.
+STORE Capital Corporation
+State Street Corporation
+Starwood Property Trust, Inc.
+Constellation Brands, Inc.
+Constellation Brands, Inc.
+Suncor Energy Inc.
+Sun Communities, Inc.
+Summit Materials, Inc.
+Switch, Inc.
+SolarWinds Corporation
+Stanley Black & Decker, Inc.
+Schweitzer-Mauduit International, Inc.
+Southwestern Energy Company
+Southwest Gas Holdings, Inc.
+The Swiss Helvetia Fund Inc.
+SunCoke Energy, Inc.
+Standex International Corporation
+Sensient Technologies Corporation
+Synchrony Financial
+Stryker Corporation
+Systemax Inc.
+Sysco Corporation
+The Cushing Renaissance Fund
+AT&T Inc.
+TransAlta Corporation
+Talos Energy Inc.
+Molson Coors Beverage Company
+Molson Coors Beverage Company
+Taro Pharmaceutical Industries Ltd.
+TrueBlue, Inc.
+Transcontinental Realty Investors, Inc.
+Taubman Centers, Inc.
+The Container Store Group, Inc.
+The Toronto-Dominion Bank
+Teradata Corporation
+Templeton Dragon Fund, Inc.
+TransDigm Group Incorporated
+Teladoc Health, Inc.
+Telephone and Data Systems, Inc.
+Tidewater Inc.
+Teledyne Technologies Incorporated
+Tortoise Essential Assets Income Term Fund
+Teck Resources Limited
+Templeton Emerging Markets Income Fund
+TE Connectivity Ltd.
+Tenneco Inc.
+Terex Corporation
+Truist Financial Corporation
+TFI International Inc.
+Teleflex Incorporated
+Tredegar Corporation
+Textainer Group Holdings Limited
+Triumph Group, Inc.
+TEGNA Inc.
+Target Corporation
+Tenet Healthcare Corporation
+The Hanover Insurance Group, Inc.
+Thor Industries, Inc.
+Tekla Healthcare Opportunities Fund
+Thermon Group Holdings, Inc.
+TreeHouse Foods, Inc.
+Tekla World Healthcare Fund
+Tiffany & Co.
+Team, Inc.
+The TJX Companies, Inc.
+Teekay Corporation
+The Timken Company
+Telaria, Inc.
+Tailored Brands, Inc.
+Tilly's, Inc.
+Taylor Morrison Home Corporation
+Thermo Fisher Scientific Inc.
+TimkenSteel Corporation
+Tennant Company
+TriNet Group, Inc.
+Teekay Tankers Ltd.
+Tsakos Energy Navigation Limited
+Toll Brothers, Inc.
+Turning Point Brands, Inc.
+Tutor Perini Corporation
+TRI Pointe Group, Inc.
+Texas Pacific Land Trust
+Tapestry, Inc.
+Third Point Reinsurance Ltd.
+TriplePoint Venture Growth BDC Corp.
+Tempur Sealy International, Inc.
+Tortoise Power and Energy Infrastructure Fund, Inc.
+Tootsie Roll Industries, Inc.
+Tejon Ranch Co.
+Trecora Resources
+Trex Company, Inc.
+Targa Resources Corp.
+Thomson Reuters Corporation
+Trinity Industries, Inc.
+Terreno Realty Corporation
+Tronox Holdings plc
+TC Energy Corporation
+Turquoise Hill Resources Ltd.
+Triton International Limited
+TPG RE Finance Trust, Inc.
+TransUnion
+The Travelers Companies, Inc.
+Twin River Worldwide Holdings, Inc.
+Trinseo S.A.
+TCW Strategic Income Fund, Inc.
+THL Credit Senior Loan Fund
+TPG Specialty Lending, Inc.
+Tyson Foods, Inc.
+Townsquare Media, Inc.
+The Toro Company
+TETRA Technologies, Inc.
+Tortoise Pipeline & Energy Fund, Inc.
+TELUS Corporation
+Tufin Software Technologies Ltd.
+Tupperware Brands Corporation
+Titan International, Inc.
+Twilio Inc.
+The Taiwan Fund, Inc.
+Two Harbors Investment Corp.
+Twitter, Inc.
+Textron Inc.
+Tri-Continental Corporation
+Tortoise Energy Infrastructure Corporation
+Tyler Technologies, Inc.
+Under Armour, Inc.
+Under Armour, Inc.
+Urstadt Biddle Properties Inc.
+Uber Technologies, Inc.
+Urstadt Biddle Properties Inc.
+UBS Group AG
+UDR, Inc.
+Urban Edge Properties
+Unifi, Inc.
+Domtar Corporation
+UGI Corporation
+Universal Health Services, Inc.
+Universal Health Realty Income Trust
+Ubiquiti Inc.
+Unisys Corporation
+UMH Properties, Inc.
+UniFirst Corporation
+United Natural Foods, Inc.
+UnitedHealth Group Incorporated
+Unum Group
+Union Pacific Corporation
+Univar Solutions Inc.
+United Parcel Service, Inc.
+United Rentals, Inc.
+U.S. Bancorp
+US Foods Holding Corp.
+United States Cellular Corporation
+USANA Health Sciences, Inc.
+U.S. Physical Therapy, Inc.
+U.S. Xpress Enterprises, Inc.
+Cohen & Steers Infrastructure Fund, Inc
+Universal Technical Institute, Inc.
+Unitil Corporation
+United Technologies Corporation
+Universal Insurance Holdings, Inc.
+Universal Corporation
+Visa Inc.
+Marriott Vacations Worldwide Corporation
+Valaris plc
+Vapotherm, Inc.
+Varian Medical Systems, Inc.
+Invesco Bond Fund
+Vocera Communications, Inc.
+Invesco California Value Municipal Income Trust
+Vectrus, Inc.
+Veeva Systems Inc.
+Velocity Financial, Inc.
+VEREIT, Inc.
+Vermilion Energy Inc.
+V.F. Corporation
+Virtus Global Multi-Sector Income Fund
+Invesco Trust for Investment Grade Municipals
+Vector Group Ltd.
+Valhi, Inc.
+VICI Properties Inc.
+Invesco Municipal Trust
+Valero Energy Corporation
+Invesco High Income Trust II
+Vulcan Materials Company
+Valmont Industries, Inc.
+Invesco Municipal Opportunity Trust
+VMware, Inc.
+Vince Holding Corp.
+Veoneer, Inc.
+Vornado Realty Trust
+Venator Materials PLC
+Voya Financial, Inc.
+Vishay Precision Group, Inc.
+Invesco Pennsylvania Value Municipal Income Trust
+Verso Corporation
+Veritiv Corporation
+Vishay Intertechnology, Inc.
+Vivint Solar, Inc.
+Vistra Energy Corp.
+Vista Outdoor Inc.
+Invesco Dynamic Credit Opportunities Fund
+Invesco Trust for Investment Grade New York Municipals
+Ventas, Inc.
+Viad Corp
+Invesco Senior Income Trust
+Valvoline Inc.
+Verizon Communications Inc.
+Wayfair Inc.
+AquaVenture Holdings Limited
+Wabtec Corporation
+Western Alliance Bancorporation
+Waters Corporation
+WABCO Holdings Inc.
+Webster Financial Corporation
+Welbilt, Inc.
+WESCO International, Inc.
+Waste Connections, Inc.
+Walker & Dunlop, Inc.
+Waddell & Reed Financial, Inc.
+Western Asset Premier Bond Fund
+WEC Energy Group, Inc.
+Welltower Inc.
+WEX Inc.
+Wells Fargo & Company
+Winnebago Industries, Inc.
+Wyndham Hotels & Resorts, Inc.
+Cactus, Inc.
+Westwood Holdings Group, Inc.
+Whirlpool Corporation
+Western Asset Inflation-Linked Income Fund
+Western Asset Inflation-Linked Opportunities & Income Fund
+Workiva Inc.
+Westlake Chemical Corporation
+Whiting Petroleum Corporation
+Waste Management, Inc.
+The Williams Companies, Inc.
+Western Asset Mortgage Capital Corporation
+Weis Markets, Inc.
+Advanced Drainage Systems, Inc.
+Walmart Inc.
+Wabash National Corporation
+Worthington Industries, Inc.
+Slack Technologies, Inc.
+WideOpenWest, Inc.
+W. P. Carey Inc.
+Washington Prime Group Inc.
+Wheaton Precious Metals Corp.
+WPX Energy, Inc.
+W. R. Berkley Corporation
+Washington Real Estate Investment Trust
+Weingarten Realty Investors
+WestRock Company
+Williams-Sonoma, Inc.
+Watsco, Inc.
+Watsco, Inc.
+Whitestone REIT
+West Pharmaceutical Services
+W&T Offshore, Inc.
+White Mountains Insurance Group, Ltd.
+Essential Utilities, Inc.
+Watts Water Technologies, Inc.
+Select Energy Services, Inc.
+The Western Union Company
+World Wrestling Entertainment, Inc.
+Wolverine World Wide, Inc.
+Weyerhaeuser Company
+Wyndham Destinations, Inc.
+United States Steel Corporation
+Exantas Capital Corp.
+Cimarex Energy Co.
+Xenia Hotels & Resorts, Inc.
+Exxon Mobil Corporation
+XPO Logistics, Inc.
+Xerox Holdings Corporation
+Xylem Inc.
+Alleghany Corporation
+Yelp Inc.
+YETI Holdings, Inc.
+Yext, Inc.
+YUM! Brands, Inc.
+Yum China Holdings, Inc.
+Zayo Group Holdings, Inc.
+Zimmer Biomet Holdings, Inc.
+Zendesk, Inc.
+Virtus Total Return Fund Inc.
+Zoetis Inc.
+Zuora, Inc.
+Zymeworks Inc.

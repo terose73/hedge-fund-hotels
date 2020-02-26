@@ -1,3 +1,11 @@
+# Fund Letter PDF files
+/2018 4Q
+/2019 4Q
+
+#Google API Private Keys
+/Fund Letters-71193e5ca35b.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

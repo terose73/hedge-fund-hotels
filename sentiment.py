@@ -29,14 +29,14 @@ m = NameDataset()
 # Instantiates a client
 client = language.LanguageServiceClient()
 
-banned_items = ['CAGR', 'FCF', 'YTD', 'NYSE',
+banned_items = {'CAGR', 'FCF', 'YTD', 'NYSE',
                 'U.S.', 'EPS', 'ROE', 'ROIC',
                 'P/E', 'LONG', 'EV', 'PE', 'FUND',
-                'CFA', 'GDP', 'NAV', 'WTI', 'CFO', 'GM',
-                'CAC', 'COO', 'CTO', 'CIO' 'CDC', 'AI', 'CIO', 'ai', 'LAWS'
-                'MLP', 'BOE', 'LPG', 'NPV', 'HR', 'VC', 'DCF', 'MLP'
-                'IT', 'MSCI', 'RHS', 'FAX', 'UBS', 'CEM', 'CO', 'ALL', 'HY', 'NET',
-                'CASH', 'MD', 'CBOE', 'IP', 'YLD', 'MD', 'SP', 'TR', 'IG']
+                'CFA', 'GDP', 'NAV', 'WTI', 'CFO', 'GM', 'NI',
+                'CAC', 'COO', 'CTO', 'CIO' 'CDC', 'AI', 'CIO', 'LAWS', 'MTD', 'III',
+                'MLP', 'BOE', 'LPG', 'NPV', 'HR', 'VC', 'DCF', 'MLP',
+                'IT', 'MSCI', 'RHS', 'FAX', 'UBS', 'CEM', 'CO', 'ALL', 'HY', 'NET', 'NOV', 'CCC',
+                'CASH', 'MD', 'CBOE', 'IP', 'YLD', 'MD', 'SP', 'TR', 'IG', 'CMBS'}
 
 pdfs = os.scandir(path="./2019 4Q")
 
@@ -44,7 +44,7 @@ encoding_type = enums.EncodingType.UTF8
 
 for fund_letter in pdfs:
     try:
-        print(F'processing letter {fund_letter}')
+        print(F'processing letter {fund_letter.name}')
 
         text = extract_text(fund_letter)
 
@@ -56,9 +56,8 @@ for fund_letter in pdfs:
             document=document, encoding_type=encoding_type)
 
         for entity in response.entities:
-            print(entity)
             name = enums.Entity.Type(entity.type).name
-            if tick_to_comp.get(entity.name) and len(entity.name) > 1 and entity.name.upper() not in banned_items:
+            if tick_to_comp.get(entity.name) and len(entity.name) > 1 and (entity.name.upper() not in banned_items):
                 company = important.get(entity.name)
                 if not company:
                     firm = Firm(
@@ -67,13 +66,13 @@ for fund_letter in pdfs:
 
                 firm = important[entity.name]
 
-                if fund_letter not in firm.mentions_list:
+                if str(fund_letter.name) not in firm.mentions_list:
                     firm.mentions += 1
 
-                    if entity.sentiment.score > 0.05:
+                    if entity.sentiment.score > 0.1:
                         firm.sentiment_list.append(entity.sentiment.score)
 
-                    firm.mentions_list.append(fund_letter)
+                    firm.mentions_list.append(str(fund_letter.name))
 
         # elif len(entity.name) < 20:
             # if name == "ORGANIZATION" or name == "PERSON":
@@ -85,13 +84,12 @@ for fund_letter in pdfs:
         continue
 
 final = list(important.items())
-final.sort(key=lambda x: x[1].mentions)
+final.sort(key=lambda x: x[1].mentions, reverse=True)
 
 returning = []
 for item in final:
     item[1].make_avg()
     item[1].make_std_dev()
-    print(item[1])
     returning.append(item[1])
 
 text_file = open("results.txt", "w")

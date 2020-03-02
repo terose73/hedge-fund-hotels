@@ -34,4 +34,4 @@ class Firm:
         if self.stdev != 0:
             print(F"Std. Dev Sentiment: {self.stdev}")
 
-        return(F"Company Name: {self.company_name} \n Ticker: {self.ticker} \n Total Mentions: {self.mentions} \n Letters Mentioned In: {self.mentions_list} \n Mean Sentiment: {self.avg} \n Std. Dev Sentiment: {self.stdev} \n")
+        return(F"Company Name: {self.company_name} \n Ticker: {self.ticker} \n Total Mentions: {self.mentions} \n Letters Mentioned In: {self.mentions_list} \n Mean Sentiment: {self.avg} \n Std. Dev Sentiment: {self.stdev} \n \n")

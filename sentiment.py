@@ -36,7 +36,7 @@ banned_items = {'CAGR', 'FCF', 'YTD', 'NYSE',
                 'CAC', 'COO', 'CTO', 'CIO' 'CDC', 'AI', 'CIO', 'LAWS', 'MTD', 'III',
                 'MLP', 'BOE', 'LPG', 'NPV', 'HR', 'VC', 'DCF', 'MLP',
                 'IT', 'MSCI', 'RHS', 'FAX', 'UBS', 'CEM', 'CO', 'ALL', 'HY', 'NET', 'NOV', 'CCC',
-                'CASH', 'MD', 'CBOE', 'IP', 'YLD', 'MD', 'SP', 'TR', 'IG', 'CMBS'}
+                'CASH', 'MD', 'CBOE', 'IP', 'YLD', 'MD', 'SP', 'TR', 'IG', 'CMBS', 'RMBS'}
 
 pdfs = os.scandir(path="./2019 4Q")
 

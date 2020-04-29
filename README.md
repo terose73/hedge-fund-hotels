@@ -1,4 +1,4 @@
-Output from screener run on letters in /{year}_Q{quarter_number} is in results.txt
+Output from screener run on letters in /{year}_Q{quarter_number} is in **results.txt**
 
 Note: Please hook up a new google account with sufficient GCP credits before running, you should receive a service account JSON secret and place it in the respository. 
 

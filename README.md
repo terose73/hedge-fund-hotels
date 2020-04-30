@@ -1,5 +1,7 @@
 Output from screener run on letters in /{year}_Q{quarter_number} is in **results.txt**
 
+The interpretation for the sentiment score can be found at https://cloud.google.com/natural-language/docs/basics#interpreting_sentiment_analysis_values
+
 Note: Please hook up a new google account with sufficient GCP credits before running, you should receive a service account JSON secret and place it in the respository. 
 
 The updated google api key can be recieved

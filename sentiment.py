@@ -2,66 +2,137 @@
 from google.cloud.language import types
 from google.cloud.language import enums
 from google.cloud import language
-from pdfminer.high_level import extract_text
+
+# from pdfminer.high_level import extract_text
+import pdfplumber
 import os
 from names_dataset import NameDataset
 from collections import defaultdict
 import string
 from letter_info import Firm
 
-c_file = open('companies.txt')
-t_file = open('tickers.txt')
+c_file = open("companies.txt")
+t_file = open("tickers.txt")
 
 companies = c_file.read()
 tickers = t_file.read()
 
-companies_list = companies.split('\n')
-tickers_list = tickers.split('\n')
+companies_list = companies.split("\n")
+tickers_list = tickers.split("\n")
 
-tick_to_comp = {tickers_list[i]: companies_list[i]
-                for i in range(len(tickers_list))}
+tick_to_comp = {tickers_list[i]: companies_list[i] for i in range(len(tickers_list))}
 
 important = {}
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:/Users/teros/Downloads/fund_letters/Fund Letters-71193e5ca35b.json"
+os.environ[
+    "GOOGLE_APPLICATION_CREDENTIALS"
+] = "fund-letters-1581736590834-1b21669dce2a.json"
 m = NameDataset()
 
 # Instantiates a client
 client = language.LanguageServiceClient()
 
-banned_items = {'CAGR', 'FCF', 'YTD', 'NYSE',
-                'U.S.', 'EPS', 'ROE', 'ROIC',
-                'P/E', 'LONG', 'EV', 'PE', 'FUND',
-                'CFA', 'GDP', 'NAV', 'WTI', 'CFO', 'GM', 'NI',
-                'CAC', 'COO', 'CTO', 'CIO' 'CDC', 'AI', 'CIO', 'LAWS', 'MTD', 'III',
-                'MLP', 'BOE', 'LPG', 'NPV', 'HR', 'VC', 'DCF', 'MLP',
-                'IT', 'MSCI', 'RHS', 'FAX', 'UBS', 'CEM', 'CO', 'ALL', 'HY', 'NET', 'NOV', 'CCC',
-                'CASH', 'MD', 'CBOE', 'IP', 'YLD', 'MD', 'SP', 'TR', 'IG', 'CMBS', 'RMBS'}
+banned_items = {
+    "CAGR",
+    "FCF",
+    "YTD",
+    "NYSE",
+    "U.S.",
+    "EPS",
+    "ROE",
+    "ROIC",
+    "P/E",
+    "LONG",
+    "EV",
+    "PE",
+    "FUND",
+    "CFA",
+    "GDP",
+    "NAV",
+    "WTI",
+    "CFO",
+    "GM",
+    "NI",
+    "CAC",
+    "COO",
+    "CTO",
+    "CIO",
+    "CDC",
+    "AI",
+    "CIO",
+    "LAWS",
+    "MTD",
+    "III",
+    "MLP",
+    "BOE",
+    "LPG",
+    "NPV",
+    "HR",
+    "VC",
+    "DCF",
+    "MLP",
+    "IT",
+    "MSCI",
+    "RHS",
+    "FAX",
+    "UBS",
+    "CEM",
+    "CO",
+    "ALL",
+    "HY",
+    "NET",
+    "NOV",
+    "CCC",
+    "CASH",
+    "MD",
+    "CBOE",
+    "IP",
+    "YLD",
+    "MD",
+    "SP",
+    "TR",
+    "IG",
+    "CMBS",
+    "RMBS",
+}
 
-pdfs = os.scandir(path="./2019 4Q")
+pdfs = os.scandir(path="C:/Users/teros/Desktop/hedge-fund-hotels/2020-2Q")
 
 encoding_type = enums.EncodingType.UTF8
 
 for fund_letter in pdfs:
+
     try:
-        print(F'processing letter {fund_letter.name}')
+        print(f"processing letter {fund_letter.name}")
 
-        text = extract_text(fund_letter)
+        pdf = pdfplumber.open(fund_letter)
+        text = ""
 
-        document = types.Document(
-            content=text,
-            type=enums.Document.Type.PLAIN_TEXT)
+        if not pdf.pages:
+            continue
+
+        for page in pdf.pages:
+            text += page.extract_text()
+
+        document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
 
         response = client.analyze_entity_sentiment(
-            document=document, encoding_type=encoding_type)
+            document=document, encoding_type=encoding_type
+        )
 
         for entity in response.entities:
             name = enums.Entity.Type(entity.type).name
-            if tick_to_comp.get(entity.name) and len(entity.name) > 1 and (entity.name.upper() not in banned_items):
+
+            if (
+                tick_to_comp.get(entity.name)
+                and len(entity.name) > 1
+                and (entity.name.upper() not in banned_items)
+            ):
                 company = important.get(entity.name)
                 if not company:
                     firm = Firm(
-                        ticker=entity.name, company_name=tick_to_comp[entity.name])
+                        ticker=entity.name, company_name=tick_to_comp[entity.name]
+                    )
                     important[entity.name] = firm
 
                 firm = important[entity.name]
@@ -74,12 +145,12 @@ for fund_letter in pdfs:
 
                     firm.mentions_list.append(str(fund_letter.name))
 
-        # elif len(entity.name) < 20:
+            # elif len(entity.name) < 20:
             # if name == "ORGANIZATION" or name == "PERSON":
-                # if entity.name[0].upper() == entity.name[0] and entity.sentiment.magnitude > 0.05:
-                # if entity.name.upper() not in banned_items:
-                # important.add(
-                # (entity.name, round(entity.sentiment.score, 4)))
+            # if entity.name[0].upper() == entity.name[0] and entity.sentiment.magnitude > 0.05:
+            # if entity.name.upper() not in banned_items:
+            # important.add(
+            # (entity.name, round(entity.sentiment.score, 4)))
     except:
         continue
 
@@ -92,7 +163,7 @@ for item in final:
     item[1].make_std_dev()
     returning.append(item[1])
 
-text_file = open("results.txt", "w")
+text_file = open("2020-2Q.txt", "w")
 
 for obj in returning:
     text_file.write(str(obj))

@@ -1,0 +1,4326 @@
+Company Name: KKR & Co. Inc. 
+ Ticker: KKR 
+ Total Mentions: 19 
+ Letters Mentioned In: ['1MainQ22020.pdf', '2020_CTG_InvestorLetter_II.pdf', 'ABRv04.pdf', 'EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf', 'EzraFund_2Q_2020_LPLetter_Update.pdf', 'GreenhavenRoadCapitalQ22020.pdf', 'HFA042920.pdf', 'HFA050620.pdf', 'HFA061020.pdf', 'HFA061720.pdf', 'HFA062420.pdf', 'HFA070120.pdf', 'KiteLakeMonthlyNewsletter-June2020.pdf', 'KVIGF_Newsletter_Quarterly_20Q2.pdf', 'LakewoodCapital_2020Q2Letter.pdf', "OneMainQ2'20+letter.pdf", 'SerdikaAdvisorsJune2020MonthlyLetter.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: Amazon.com, Inc. 
+ Ticker: AMZN 
+ Total Mentions: 10 
+ Letters Mentioned In: ['AlightCapitalManangementLP-2ndQuarter2020.pdf', 'BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'CooperCreekPartnersQ22020QuarterlyLetter.pdf', 'FACTLetterQ2-2020.pdf', 'FranchiseFund-June2020.pdf', 'InclineGlobalQ22020Commentary.pdf', 'LocustWoodCapital.pdf', 'SabrepointCapitalPartnersLPQ22020Letter.pdf', 'StoneOakOppFundQ22020Letter-Final-Signed.pdf'] 
+ Mean Sentiment: 0.15 
+ Std. Dev Sentiment: 0.0707 
+ 
+Company Name: Facebook, Inc. 
+ Ticker: FB 
+ Total Mentions: 8 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'CooperCreekPartnersQ22020QuarterlyLetter.pdf', 'EdenbrookCapital_Q22020InvestorLetter.pdf', 'FranchiseFund-June2020.pdf', 'HVS+2020+Q2+-+Blue+Tower.pdf', 'SabrepointCapitalPartnersLPQ22020Letter.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mastercard Incorporated 
+ Ticker: MA 
+ Total Mentions: 6 
+ Letters Mentioned In: ['Atikainvestorletter2Q-2020.pdf', 'BarcaLetter(NotesDuringPandemic)20200602.pdf', 'BTIGEquityCapitalMarkets1H2020Review,2H2020OutlookvF.pdf', 'CVET_Presentation_6_2020__MoI.pdf', 'EzraFund_2Q_2020_LPLetter_Update.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: International Business Machines Corporation 
+ Ticker: IBM 
+ Total Mentions: 6 
+ Letters Mentioned In: ['AxiomadaLPJune2020ReportandLetter.pdf', 'DistillateQ22020.pdf', 'FranchiseFund-June2020.pdf', 'SelectStrategyTranscriptFinal.pdf', 'sparkline_investment-management-in-the-machine-learning-age.pdf', 'VenatorMay2020(I).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tesla, Inc. 
+ Ticker: TSLA 
+ Total Mentions: 6 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'CrawfordLakeCapital2Q2020InvestorLetter.pdf..pdf', 'McLainCapitalQ22020.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: General Electric Company 
+ Ticker: GE 
+ Total Mentions: 6 
+ Letters Mentioned In: ['FranchiseFund-June2020.pdf', 'HGIMQ22020Quarterly.pdf', 'REBEMFFLPJune2020.pdf', 'uncertainty.pdf', 'ValueInvestorInsight-Issue_20200630.pdf', 'VenatorMay2020(I).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Victory Portfolios II - VictoryShares US EQ Income Enhanced Volatility Wtd ETF 
+ Ticker: CDC 
+ Total Mentions: 6 
+ Letters Mentioned In: ['Manole2q2020MANOLEnewsletterPart1.pdf', 'REBEMFFLPApril2020.pdf', 'REBEMFFLPMay2020.pdf', 'SelectEquityGroup-OnCOVID-19.pdf', 'StaminaCapitalQ22020PartnerLetter.pdf', 'THGV2020Semi-AnnualReport.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Alphabet Inc. 
+ Ticker: GOOG 
+ Total Mentions: 5 
+ Letters Mentioned In: ['1MainQ22020.pdf', 'FranchiseFund-June2020.pdf', "OneMainQ2'20+letter.pdf", 'taovalue_2020_q2_final.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fidelity National Information Services, Inc. 
+ Ticker: FIS 
+ Total Mentions: 5 
+ Letters Mentioned In: ['CBInsightsonAmazon&FinancialServiceds(July2020).pdf', 'CTF2Q2020LettertoInvestors.pdf', 'PGFFInvestorLetter-Q22020FINAL.pdf', 'ValueInvestorInsight-ApisCapitalReprint(June2020).pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CarMax, Inc. 
+ Ticker: KMX 
+ Total Mentions: 5 
+ Letters Mentioned In: ['LocustWoodCapital.pdf', 'MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf', 'Steel_City_Capital_2Q_20_Partner_Letter.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Gap, Inc. 
+ Ticker: GPS 
+ Total Mentions: 4 
+ Letters Mentioned In: ['11Capital_InvestorLetter_2020Q2.pdf', 'AlpinePeaksCapitalQ22020Letter.pdf', 'HVS+2020+Q2+-+Blue+Tower.pdf', 'SelectEquityGroup-OnCOVID-19.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AerCap Holdings N.V. 
+ Ticker: AER 
+ Total Mentions: 4 
+ Letters Mentioned In: ['Admiral_Cap_2Q20_Letter.pdf', 'StaminaCapitalQ22020PartnerLetter.pdf', 'Steamboat20202QFINAL.pdf', 'WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Shopify Inc. 
+ Ticker: SHOP 
+ Total Mentions: 4 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'CrawfordLakeCapital2Q2020InvestorLetter.pdf..pdf', 'HighsideQ2_2020vFINAL.01.pdf', 'McLainCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Twitter, Inc. 
+ Ticker: TWTR 
+ Total Mentions: 4 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'TigerLegatusInvestorLetter_Q22020.pdf', 'VCPQ22020fr.pdf', 'WesterlyMay2020UpdateandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: IAC/InterActiveCorp 
+ Ticker: IAC 
+ Total Mentions: 4 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf', 'InclineGlobalQ22020Commentary.pdf', 'MobilityRevolutionTranscriptFinal.pdf', 'TidefallQ22020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: ANGI Homeservices Inc. 
+ Ticker: ANGI 
+ Total Mentions: 4 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf', 'GreenhavenRoadCapitalQ22020.pdf', 'MaranPartnersFundLP2020Q2Letter.pdf', 'YarraSquare20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: salesforce.com, inc. 
+ Ticker: CRM 
+ Total Mentions: 4 
+ Letters Mentioned In: ['AxiomadaLPJune2020ReportandLetter.pdf', 'HighsideQ2_2020vFINAL.01.pdf', 'Kora_2020Q2_Letter_020383.pdf', 'SpreeCapitalAdvisorsQ22020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Netflix, Inc. 
+ Ticker: NFLX 
+ Total Mentions: 4 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'black-and-whiteCapital20202ndQuarterInvestorLetter.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AmerisourceBergen Corporation 
+ Ticker: ABC 
+ Total Mentions: 4 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'FranchiseFund-June2020.pdf', 'P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Edgewell Personal Care Company 
+ Ticker: EPC 
+ Total Mentions: 4 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Live Nation Entertainment, Inc. 
+ Ticker: LYV 
+ Total Mentions: 4 
+ Letters Mentioned In: ['black-and-whiteCapital20202ndQuarterInvestorLetter.pdf', 'BrennanBAMQ22020QuarterlyLetter.pdf', 'GreenstonePartnersQ22020Letter.pdf', 'Newbrook20Q2NBletter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PG&E Corporation 
+ Ticker: PCG 
+ Total Mentions: 4 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf', 'InclineGlobalQ22020Commentary.pdf', 'PhilosophyCapitalPartnersLP-Q22020Letter.pdf', 'PlusTickPartnersQuarterlyLetterQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PAR Technology Corporation 
+ Ticker: PAR 
+ Total Mentions: 4 
+ Letters Mentioned In: ['GreenhavenRoadCapitalQ22020.pdf', 'HFA042220.pdf', 'LaughingWaterCapital1H2020.pdf', 'RichieCapitalRCGJune2020InvestorLettervF-TheMarketLooksForward.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Caterpillar Inc. 
+ Ticker: CAT 
+ Total Mentions: 4 
+ Letters Mentioned In: ['HSBC29.pdf', 'MaximusLettertoInvestors-May2020.pdf', 'Maximus_Letter_to_Investors_July_2020.pdf', 'TheArgosTimes-Speed,StrengthandSuperiorTrackingSkills7.27.2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hertz Global Holdings, Inc. 
+ Ticker: HTZ 
+ Total Mentions: 4 
+ Letters Mentioned In: ['LaughingWaterCapital1H2020.pdf', 'Liberty2Q-20.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lockheed Martin Corporation 
+ Ticker: LMT 
+ Total Mentions: 4 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'MaximusLettertoInvestors-May2020.pdf', 'Maximus_Letter_to_Investors_July_2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MasterCraft Boat Holdings, Inc. 
+ Ticker: MCFT 
+ Total Mentions: 3 
+ Letters Mentioned In: ['1MainQ22020.pdf', 'ForagerFundletter(I)2020Q2.pdf', "OneMainQ2'20+letter.pdf"] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MMA Capital Holdings, Inc. 
+ Ticker: MMAC 
+ Total Mentions: 3 
+ Letters Mentioned In: ['Alluvial_Capital_Management_Q2_2020_Letter_to_Partners.pdf', 'KippingtonCapitalH12020PartnerLetter.pdf', 'NomadicCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Square, Inc. 
+ Ticker: SQ 
+ Total Mentions: 3 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'ARKinvest_050120_whitepaper_CashAppvs.Venmo.pdf', 'LHQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Snap Inc. 
+ Ticker: SNAP 
+ Total Mentions: 3 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'CBInsightsonAmazon&FinancialServiceds(July2020).pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CrowdStrike Holdings, Inc. 
+ Ticker: CRWD 
+ Total Mentions: 3 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'AOAssetManagementLetter-Q22020.pdf', 'HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Zoom Video Communications, Inc. 
+ Ticker: ZM 
+ Total Mentions: 3 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'FINCapitalQ22020InvestorLetter.pdf', 'HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Apple Inc. 
+ Ticker: AAPL 
+ Total Mentions: 3 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'EzraFund_2Q_2020_LPLetter_Update.pdf', 'LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Match Group, Inc. 
+ Ticker: MTCH 
+ Total Mentions: 3 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf', 'black-and-whiteCapital20202ndQuarterInvestorLetter.pdf', 'MaranPartnersFundLP2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Gilead Sciences, Inc. 
+ Ticker: GILD 
+ Total Mentions: 3 
+ Letters Mentioned In: ['ApisCapital-COVID-19ShortIdeas.pdf', 'PPC_Q2_2020_letter.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Avis Budget Group, Inc. 
+ Ticker: CAR 
+ Total Mentions: 3 
+ Letters Mentioned In: ['ARKInvest_070620_whitepaper_Genomics-Innovation.pdf', 'KVIGF_Newsletter_Quarterly_20Q2.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.6 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MAXIMUS, Inc. 
+ Ticker: MMS 
+ Total Mentions: 3 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: FTI Consulting, Inc. 
+ Ticker: FCN 
+ Total Mentions: 3 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Vectrus, Inc. 
+ Ticker: VEC 
+ Total Mentions: 3 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF', 'VECIndiaInvestorLetterMay2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: SS&C Technologies Holdings, Inc. 
+ Ticker: SSNC 
+ Total Mentions: 3 
+ Letters Mentioned In: ["BlueGrotto_Q2'20_letter.pdf", 'ValueInvestorInsight-Issue_20200630.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: EZCORP, Inc. 
+ Ticker: EZPW 
+ Total Mentions: 3 
+ Letters Mentioned In: ['BlueTower2020+Q2.pdf', 'GrizzlyRockQ22020InvestorLetter.pdf', 'HVS+2020+Q2+-+Blue+Tower.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Foot Locker, Inc. 
+ Ticker: FL 
+ Total Mentions: 3 
+ Letters Mentioned In: ['BTIGEquityCapitalMarkets1H2020Review,2H2020OutlookvF.pdf', 'KippingtonCapitalH12020PartnerLetter.pdf', 'Mountaineer2020Q2QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Carvana Co. 
+ Ticker: CVNA 
+ Total Mentions: 3 
+ Letters Mentioned In: ['CAS_July_2020_Letter_to_Partners.pdf', 'Steel_City_Capital_2Q_20_Partner_Letter.pdf', 'WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Copa Holdings, S.A. 
+ Ticker: CPA 
+ Total Mentions: 3 
+ Letters Mentioned In: ['CLS-Perspectives6-30-20.pdf', 'LegionQ2-2020-Quarterly-Letter-and-Tear-Sheet-AV-7_13_20.pdf', 'LegionQ22020QuarterlyLetterandTearSheetAV7_13_20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Digital Turbine, Inc. 
+ Ticker: APPS 
+ Total Mentions: 3 
+ Letters Mentioned In: ['CobiaCapitalQ22020InvestorLetter.pdf', 'CobiaQ22020InvestorLetter.pdf', 'GreenhavenRoadCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0.1732 
+ 
+Company Name: Diamondback Energy, Inc. 
+ Ticker: FANG 
+ Total Mentions: 3 
+ Letters Mentioned In: ['DPMCapitalQuarterlyLetter-Q22020.pdf', 'FINCapitalQ22020InvestorLetter.pdf', 'SCWCapital-Q22020InvestorLetter_M1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Healthcare Services Group, Inc. 
+ Ticker: HCSG 
+ Total Mentions: 3 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf', 'ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Eversource Energy 
+ Ticker: ES 
+ Total Mentions: 3 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf', 'RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Microsoft Corporation 
+ Ticker: MSFT 
+ Total Mentions: 3 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf', 'LocustWoodCapital.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Uber Technologies, Inc. 
+ Ticker: UBER 
+ Total Mentions: 3 
+ Letters Mentioned In: ['FranchiseFund-June2020.pdf', 'TigerLegatusInvestorLetter_Q22020.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Boeing Company 
+ Ticker: BA 
+ Total Mentions: 3 
+ Letters Mentioned In: ['HardingLoevnerQ22020.pdf', 'InclineGlobalQ22020Commentary.pdf', 'RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MFA Financial, Inc. 
+ Ticker: MFA 
+ Total Mentions: 3 
+ Letters Mentioned In: ['HFA061020.pdf', 'HFA062420.pdf', 'HFA070120.pdf'] 
+ Mean Sentiment: 0.15 
+ Std. Dev Sentiment: 0.0707 
+ 
+Company Name: Copart, Inc. 
+ Ticker: CPRT 
+ Total Mentions: 3 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf', 'InclineGlobalQ22020Commentary.pdf', 'ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Clear Channel Outdoor Holdings, Inc. 
+ Ticker: CCO 
+ Total Mentions: 3 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_July_2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: American Airlines Group Inc. 
+ Ticker: AAL 
+ Total Mentions: 3 
+ Letters Mentioned In: ['McLainCapitalQ22020.pdf', 'Steamboat20202QFINAL.pdf', 'ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PepsiCo, Inc. 
+ Ticker: PEP 
+ Total Mentions: 3 
+ Letters Mentioned In: ['PaviseCapital-June2020InvestorLetter-.pdf', 'PaviseCapitalManagementMonthlyPerformanceUpdate2020.05.31.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Intercontinental Exchange, Inc. 
+ Ticker: ICE 
+ Total Mentions: 3 
+ Letters Mentioned In: ['PGFFInvestorLetter-April2020.pdf', 'PGFFInvestorLetter-May2020.pdf', 'PGFFInvestorLetter-Q22020FINAL.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: Invesco Exchange-Traded Fund Trust - Invesco Financial Preferred ETF 
+ Ticker: PGF 
+ Total Mentions: 3 
+ Letters Mentioned In: ['PGFFInvestorLetter-April2020.pdf', 'PGFFInvestorLetter-May2020.pdf', 'PGFFInvestorLetter-Q22020FINAL.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Intelligent Systems Corporation 
+ Ticker: INS 
+ Total Mentions: 3 
+ Letters Mentioned In: ['RichieCapitalRCGJune2020InvestorLettervF-TheMarketLooksForward.pdf', 'ValueInvestorInsight-ApisCapitalReprint(June2020).pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Macerich Company 
+ Ticker: MAC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['1798USConsumerFund_Newsletter_April2020.pdf', 'KingswayFCFFund_Q22020letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: J. C. Penney Company, Inc. 
+ Ticker: JCP 
+ Total Mentions: 2 
+ Letters Mentioned In: ['1798USConsumerFund_Newsletter_April2020.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hanesbrands Inc. 
+ Ticker: HBI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['1MainQ22020.pdf', "OneMainQ2'20+letter.pdf"] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Blackstone Group Inc. 
+ Ticker: BX 
+ Total Mentions: 2 
+ Letters Mentioned In: ['2020-may-extended-stay-america-stay-hidden-opps-update-5-18-2020.pdf', 'EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AGNC Investment Corp. 
+ Ticker: AGNC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ABRv04.pdf', 'moat20-ryan-oconnor.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: QUALCOMM Incorporated 
+ Ticker: QCOM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AlightCapitalManangementLP-2ndQuarter2020.pdf', 'FranchiseFund-June2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NVIDIA Corporation 
+ Ticker: NVDA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AlightCapitalManangementLP-2ndQuarter2020.pdf', 'FranchiseFund-June2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Syneos Health, Inc. 
+ Ticker: SYNH 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AlpinePeaksCapitalQ22020Letter.pdf', 'PPC_Q2_2020_letter.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Zendesk, Inc. 
+ Ticker: ZEN 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Datadog, Inc. 
+ Ticker: DDOG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: StoneCo Ltd. 
+ Ticker: STNE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'SpreeCapitalAdvisorsQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MercadoLibre, Inc. 
+ Ticker: MELI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf', 'Arisaig-Quarterly-April-2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Slack Technologies, Inc. 
+ Ticker: WORK 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Bank of America Corporation 
+ Ticker: BAC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Wells Fargo & Company 
+ Ticker: WFC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Zscaler, Inc. 
+ Ticker: ZS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Zillow Group, Inc. 
+ Ticker: ZG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Intel Corporation 
+ Ticker: INTC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Andaznotes20200630.pdf', 'CooperCreekPartnersQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: HP Inc. 
+ Ticker: HPQ 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf', 'TigerLegatusInvestorLetter_Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lam Research Corporation 
+ Ticker: LRCX 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf', 'StoneOakOppFundQ22020Letter-Final-Signed.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Coherent, Inc. 
+ Ticker: COHR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf', 'Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Qorvo, Inc. 
+ Ticker: QRVO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf', 'AxiomadaLPJune2020ReportandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Antero Resources Corporation 
+ Ticker: AR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf', 'FranchiseFund-June2020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fortive Corporation 
+ Ticker: FTV 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ArgosyQ22020.pdf', 'US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Viela Bio, Inc. 
+ Ticker: VIE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ArisaigQuarterlyJuly2020.pdf', 'Steel_City_Capital_2Q_20_Partner_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Avid Bioservices, Inc. 
+ Ticker: CDMO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Atikainvestorletter2Q-2020.pdf', 'LaughingWaterCapital1H2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Coupa Software Incorporated 
+ Ticker: COUP 
+ Total Mentions: 2 
+ Letters Mentioned In: ['AxiomadaLPJune2020ReportandLetter.pdf', 'HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ingersoll-Rand Plc 
+ Ticker: IR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BarcaLetter(NotesDuringPandemic)20200602.pdf', 'GreystoneCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0.2828 
+ 
+Company Name: Philip Morris International Inc. 
+ Ticker: PM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BarcaLetter(NotesDuringPandemic)20200602.pdf', 'Upslope+-+2020Q2+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Graham Holdings Company 
+ Ticker: GHC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fluor Corporation 
+ Ticker: FLR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Southwestern Energy Company 
+ Ticker: SWN 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Heidrick & Struggles International, Inc. 
+ Ticker: HSII 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Crawford & Company 
+ Ticker: CRD.B 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Premier, Inc. 
+ Ticker: PINC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Winnebago Industries, Inc. 
+ Ticker: WGO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Crawford & Company 
+ Ticker: CRD.A 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hooker Furniture Corporation 
+ Ticker: HOFT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: Kforce Inc. 
+ Ticker: KFRC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: iRobot Corporation 
+ Ticker: IRBT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Helen of Troy Limited 
+ Ticker: HELE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lazard Ltd 
+ Ticker: LAZ 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Sprouts Farmers Market, Inc. 
+ Ticker: SFM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: Pzena Investment Management, Inc 
+ Ticker: PZN 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Adtalem Global Education Inc. 
+ Ticker: ATGE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BenedictValueFund-Q22020Letter-FINAL(1).PDF', 'BenedictValueFund-Q22020Letter-FINAL.PDF'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PolyMet Mining Corp. 
+ Ticker: PLM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BreachInlet-2Q20Letter.pdf', 'LaughingWaterCapital1H2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hilton Grand Vacations Inc. 
+ Ticker: HGV 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BreachInlet-2Q20Letter.pdf', 'P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Kennedy-Wilson Holdings, Inc. 
+ Ticker: KW 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BrennanBAMQ22020QuarterlyLetter.pdf', 'BrennanOCPFundFactsheet(May2020).pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Brookfield Asset Management Inc. 
+ Ticker: BAM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BrennanBAMQ22020QuarterlyLetter.pdf', 'EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Arcos Dorados Holdings Inc. 
+ Ticker: ARCO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BrennanBAMQ22020QuarterlyLetter.pdf', 'BrennanOCPFundFactsheet(May2020).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Sirius XM Holdings Inc. 
+ Ticker: SIRI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BrennanBAMQ22020QuarterlyLetter.pdf', 'GreenstonePartnersQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Chemours Company 
+ Ticker: CC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['BTIGEquityCapitalMarkets1H2020Review,2H2020OutlookvF.pdf', 'FINCapitalQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Airgain, Inc. 
+ Ticker: AIRG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['CobiaCapitalQ22020InvestorLetter.pdf', 'CobiaQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Horizon Therapeutics Public Limited Company 
+ Ticker: HZNP 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ConnachtEquityLongShort_QuarterlyLetter_2Q2020.pdf', 'CopernicusCapitalManagement_BorghesePartnersQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NCR Corporation 
+ Ticker: NCR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['CTF2Q2020LettertoInvestors.pdf', 'ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Kontoor Brands, Inc. 
+ Ticker: KTB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['CureenCapitalQ22020.pdf', 'CurreenCapitalQ2+2020+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: TopBuild Corp. 
+ Ticker: BLD 
+ Total Mentions: 2 
+ Letters Mentioned In: ['CureenCapitalQ22020.pdf', 'CurreenCapitalQ2+2020+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Covetrus, Inc. 
+ Ticker: CVET 
+ Total Mentions: 2 
+ Letters Mentioned In: ['CVET_Presentation_6_2020__MoI.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Clorox Company 
+ Ticker: CLX 
+ Total Mentions: 2 
+ Letters Mentioned In: ['David-Capital-Partners-LLC-Letter-on-COVID-19-2020-Q2-1.pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: DaVita Inc. 
+ Ticker: DVA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['DPMCapitalQuarterlyLetter-Q22020.pdf', 'Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: BrightView Holdings, Inc. 
+ Ticker: BV 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: The Goldman Sachs Group, Inc. 
+ Ticker: GS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CymaBay Therapeutics, Inc. 
+ Ticker: CBAY 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Harvard Bioscience, Inc. 
+ Ticker: HBIO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Dell Technologies Inc. 
+ Ticker: DELL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Quanta Services, Inc. 
+ Ticker: PWR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CIM Commercial Trust Corporation 
+ Ticker: CMCT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cheniere Energy, Inc. 
+ Ticker: LNG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Stericycle, Inc. 
+ Ticker: SRCL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MSA Safety Incorporated 
+ Ticker: MSA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EngineCapitalQ22020LetterFinal.pdf', 'Engine_Capital_Q2_2020_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Essent Group Ltd. 
+ Ticker: ESNT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf', 'NVIM.InsuranceLetter.2020.2Q.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Booking Holdings Inc. 
+ Ticker: BKNG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf', 'GovernorsLaneLPSecondQuarter2020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Celanese Corporation 
+ Ticker: CE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['FHAMonthlyInsights202004.pdf', 'FHAMonthlyInsights202005.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Prosperity Bancshares, Inc. 
+ Ticker: PB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['FHAMonthlyInsights202005.pdf', 'KVIGF_Newsletter_Quarterly_20Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Credit Acceptance Corporation 
+ Ticker: CACC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ForagerFundletter(I)2020Q2.pdf', 'taovalue_2020_q2_final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cullen/Frost Bankers, Inc. 
+ Ticker: CFR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['FPAGlobalFund20201H.pdf', 'SelectEquityGroup-OnCOVID-19.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Spirit AeroSystems Holdings, Inc. 
+ Ticker: SPR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Expedia Group, Inc. 
+ Ticker: EXPE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf', 'StoneOakOppFundQ22020Letter-Final-Signed.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Orion Engineered Carbons S.A. 
+ Ticker: OEC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['GrizzlyRockQ22020InvestorLetter.pdf', 'MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Immunovant, Inc. 
+ Ticker: IMVT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['GTPQ22020Letter.pdf', 'US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Affiliated Managers Group, Inc. 
+ Ticker: AMG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HardingLoevnerQ22020.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: GameStop Corp. 
+ Ticker: GME 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HCPQ22020Letter.pdf', 'WesterlyMay2020UpdateandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Arcosa, Inc. 
+ Ticker: ACA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HFA042220.pdf', 'OneOakSecondQuarter2020PerformanceOverviewandCommentaryFinal.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Spirit Airlines, Inc. 
+ Ticker: SAVE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HFA060320.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: American International Group, Inc. 
+ Ticker: AIG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HGIMQ22020Quarterly.pdf', 'Manole2q2020MANOLEnewsletterPart21_2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Planet Fitness, Inc. 
+ Ticker: PLNT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf', 'StaminaCapitalQ22020PartnerLetter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Roku, Inc. 
+ Ticker: ROKU 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Kirkland Lake Gold Ltd. 
+ Ticker: KL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HSBC29.pdf', 'KiteLakeMonthlyNewsletter-June2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: TransDigm Group Incorporated 
+ Ticker: TDG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HunterCapital2Q20InvestorLetter.pdf', 'MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0.6 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Container Store Group, Inc. 
+ Ticker: TCS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['HunterCapital2Q20InvestorLetter.pdf', 'PGFFInvestorLetter-May2020.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: IAA, Inc. 
+ Ticker: IAA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['InclineGlobalQ22020Commentary.pdf', 'ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: SL Green Realty Corp. 
+ Ticker: SLG 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LandB-NYC-Office-Facing-Existential-Hurricane-1.pdf', 'LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Iteris, Inc. 
+ Ticker: ITI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LaughingWaterCapital1H2020.pdf', 'VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Boingo Wireless, Inc. 
+ Ticker: WIFI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LegionQ2-2020-Quarterly-Letter-and-Tear-Sheet-AV-7_13_20.pdf', 'LegionQ22020QuarterlyLetterandTearSheetAV7_13_20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: BlackRock Enhanced Capital and Income Fund, Inc. 
+ Ticker: CII 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LegionQ2-2020-Quarterly-Letter-and-Tear-Sheet-AV-7_13_20.pdf', 'LegionQ22020QuarterlyLetterandTearSheetAV7_13_20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Carter's, Inc. 
+ Ticker: CRI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LegionQ2-2020-Quarterly-Letter-and-Tear-Sheet-AV-7_13_20.pdf', 'LegionQ22020QuarterlyLetterandTearSheetAV7_13_20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Timken Company 
+ Ticker: TKR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LegionQ2-2020-Quarterly-Letter-and-Tear-Sheet-AV-7_13_20.pdf', 'LegionQ22020QuarterlyLetterandTearSheetAV7_13_20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mobile Mini, Inc. 
+ Ticker: MINI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Liberty2Q-20.pdf', 'PhilosophyCapitalPartnersLP-Q22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NV5 Global, Inc. 
+ Ticker: NVEE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Liberty2Q-20.pdf', 'MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0.4 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: W. R. Grace & Co. 
+ Ticker: GRA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Liberty2Q-20.pdf', 'TPEPQuarterlyLetter_2Q20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: T-Mobile US, Inc. 
+ Ticker: TMUS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LocustWoodCapital.pdf', 'StoneOakOppFundQ22020Letter-Final-Signed.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Blackstone Mortgage Trust, Inc. 
+ Ticker: BXMT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LocustWoodCapital.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Boston Scientific Corporation 
+ Ticker: BSX 
+ Total Mentions: 2 
+ Letters Mentioned In: ['LocustWoodCapital.pdf', 'Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Flowserve Corporation 
+ Ticker: FLS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Home Depot, Inc. 
+ Ticker: HD 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Albemarle Corporation 
+ Ticker: ALB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: A. O. Smith Corporation 
+ Ticker: AOS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Allegion plc 
+ Ticker: ALLE 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fastenal Company 
+ Ticker: FAST 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Xylem Inc. 
+ Ticker: XYL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Roper Technologies, Inc. 
+ Ticker: ROP 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-June2020.pdf', 'Maximus_Letter_to_Investors_June_2020.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: C.H. Robinson Worldwide, Inc. 
+ Ticker: CHRW 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf', 'Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cummins Inc. 
+ Ticker: CMI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf', 'TheArgosTimes-Speed,StrengthandSuperiorTrackingSkills7.27.2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Sherwin-Williams Company 
+ Ticker: SHW 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf', 'Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Middleby Corporation 
+ Ticker: MIDD 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Maximus_Letter_to_Investors_July_2020.pdf', 'WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ducommun Incorporated 
+ Ticker: DCO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Spectrum Brands Holdings, Inc. 
+ Ticker: SPB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Clearwater Paper Corporation 
+ Ticker: CLW 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf', 'SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Kraton Corporation 
+ Ticker: KRA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf', 'WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Nuveen Select Maturities Municipal Fund 
+ Ticker: NIM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['moat20-ryan-oconnor.pdf', 'REBEMFFLPJune2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: TE Connectivity Ltd. 
+ Ticker: TEL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Mountaineer2020Q2QuarterlyLetter.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: RenaissanceRe Holdings Ltd. 
+ Ticker: RNR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['NVIM.InsuranceLetter.2020.2Q.pdf', 'TheArgosTimes-Speed,StrengthandSuperiorTrackingSkills7.27.2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Putnam Master Intermediate Income Trust 
+ Ticker: PIM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Oil-Service-Companies-at-Extreme-Discounts-4-Final2.pdf', 'PzenaQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Brink's Company 
+ Ticker: BCO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf', 'TheArgosTimes-Speed,StrengthandSuperiorTrackingSkills7.27.2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cornerstone OnDemand, Inc. 
+ Ticker: CSOD 
+ Total Mentions: 2 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf', 'WesterlyMay2020UpdateandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fox Corporation 
+ Ticker: FOX 
+ Total Mentions: 2 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf', 'SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Western Asset Global High Income Fund Inc. 
+ Ticker: EHI 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PaviseCapital-June2020InvestorLetter-.pdf', 'PaviseCapitalManagementMonthlyPerformanceUpdate2020.05.31.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PCM Fund Inc. 
+ Ticker: PCM 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PaviseCapital-June2020InvestorLetter-.pdf', 'PaviseCapitalManagementMonthlyPerformanceUpdate2020.05.31.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PagSeguro Digital Ltd. 
+ Ticker: PAGS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PGFFInvestorLetter-April2020.pdf', 'PGFFInvestorLetter-May2020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CBL & Associates Properties, Inc. 
+ Ticker: CBL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PGFFInvestorLetter-Q22020FINAL.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Central Securities Corp. 
+ Ticker: CET 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PGFFInvestorLetter-Q22020FINAL.pdf', 'VCP2Q20Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: WillScot Corporation 
+ Ticker: WSC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PhilosophyCapitalPartnersLP-Q22020Letter.pdf', 'US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Apollo Global Management, Inc. 
+ Ticker: APO 
+ Total Mentions: 2 
+ Letters Mentioned In: ['PhilosophyCapitalPartnersLP-Q22020Letter.pdf', 'Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.7 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Brookfield Real Assets Income Fund Inc. 
+ Ticker: RA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf', 'ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Global Blood Therapeutics, Inc. 
+ Ticker: GBT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf', 'Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Trade Desk, Inc. 
+ Ticker: TTD 
+ Total Mentions: 2 
+ Letters Mentioned In: ['RichieCapitalRCGJune2020InvestorLettervF-TheMarketLooksForward.pdf', 'SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Oracle Corporation 
+ Ticker: ORCL 
+ Total Mentions: 2 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Workday, Inc. 
+ Ticker: WDAY 
+ Total Mentions: 2 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf', 'ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Grubhub Inc. 
+ Ticker: GRUB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['SerdikaAdvisorsJune2020MonthlyLetter.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tenet Healthcare Corporation 
+ Ticker: THC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf', 'THGV2020Semi-AnnualReport.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: eBay Inc. 
+ Ticker: EBAY 
+ Total Mentions: 2 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf', 'Steel_City_Capital_2Q_20_Partner_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Boyd Gaming Corporation 
+ Ticker: BYD 
+ Total Mentions: 2 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf', 'StanphylCapitalLetter-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Amtech Systems, Inc. 
+ Ticker: ASYS 
+ Total Mentions: 2 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf', 'StanphylCapitalLetter-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Equity Commonwealth 
+ Ticker: EQC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf', 'StanphylCapitalLetter-May2020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Public Storage 
+ Ticker: PSA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf', 'StanphylCapitalLetter-May2020.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0.0 
+ 
+Company Name: The AES Corporation 
+ Ticker: AES 
+ Total Mentions: 2 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf', 'StanphylCapitalLetter-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MagnaChip Semiconductor Corporation 
+ Ticker: MX 
+ Total Mentions: 2 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf', 'StanphylCapitalLetter-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: BlackBerry Limited 
+ Ticker: BB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf', 'WestrayCapital-Q22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The New York Times Company 
+ Ticker: NYT 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: OptiNose, Inc. 
+ Ticker: OPTN 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf', 'Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Marathon Petroleum Corporation 
+ Ticker: MPC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['TPEPQuarterlyLetter_2Q20.pdf', 'WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Evercore Inc. 
+ Ticker: EVR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['Upslope+-+2020Q2+Letter.pdf', 'ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Electronic Arts Inc. 
+ Ticker: EA 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ValueInvestorInsight-ApisCapitalReprint(June2020).pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Deutsche Bank Aktiengesellschaft 
+ Ticker: DB 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ValueInvestorInsight-ApisCapitalReprint(June2020).pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: FLIR Systems, Inc. 
+ Ticker: FLIR 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ValueInvestorInsight-ApisCapitalReprint(June2020).pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Physicians Realty Trust 
+ Ticker: DOC 
+ Total Mentions: 2 
+ Letters Mentioned In: ['ValueInvestorInsight-ApisCapitalReprint(June2020).pdf', 'ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CSX Corporation 
+ Ticker: CSX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['11Capital_InvestorLetter_2020Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Extended Stay America, Inc. 
+ Ticker: STAY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['2020-may-extended-stay-america-stay-hidden-opps-update-5-18-2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Arbor Realty Trust, Inc. 
+ Ticker: ABR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ABRv04.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Annaly Capital Management, Inc. 
+ Ticker: NLY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ABRv04.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Chimera Investment Corporation 
+ Ticker: CIM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ABRv04.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Aaron's, Inc. 
+ Ticker: AAN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Admiral_Cap_2Q20_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NXP Semiconductors N.V. 
+ Ticker: NXPI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlightCapitalManangementLP-2ndQuarter2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Advanced Micro Devices, Inc. 
+ Ticker: AMD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlightCapitalManangementLP-2ndQuarter2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Union Pacific Corporation 
+ Ticker: UNP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlightCapitalManangementLP-2ndQuarter2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: West Pharmaceutical Services 
+ Ticker: WST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlpinePeaksCapitalQ22020Letter.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Trimble Inc. 
+ Ticker: TRMB 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlpinePeaksCapitalQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cognex Corporation 
+ Ticker: CGNX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlpinePeaksCapitalQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Wabtec Corporation 
+ Ticker: WAB 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AlpinePeaksCapitalQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Bandwidth Inc. 
+ Ticker: BAND 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: RingCentral, Inc. 
+ Ticker: RNG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Everbridge, Inc. 
+ Ticker: EVBG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Five9, Inc. 
+ Ticker: FIVN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PayPal Holdings, Inc. 
+ Ticker: PYPL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AltaParkCapital-QuarterlyLetter2020-Q2-.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Southwest Airlines Co. 
+ Ticker: LUV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Andaznotes20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tilray, Inc. 
+ Ticker: TLRY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Xerox Holdings Corporation 
+ Ticker: XRX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AMC Entertainment Holdings, Inc. 
+ Ticker: AMC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ready Capital Corporation 
+ Ticker: RC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Colony Capital, Inc. 
+ Ticker: CLNY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Eldorado Resorts, Inc. 
+ Ticker: ERI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AntaraCapital-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Skyworks Solutions, Inc. 
+ Ticker: SWKS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lumentum Holdings Inc. 
+ Ticker: LITE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Universal Display Corporation 
+ Ticker: OLED 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AOAssetManagementLetter-Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Natural Gas Services Group, Inc. 
+ Ticker: NGS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ARKInvest_070620_whitepaper_Genomics-Innovation.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Xilinx, Inc. 
+ Ticker: XLNX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AxiomadaLPJune2020ReportandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lattice Semiconductor Corporation 
+ Ticker: LSCC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['AxiomadaLPJune2020ReportandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lululemon Athletica Inc. 
+ Ticker: LULU 
+ Total Mentions: 1 
+ Letters Mentioned In: ['black-and-whiteCapital20202ndQuarterInvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Walt Disney Company 
+ Ticker: DIS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['black-and-whiteCapital20202ndQuarterInvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Zynga Inc. 
+ Ticker: ZNGA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['black-and-whiteCapital20202ndQuarterInvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: FirstCash, Inc. 
+ Ticker: FCFS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BlueTower2020+Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: LKQ Corporation 
+ Ticker: LKQ 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BonsaiPartnersQ22020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Genasys Inc. 
+ Ticker: GNSS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BonsaiPartnersQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Illumina, Inc. 
+ Ticker: ILMN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BonsaiPartnersQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Western Alliance Bancorporation 
+ Ticker: WAL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BramshillStructuredProductsInvestorLetterFinalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Atlassian Corporation Plc 
+ Ticker: TEAM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BramshillStructuredProductsInvestorLetterFinalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Comfort Systems USA, Inc. 
+ Ticker: FIX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BreachInlet-2Q20Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Rent-A-Center, Inc. 
+ Ticker: RCII 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BreachInlet-2Q20Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Legacy Housing Corporation 
+ Ticker: LEGH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BreachInlet-2Q20Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hilton Worldwide Holdings Inc. 
+ Ticker: HLT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BreachInlet-2Q20Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Charter Communications, Inc. 
+ Ticker: CHTR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BrennanBAMQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: North American Construction Group Ltd. 
+ Ticker: NOA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BrightGate2020.06BrightGateFocus-InterimLetter1H_20.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: JPMorgan Chase & Co. 
+ Ticker: JPM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BrightGate2020.06BrightGateFocus-InterimLetter1H_20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Atlantica Yield plc 
+ Ticker: AY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['BTIGEquityCapitalMarkets1H2020Review,2H2020OutlookvF.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: XPEL, Inc. 
+ Ticker: XPEL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Caro_Kann_Capital_Letter2020_May_.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CVS Health Corporation 
+ Ticker: CVS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CBInsightsonAmazon&FinancialServiceds(July2020).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CRISPR Therapeutics AG 
+ Ticker: CRSP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CliffsPerspective5620IsSystematicValueInvestingDead.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Select Interior Concepts, Inc. 
+ Ticker: SIC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CliffsPerspective5620IsSystematicValueInvestingDead.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: DENTSPLY SIRONA Inc. 
+ Ticker: XRAY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CLS-Perspectives6-30-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Twist Bioscience Corporation 
+ Ticker: TWST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ConnachtEquityLongShort_QuarterlyLetter_2Q2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: II-VI Incorporated 
+ Ticker: IIVI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ConnachtEquityLongShort_QuarterlyLetter_2Q2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: East West Bancorp, Inc. 
+ Ticker: EWBC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ConnachtEquityLongShort_QuarterlyLetter_2Q2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Super Micro Computer, Inc. 
+ Ticker: SMCI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CooperCreekPartnersQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Herbalife Nutrition Ltd. 
+ Ticker: HLF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CooperCreekPartnersQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Vista Outdoor Inc. 
+ Ticker: VSTO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CooperCreekPartnersQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Perspecta Inc. 
+ Ticker: PRSP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CooperCreekPartnersQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cloudera, Inc. 
+ Ticker: CLDR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CooperCreekPartnersQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AbbVie Inc. 
+ Ticker: ABBV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CopernicusCapitalManagement_BorghesePartnersQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fate Therapeutics, Inc. 
+ Ticker: FATE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CopernicusCapitalManagement_BorghesePartnersQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Vertex Pharmaceuticals Incorporated 
+ Ticker: VRTX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CopernicusCapitalManagement_BorghesePartnersQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: BioMarin Pharmaceutical Inc. 
+ Ticker: BMRN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CopernicusCapitalManagement_BorghesePartnersQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: V.F. Corporation 
+ Ticker: VFC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CVET_Presentation_6_2020__MoI.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Chewy, Inc. 
+ Ticker: CHWY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CVET_Presentation_6_2020__MoI.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Henry Schein, Inc. 
+ Ticker: HSIC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['CVET_Presentation_6_2020__MoI.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Chefs' Warehouse, Inc. 
+ Ticker: CHEF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['David-Capital-Partners-LLC-Letter-on-COVID-19-2020-Q2-1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Sysco Corporation 
+ Ticker: SYY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['David-Capital-Partners-LLC-Letter-on-COVID-19-2020-Q2-1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: US Foods Holding Corp. 
+ Ticker: USFD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['David-Capital-Partners-LLC-Letter-on-COVID-19-2020-Q2-1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: RH 
+ Ticker: RH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Dockyard2020.Q2.Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cypress Semiconductor Corporation 
+ Ticker: CY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['DPMCapitalQuarterlyLetter-Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tempur Sealy International, Inc. 
+ Ticker: TPX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['DynamoFundReport-202006.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Comerica Incorporated 
+ Ticker: CMA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['DynamoFundReport-202006.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Rubicon Project, Inc. 
+ Ticker: RUBI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EdenbrookCapital_Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Telaria, Inc. 
+ Ticker: TLRA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EdenbrookCapital_Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: ServiceSource International, Inc. 
+ Ticker: SREV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EdenbrookCapital_Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Haynes International, Inc. 
+ Ticker: HAYN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EdenbrookCapital_Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Brightcove Inc. 
+ Ticker: BCOV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EdenbrookCapital_Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Dycom Industries, Inc. 
+ Ticker: DY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Edgbaston2020-06EIPInvestmentLetter&FactSheet-FINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lowe's Companies, Inc. 
+ Ticker: LOW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Berkshire Hathaway Inc. 
+ Ticker: BRK.B 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Starbucks Corporation 
+ Ticker: SBUX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: GMS Inc. 
+ Ticker: GMS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ares Management Corporation 
+ Ticker: ARES 
+ Total Mentions: 1 
+ Letters Mentioned In: ['EzraFund_2Q_2020_LPLetter_Update.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CMS Energy Corporation 
+ Ticker: CMS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FarmsteadCapital-Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hersha Hospitality Trust 
+ Ticker: HT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FarViewFVP_H120_Letter_Final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Johnson & Johnson 
+ Ticker: JNJ 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FHAMonthlyInsights202005.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AMAG Pharmaceuticals, Inc. 
+ Ticker: AMAG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FINCapitalQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Teladoc Health, Inc. 
+ Ticker: TDOC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FINCapitalQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Weyerhaeuser Company 
+ Ticker: WY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FlatFootedCorrespondence5.18.20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Herman Miller, Inc. 
+ Ticker: MLHR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ForagerFundletter(I)2020Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Travelzoo 
+ Ticker: TZOO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ForagerFundletter(I)2020Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: BRP Group, Inc. 
+ Ticker: BRP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ForagerFundletter(I)2020Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Pluralsight, Inc. 
+ Ticker: PS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FourthSailFundsInvestorNewsletter2020_Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Guggenheim Strategic Opportunities Fund 
+ Ticker: GOF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FPAGlobalFund20201H.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: iShares Trust - iShares International Developed Property ETF 
+ Ticker: WPS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FranchiseFund-Apr2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Exxon Mobil Corporation 
+ Ticker: XOM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['FranchiseFund-June2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Aramark 
+ Ticker: ARMK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tiffany & Co. 
+ Ticker: TIF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Collier Creek Holdings 
+ Ticker: CCH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: ARYA Sciences Acquisition Corp. 
+ Ticker: ARYA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GovernorsLaneLPSecondQuarter2020Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: TPI Composites, Inc. 
+ Ticker: TPIC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrandSlam-June2020-ResultsLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Trecora Resources 
+ Ticker: TREC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrandSlam-May2020-ResultsLetter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Emergent BioSolutions Inc. 
+ Ticker: EBS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrandSlam-May2020-ResultsLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: SharpSpring, Inc. 
+ Ticker: SHSP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreenhavenRoadCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lands' End, Inc. 
+ Ticker: LE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreenhavenRoadCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Gogo Inc. 
+ Ticker: GOGO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreenhavenRoadCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Elastic N.V. 
+ Ticker: ESTC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreenhavenRoadCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Restaurant Brands International Inc. 
+ Ticker: QSR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreenhavenRoadCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: iHeartMedia, Inc. 
+ Ticker: IHRT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreenstonePartnersQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CRH Medical Corporation 
+ Ticker: CRHM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreystoneCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hill International, Inc. 
+ Ticker: HIL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreystoneCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: RCI Hospitality Holdings, Inc. 
+ Ticker: RICK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreystoneCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Resolute Forest Products Inc. 
+ Ticker: RFP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreystoneCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: EMCOR Group, Inc. 
+ Ticker: EME 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GreystoneCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Unisys Corporation 
+ Ticker: UIS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrizzlyRockQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: InterDigital, Inc. 
+ Ticker: IDCC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrizzlyRockQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Darling Ingredients Inc. 
+ Ticker: DAR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrizzlyRockQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Euronav NV 
+ Ticker: EURN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GrizzlyRockQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Agree Realty Corporation 
+ Ticker: ADC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GTPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Arvinas, Inc. 
+ Ticker: ARVN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GTPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mersana Therapeutics, Inc. 
+ Ticker: MRSN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GTPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Myovant Sciences Ltd. 
+ Ticker: MYOV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GTPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Momenta Pharmaceuticals, Inc. 
+ Ticker: MNTA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['GTPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CommScope Holding Company, Inc. 
+ Ticker: COMM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HardingLoevnerQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: EPAM Systems, Inc. 
+ Ticker: EPAM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HardingLoevnerQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Box, Inc. 
+ Ticker: BOX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HFA042920.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Sirius International Insurance Group, Ltd. 
+ Ticker: SG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HFA042920.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CME Group Inc. 
+ Ticker: CME 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HFA042920.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: At Home Group Inc. 
+ Ticker: HOME 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HFA060320.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: DocuSign, Inc. 
+ Ticker: DOCU 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Bill.com Holdings, Inc. 
+ Ticker: BILL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Okta, Inc. 
+ Ticker: OKTA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ross Stores, Inc. 
+ Ticker: ROST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HighsideQ2_2020vFINAL.01.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Colgate-Palmolive Company 
+ Ticker: CL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HSBC29.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Axos Financial, Inc. 
+ Ticker: AX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HSBC29.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Boston Beer Company, Inc. 
+ Ticker: SAM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HSBC29.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: American Campus Communities, Inc. 
+ Ticker: ACC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HSBC29.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: KLX Energy Services Holdings, Inc. 
+ Ticker: KLXE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HunterCapital2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cornerstone Building Brands, Inc. 
+ Ticker: CNR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['HVS+2020+Q2+-+Blue+Tower.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: YUM! Brands, Inc. 
+ Ticker: YUM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['InclineGlobalQ22020Commentary.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: FleetCor Technologies, Inc. 
+ Ticker: FLT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['InclineGlobalQ22020Commentary.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Morgan Stanley Emerging Markets Debt Fund, Inc. 
+ Ticker: MSD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['InclineGlobalQ22020Commentary.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: iShares Trust - iShares Expanded Tech Sector ETF 
+ Ticker: IGM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['InclineGlobalQ22020Commentary.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Teradyne, Inc. 
+ Ticker: TER 
+ Total Mentions: 1 
+ Letters Mentioned In: ['IndependentSecuritiesIGFFMDDJune2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Franklin Street Properties Corp. 
+ Ticker: FSP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['IndependentSecuritiesIGFFMDDJune2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Regions Financial Corporation 
+ Ticker: RF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['IndependentSecuritiesIGFFMDDJune2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Phillips 66 
+ Ticker: PSX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KingswayFCFFund_Q22020letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Entercom Communications Corp. 
+ Ticker: ETM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KippingtonCapitalH12020PartnerLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Morgan Stanley 
+ Ticker: MS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KippingtonCapitalH12020PartnerLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Aspen Group, Inc. 
+ Ticker: ASPU 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KippingtonCapitalH12020PartnerLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Acamar Partners Acquisition Corp. 
+ Ticker: ACAM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KippingtonCapitalH12020PartnerLetter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Boot Barn Holdings, Inc. 
+ Ticker: BOOT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KippingtonCapitalH12020PartnerLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lakeland Financial Corporation 
+ Ticker: LKFN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['KippingtonCapitalH12020PartnerLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ubiquiti Inc. 
+ Ticker: UI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Kora_2020Q2_Letter_020383.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Marathon Oil Corporation 
+ Ticker: MRO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LakewoodCapital_2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Scorpio Bulkers Inc. 
+ Ticker: SALT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LandB-NYC-Office-Facing-Existential-Hurricane-1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Empire State Realty Trust, Inc. 
+ Ticker: ESRT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LandB-NYC-Office-Facing-Existential-Hurricane-1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CBRE Group, Inc. 
+ Ticker: CBRE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LandB-NYC-Office-Facing-Existential-Hurricane-1.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: XPO Logistics, Inc. 
+ Ticker: XPO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LansingManagementQ22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Camping World Holdings, Inc. 
+ Ticker: CWH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LaughingWaterCapital1H2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lamar Advertising Company (REIT) 
+ Ticker: LAMR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LaughingWaterCapital1H2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lennar Corporation 
+ Ticker: LEN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LHQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Owens Corning 
+ Ticker: OC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LHQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tractor Supply Company 
+ Ticker: TSCO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LHQ22020QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Harsco Corporation 
+ Ticker: HSC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Rogers Corporation 
+ Ticker: ROG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: US Ecology, Inc. 
+ Ticker: ECOL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: nLIGHT, Inc. 
+ Ticker: LASR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Solaris Oilfield Infrastructure, Inc. 
+ Ticker: SOI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Colfax Corporation 
+ Ticker: CFX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: frontdoor, inc. 
+ Ticker: FTDR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tecnoglass Inc. 
+ Ticker: TGLS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Norwegian Cruise Line Holdings Ltd. 
+ Ticker: NCLH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ingevity Corporation 
+ Ticker: NGVT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Thor Industries, Inc. 
+ Ticker: THO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: LCI Industries 
+ Ticker: LCII 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Liberty2Q-20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Conagra Brands, Inc. 
+ Ticker: CAG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Linde plc 
+ Ticker: LIN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: S&P Global Inc. 
+ Ticker: SPGI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Verizon Communications Inc. 
+ Ticker: VZ 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Campbell Soup Company 
+ Ticker: CPB 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The J. M. Smucker Company 
+ Ticker: SJM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hecla Mining Company 
+ Ticker: HL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['LocustWoodCapital.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Metalla Royalty & Streaming Ltd. 
+ Ticker: MTA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Manole2q2020MANOLEnewsletterPart21_2.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Turning Point Brands, Inc. 
+ Ticker: TPB 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaranPartnersFundLP2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Clarus Corporation 
+ Ticker: CLAR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaranPartnersFundLP2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Standard Diversified Inc. 
+ Ticker: SDI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaranPartnersFundLP2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Whirlpool Corporation 
+ Ticker: WHR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: United Parcel Service, Inc. 
+ Ticker: UPS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Axalta Coating Systems Ltd. 
+ Ticker: AXTA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Snap-on Incorporated 
+ Ticker: SNA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Rockwell Automation, Inc. 
+ Ticker: ROK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Invesco Actively Managed Exchange-Traded Fund Trust - Invesco Active U.S. Real Estate ETF 
+ Ticker: PSR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MaximusLettertoInvestors-May2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: 3M Company 
+ Ticker: MMM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: L3Harris Technologies, Inc. 
+ Ticker: LHX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: International Flavors & Fragrances Inc. 
+ Ticker: IFF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Deere & Company 
+ Ticker: DE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Johnson Controls International plc 
+ Ticker: JCI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Maximus_Letter_to_Investors_July_2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cooper-Standard Holdings Inc. 
+ Ticker: CPS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Vector Group Ltd. 
+ Ticker: VGR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Proto Labs, Inc. 
+ Ticker: PRLB 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AMERCO 
+ Ticker: UHAL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NOW Inc. 
+ Ticker: DNOW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lindblad Expeditions Holdings, Inc. 
+ Ticker: LIND 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Valvoline Inc. 
+ Ticker: VVV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Sterling Construction Company, Inc. 
+ Ticker: STRL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Covanta Holding Corporation 
+ Ticker: CVA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Park-Ohio Holdings Corp. 
+ Ticker: PKOH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MedhinaMay_2020_Letter_vFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: iStar Inc. 
+ Ticker: STAR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MIF-Q2-2020-EN.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: General Dynamics Corporation 
+ Ticker: GD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MillerValuePartners20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Legg Mason, Inc. 
+ Ticker: LM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MillerValuePartnersDeepValue20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NL Industries, Inc. 
+ Ticker: NL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MillerValuePartnersDeepValue20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: iShares Trust - iShares Morningstar Small-Cap Value ETF 
+ Ticker: JKL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MillerValuePartnersFixedIncome20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. 
+ Ticker: DFP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MillerValuePartnersFixedIncome20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Consolidated Edison, Inc. 
+ Ticker: ED 
+ Total Mentions: 1 
+ Letters Mentioned In: ['MillerValuePartnersFixedIncome20202Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Orchid Island Capital, Inc. 
+ Ticker: ORC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['moat20-ryan-oconnor.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Altria Group, Inc. 
+ Ticker: MO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['moat20-ryan-oconnor.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Celestica Inc. 
+ Ticker: CLS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Mountaineer2020Q2QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: SpartanNash Company 
+ Ticker: SPTN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Mountaineer2020Q2QuarterlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Canadian Pacific Railway Limited 
+ Ticker: CP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Newbrook20Q2NBletter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ameresco, Inc. 
+ Ticker: AMRC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NomadicCapitalQ22020.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mercer International Inc. 
+ Ticker: MERC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NomadicCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: UnitedHealth Group Incorporated 
+ Ticker: UNH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NomadicCapitalQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Everest Re Group, Ltd. 
+ Ticker: RE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NVIM.InsuranceLetter.2020.2Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Aon plc 
+ Ticker: AON 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NVIM.InsuranceLetter.2020.2Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cincinnati Financial Corporation 
+ Ticker: CINF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NVIM.InsuranceLetter.2020.2Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Radian Group Inc. 
+ Ticker: RDN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NVIM.InsuranceLetter.2020.2Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Arch Capital Group Ltd. 
+ Ticker: ACGL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['NVIM.InsuranceLetter.2020.2Q.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Halliburton Company 
+ Ticker: HAL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Oil-Service-Companies-at-Extreme-Discounts-4-Final2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: e.l.f. Beauty, Inc. 
+ Ticker: ELF 
+ Total Mentions: 1 
+ Letters Mentioned In: ['OldFarmPartnersQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fulgent Genetics, Inc. 
+ Ticker: FLGT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['OldWestInvestorLetterNo.30-Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Pioneer Diversified High Income Trust 
+ Ticker: HNW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['OneOakSecondQuarter2020PerformanceOverviewandCommentaryFinal.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: H.B. Fuller Company 
+ Ticker: FUL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CBIZ, Inc. 
+ Ticker: CBZ 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Change Healthcare Inc. 
+ Ticker: CHNG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CDK Global, Inc. 
+ Ticker: CDK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Evoqua Water Technologies Corp. 
+ Ticker: AQUA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: ACI Worldwide, Inc. 
+ Ticker: ACIW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Acadia Healthcare Company, Inc. 
+ Ticker: ACHC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Nexstar Media Group, Inc. 
+ Ticker: NXST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Primo Water Corporation 
+ Ticker: PRMW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Outfront Media Inc. 
+ Ticker: OUT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['P2CapitalPartnersLLC-FirstHalf2020Review.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: ResMed Inc. 
+ Ticker: RMD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Pabrai2020Q2.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Constellium SE 
+ Ticker: CSTM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PhilosophyCapitalPartnersLP-Q22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Kaiser Aluminum Corporation 
+ Ticker: KALU 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PhilosophyCapitalPartnersLP-Q22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Edison International 
+ Ticker: EIX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PhilosophyCapitalPartnersLP-Q22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: DHT Holdings, Inc. 
+ Ticker: DHT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PlusTickPartnersQuarterlyLetterQ22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Parker-Hannifin Corporation 
+ Ticker: PH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PPC_Q2_2020_letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Pilgrim's Pride Corporation 
+ Ticker: PPC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PPC_Q2_2020_letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Zix Corporation 
+ Ticker: ZIXI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PPC_Q2_2020_letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Waters Corporation 
+ Ticker: WAT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PPC_Q2_2020_letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: WestRock Company 
+ Ticker: WRK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['PPC_Q2_2020_letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Texas Pacific Land Trust 
+ Ticker: TPL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Quarterly-Commentary_Q2-2020.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Farmland Partners Inc. 
+ Ticker: FPI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Invesco Exchange-Traded Fund Trust II - Invesco Global Water ETF 
+ Ticker: PIO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Novavax, Inc. 
+ Ticker: NVAX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Axsome Therapeutics, Inc. 
+ Ticker: AXSM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Bio-Rad Laboratories, Inc. 
+ Ticker: BIO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['RA_Capital_Q2_2020_Investor_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Red Rock Resorts, Inc. 
+ Ticker: RRR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['REBEMFFLPJune2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Seabridge Gold Inc. 
+ Ticker: SA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['REBEMFFLPJune2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Viemed Healthcare, Inc. 
+ Ticker: VMD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['RichieCapitalRCGJune2020InvestorLettervF-TheMarketLooksForward.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Grand Canyon Education, Inc. 
+ Ticker: LOPE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Upwork Inc. 
+ Ticker: UPWK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Seaboard Corporation 
+ Ticker: SEB 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Walker & Dunlop, Inc. 
+ Ticker: WD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fiverr International Ltd. 
+ Ticker: FVRR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ceridian HCM Holding Inc. 
+ Ticker: CDAY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Gold Standard Ventures Corp 
+ Ticker: GSV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SabrepointCapitalPartnersLPQ22020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Stellus Capital Investment Corporation 
+ Ticker: SCM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SCMQ22020Letter-Confidential.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Public Service Enterprise Group Incorporated 
+ Ticker: PEG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SCMQ22020Letter-Confidential.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: PROS Holdings, Inc. 
+ Ticker: PRO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SelectEquityGroup-OnCOVID-19.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Royal Caribbean Cruises Ltd. 
+ Ticker: RCL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SerdikaAdvisorsJune2020MonthlyLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Caesars Entertainment Corporation 
+ Ticker: CZR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Carnival Corporation & Plc 
+ Ticker: CCL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cintas Corporation 
+ Ticker: CTAS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mattel, Inc. 
+ Ticker: MAT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Medifast, Inc. 
+ Ticker: MED 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: O-I Glass, Inc. 
+ Ticker: OI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['SilverRingValuePartners_2020Q2_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Nuveen Enhanced Municipal Value Fund 
+ Ticker: NEV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['StanphylCapitalLetter-April2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: First Trust Exchange-Traded AlphaDEX Fund - First Trust Multi Cap Growth AlphaDEX Fund 
+ Ticker: FAD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: International Money Express, Inc. 
+ Ticker: IMXI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Seritage Growth Properties 
+ Ticker: SRG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Washington Prime Group Inc. 
+ Ticker: WPG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Bed Bath & Beyond Inc. 
+ Ticker: BBBY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Matthews International Corporation 
+ Ticker: MATW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: WD-40 Company 
+ Ticker: WDFC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Diamond Offshore Drilling, Inc. 
+ Ticker: DO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Pennsylvania Real Estate Investment Trust 
+ Ticker: PEI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lannett Company, Inc. 
+ Ticker: LCI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MoneyGram International, Inc. 
+ Ticker: MGI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Denbury Resources Inc. 
+ Ticker: DNR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fortress Transportation and Infrastructure Investors LLC 
+ Ticker: FTAI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steamboat20202QFINAL.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Anterix Inc. 
+ Ticker: ATEX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steel_City_Capital_2Q_20_Partner_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Trupanion, Inc. 
+ Ticker: TRUP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Steel_City_Capital_2Q_20_Partner_Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Micron Technology, Inc. 
+ Ticker: MU 
+ Total Mentions: 1 
+ Letters Mentioned In: ['StoneOakOppFundQ22020Letter-Final-Signed.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Assertio Therapeutics, Inc. 
+ Ticker: ASRT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Intersect ENT, Inc. 
+ Ticker: XENT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Medtronic plc 
+ Ticker: MDT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Envista Holdings Corporation 
+ Ticker: NVST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: BioSpecifics Technologies Corp. 
+ Ticker: BSTC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Alexion Pharmaceuticals, Inc. 
+ Ticker: ALXN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Endo International plc 
+ Ticker: ENDP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Summers2Q20InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Pacira BioSciences, Inc. 
+ Ticker: PCRX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hologic, Inc. 
+ Ticker: HOLX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Quest Diagnostics Incorporated 
+ Ticker: DGX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: United Therapeutics Corporation 
+ Ticker: UTHR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Perrigo Company plc 
+ Ticker: PRGO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AtriCure, Inc. 
+ Ticker: ATRC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Rigel Pharmaceuticals, Inc. 
+ Ticker: RIGL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Tandem Diabetes Care, Inc. 
+ Ticker: TNDM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: IDEXX Laboratories, Inc. 
+ Ticker: IDXX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Allscripts Healthcare Solutions, Inc. 
+ Ticker: MDRX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: ICU Medical, Inc. 
+ Ticker: ICUI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cardiovascular Systems, Inc. 
+ Ticker: CSII 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Becton, Dickinson and Company 
+ Ticker: BDX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Heron Therapeutics, Inc. 
+ Ticker: HRTX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Tamarack2020_2q_TCMHC.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Avalara, Inc. 
+ Ticker: AVLR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['taovalue_2020_q2_final.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: HollyFrontier Corporation 
+ Ticker: HFC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['TheArgosTimes-Speed,StrengthandSuperiorTrackingSkills7.27.2020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Carpenter Technology Corporation 
+ Ticker: CRS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['THGV2020Semi-AnnualReport.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NetApp, Inc. 
+ Ticker: NTAP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['TigerLegatusInvestorLetter_Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Yandex N.V. 
+ Ticker: YNDX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['TigerLegatusInvestorLetter_Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Motorola Solutions, Inc. 
+ Ticker: MSI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['TigerLegatusInvestorLetter_Q22020.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Impinj, Inc. 
+ Ticker: PI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Twilio Inc. 
+ Ticker: TWLO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Viavi Solutions Inc. 
+ Ticker: VIAV 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: eHealth, Inc. 
+ Ticker: EHTH 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: SailPoint Technologies Holdings, Inc. 
+ Ticker: SAIL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mitek Systems, Inc. 
+ Ticker: MITK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Costco Wholesale Corporation 
+ Ticker: COST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Palo Alto Networks, Inc. 
+ Ticker: PANW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ToronadoFund-InvestorLetter(2020-Q2).pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hillenbrand, Inc. 
+ Ticker: HI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['TPEPQuarterlyLetter_2Q20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Montage Resources Corporation 
+ Ticker: MR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['uncertainty.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Adams Resources & Energy, Inc. 
+ Ticker: AE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['uncertainty.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Noble Corporation plc 
+ Ticker: NE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['uncertainty.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Neuberger Berman High Yield Strategies Fund Inc. 
+ Ticker: NHS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['uncertainty.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: SPDR S&P MidCap 400 ETF Trust 
+ Ticker: MDY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Upslope+-+2020Q2+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Dollar Tree, Inc. 
+ Ticker: DLTR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Upslope+-+2020Q2+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Beyond Meat, Inc. 
+ Ticker: BYND 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Upslope+-+2020Q2+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Crown Holdings, Inc. 
+ Ticker: CCK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Upslope+-+2020Q2+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MarketAxess Holdings Inc. 
+ Ticker: MKTX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Upslope+-+2020Q2+Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Repay Holdings Corporation 
+ Ticker: RPAY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: AdaptHealth Corp. 
+ Ticker: AHCO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Virgin Galactic Holdings, Inc. 
+ Ticker: SPCE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Verra Mobility Corporation 
+ Ticker: VRRM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['US-SPAC-Primer_1Jun20.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Park Hotels & Resorts Inc. 
+ Ticker: PK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: American Tower Corporation (REIT) 
+ Ticker: AMT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Santander Consumer USA Holdings Inc. 
+ Ticker: SC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Constellation Brands, Inc. 
+ Ticker: STZ 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The Bank of New York Mellon Corporation 
+ Ticker: BK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Pinterest, Inc. 
+ Ticker: PINS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Bonanza Creek Energy, Inc. 
+ Ticker: BCEI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Franklin Universal Trust 
+ Ticker: FT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: American Express Company 
+ Ticker: AXP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Southwest Gas Holdings, Inc. 
+ Ticker: SWX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200430.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Dollar General Corporation 
+ Ticker: DG 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MasTec, Inc. 
+ Ticker: MTZ 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: TripAdvisor, Inc. 
+ Ticker: TRIP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Anthem, Inc. 
+ Ticker: ANTM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: IMAX Corporation 
+ Ticker: IMAX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: News Corporation 
+ Ticker: NWSA 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: MSC Industrial Direct Co., Inc. 
+ Ticker: MSM 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: G-III Apparel Group, Ltd. 
+ Ticker: GIII 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Fabrinet 
+ Ticker: FN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Powell Industries, Inc. 
+ Ticker: POWL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NACCO Industries, Inc. 
+ Ticker: NC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200531.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Huntington Bancshares Incorporated 
+ Ticker: HBAN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hudson Pacific Properties, Inc. 
+ Ticker: HPP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Donaldson Company, Inc. 
+ Ticker: DCI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Cinemark Holdings, Inc. 
+ Ticker: CNK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Host Hotels & Resorts, Inc. 
+ Ticker: HST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ollie's Bargain Outlet Holdings, Inc. 
+ Ticker: OLLI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Watsco, Inc. 
+ Ticker: WSO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Automatic Data Processing, Inc. 
+ Ticker: ADP 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0.2 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Broadridge Financial Solutions, Inc. 
+ Ticker: BR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: United Bankshares, Inc. 
+ Ticker: UBSI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Mohawk Industries, Inc. 
+ Ticker: MHK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: bluebird bio, Inc. 
+ Ticker: BLUE 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Energizer Holdings, Inc. 
+ Ticker: ENR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['ValueInvestorInsight-Issue_20200630.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Argo Group International Holdings, Ltd. 
+ Ticker: ARGO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCP2Q20Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Calix, Inc. 
+ Ticker: CALX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCP2Q20Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: On Deck Capital, Inc. 
+ Ticker: ONDK 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCP2Q20Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Hanger, Inc. 
+ Ticker: HNGR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCP2Q20Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: RadNet, Inc. 
+ Ticker: RDNT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCP2Q20Review.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: NVR, Inc. 
+ Ticker: NVR 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Gannett Co., Inc. 
+ Ticker: GCI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: The PNC Financial Services Group, Inc. 
+ Ticker: PNC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Allegiant Travel Company 
+ Ticker: ALGT 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VCPQ22020fr.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Vistra Energy Corp. 
+ Ticker: VST 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VECIndiaInvestorLetterMay2020.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Ebix, Inc. 
+ Ticker: EBIX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['VECIndiaInvestorLetterMay2020.pdf'] 
+ Mean Sentiment: 0.3 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: WESCO International, Inc. 
+ Ticker: WCC 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WebsCreek-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: WPX Energy, Inc. 
+ Ticker: WPX 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WebsCreek-Q22020InvestorLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: CDW Corporation 
+ Ticker: CDW 
+ Total Mentions: 1 
+ Letters Mentioned In: ['Wedgewood2Q2020-InFedWeTrust.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: EXFO Inc. 
+ Ticker: EXFO 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WesterlyMay2020UpdateandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: eGain Corporation 
+ Ticker: EGAN 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WesterlyMay2020UpdateandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Endurance International Group Holdings, Inc. 
+ Ticker: EIGI 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WesterlyMay2020UpdateandLetter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Alliance Data Systems Corporation 
+ Ticker: ADS 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WestHall2Q2020Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Lithia Motors, Inc. 
+ Ticker: LAD 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0.1 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Toll Brothers, Inc. 
+ Ticker: TOL 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
+Company Name: Occidental Petroleum Corporation 
+ Ticker: OXY 
+ Total Mentions: 1 
+ Letters Mentioned In: ['WHCM2020Q2Letter.pdf'] 
+ Mean Sentiment: 0 
+ Std. Dev Sentiment: 0 
+ 
